@@ -1467,7 +1467,7 @@ The supply shuttle from the lunar facility docked with the Morningstar at three 
 
 He was a boy with pale hair, in a white flight suit a size too big for him, and he had no luggage. The crew had been told to expect him. They had not been told what he was. They lined the docking corridor in their gray station uniforms and watched him come through the lock, and he smiled at each of them as he passed, as if he were glad to see them, as if he had known them a long time.
 
-The station commander walked him down the spine of the station himself, to a sealed bay near its heart, where something silver stood in a cradle under frost. Then on, to a second door, and behind it a case as long as a unit was tall. It had come up from the lunar dig a month before him, on a shuttle with no other cargo, from under Sariel's fourth rib.
+The station commander walked him down the spine of the station himself, to a sealed bay near its heart, where something silver stood in a cradle under frost. Then on, to a second door, and behind it a case as long as a unit was tall. It had come up from the lunar dig a month before him, on a shuttle with no other cargo, from under Sariel's fourth rib. It hadn't been driven into the saint like the others. Sariel had been holding it against its chest, the way you hold on to something.
 
 "Your orders come from the Conclave," the commander said. "Not from Umbral. Not from anyone on the ground."
 
@@ -1963,15 +1963,15 @@ It hung there in the air, trembling, the way a compass needle trembles when you 
 
 The sword felt that. It didn't know what a door was for. It only knew that someone very close wanted something more than anything had ever wanted anything, and that to keep it, she would need the door open.
 
-It turned in the air, slowly, point down, toward the glow at the bottom of the shaft. And it went back down the way it had come, into the Root to the hilt, the way a key goes into a lock.
+It turned in the air, slowly, until its point faced Navis instead of its edge. And it went in. Not like a blade. It slid into Navis's chest the way a key slides into a lock it was cut for, and the flickering fire went with it, all the way in, until there was nothing left outside but light, and the sword was part of the thing it had come to stop.
 
-Below the shaft, the doors of the Reliquary melted.
+Then it turned.
 
-The Root opened like an eye.
+At the bottom of the shaft, the Root opened like an eye.
 
-It was the size of a house, pale as the inside of a shell, curled and folded in on itself like something not yet born, and it had been asleep under Hakobune for forty-five years, and now it opened. The warp drives, what was left of them, the door built around it, tore wide. And above Hakobune, the night sky turned white.
+It was the size of a house, pale as the inside of a shell, curled and folded in on itself like something not yet born, and it had been asleep under Hakobune for forty-five years, and now it opened. The warp drives built around it, what was left of them, shook themselves apart. And above Navis, above Hakobune, the night sky turned white.
 
-Then gold. Then a color there was no word for, a color like the inside of a bell when it's struck. And a seam opened straight down the center of the sky, from the top of the world to the hills, a long vertical line of light, slowly widening, like a door.
+Then gold. Then a color there was no word for, a color like the inside of a bell when it's struck. And a seam opened straight down the center of the sky, from the top of the world to a point just above Navis's ring of light, a long vertical line of light, slowly widening, like a door. There was nothing there to open. It opened anyway.
 
 The saints answered.
 
@@ -2009,15 +2009,17 @@ Unit 06 came down through what light was left like a dropped star. Silver, silen
 
 Its pilot was a boy with pale hair. He was smiling.
 
-He drove the Sword straight down through the halo over Navis and into the heart of the thing it had become.
+He drove the Sword straight down through the halo over Navis and into the heart of the thing it had become, to where the other sword had gone in, the way you'd put a second key into a lock to turn the first one back.
 
 To stop it, he had to touch it. There was no other way; the Sword was only a way in. For one instant his mind went all the way inside, past the burning armor and the open eyes and the ring of light, into the place where the link had closed like a fist. And he felt everything there.
 
 He felt a girl holding another girl in a white room, so happy, happier than he had known a person could be. And underneath them both, deep down, far below the white, he felt a father's rage. Burning like the end of the world. Burning like it had been waiting twenty years for exactly this.
 
-The boy closed his eyes, and let the Sword do what it was made for.
+The boy closed his eyes, and let the Sword do what it was made for. Inside Navis, the key turned back.
 
 The light collapsed. The ring of light over Navis guttered out. The seam in the sky stopped widening and froze, half open, a long bright wound from the top of the world to the hills. The lifted districts hung in the air, upside down, turning slowly, and did not fall. The saints went still. Everything stopped short of completing. Everything stopped right at the edge.
+
+Unit 06 let go of the hilt. It left the Sword where it was, buried in Navis beside the other one, the way you leave a key in a door you never want opened again, and it rose into the white and was gone.
 
 Almost.
 
@@ -2061,7 +2063,7 @@ They fought their way in through a cargo lock. It took the better part of an hou
 
 The heart of the Morningstar was a long, round chamber, cold enough that the air inside it had frozen to the walls. In the center, standing in a cradle wrapped in restraints and frost and black warning tape, was Unit 04.
 
-It wasn't the 04 the boy remembered. It wore a body he knew. Sea-blue, under the frost, scorched black along one side, changed in ways he couldn't name: longer in the arms, with seams along its back where eyes had opened once and closed again. And in its chest, glowing very faintly through the plating like a coal under ash, was 04's core.
+It wasn't the 04 the boy remembered. It wore a body he knew. Sea-blue, under the frost, scorched black along one side, changed in ways he couldn't name: longer in the arms, with seams along its back where eyes had opened once and closed again, and two long scars down the front of it, raw-edged, where something had been cut out. And in its chest, glowing very faintly through the plating like a coal under ash, was 04's core.
 
 He looked at it for one long second.
 
@@ -2177,7 +2179,7 @@ Val stared at him. She couldn't make her mouth work. She couldn't make anything 
 
 "You're alive," Val whispered.
 
-"Yeah. Lucky me." He jerked his chin at the scorched blue body bolted into the wall behind her. "You know where that was? In orbit. On the Morningstar, sealed up like a relic, with you inside it. Umbral's station. The Conclave needed it whole: it's the only exo anybody ever grew out of the Root, and they didn't have another one yet. They couldn't kill it and they couldn't use it, so Umbral froze it up there with nobody aboard. Just guards on Proxy. Somebody had to go up and get this ship's power source." He spread his hands. "And look who came with it. Luck, I presume?"
+"Yeah. Lucky me." He jerked his chin at the scorched blue body bolted into the wall behind her. "You know where that was? In orbit. On the Morningstar, sealed up like a relic, with you inside it. Umbral's station. The Conclave needed it whole: it's the only exo anybody ever grew out of the Root, and both swords were stuck in it, the one that opened the door for you and the one that shut it. Keys don't come out of a lock like that easy. They spent seven years cutting them out. By the time they were done, they'd grown themselves a new body out of the Root, and they stopped caring who was aboard. Just guards on Proxy. Somebody had to go up and get this ship's power source." He spread his hands. "And look who came with it. Luck, I presume?"
 
 He touched the burns on his neck.
 
@@ -3525,7 +3527,7 @@ Val held her breath on the half-second where the vision had cut out, the one she
 
 It wasn't an accusation. It was a fact, laid down between them like a stone.
 
-"There's a sword in the Root," he said. "There has been since the white sky. It keeps the door shut. That's all it does. Put a person and a giant and a piece of Semjaza together in one body, and you've made something that can open the door, and the sword goes to it and locks it." He looked down past the edge, toward the shaft, where the glow beat slowly in the dark. "That night, Navis had all three in it. You. What Navis had torn out of Penemue. And 04. So the sword came up the shaft for you. I saw it from the Morningstar. It stopped this far from Navis's neck." He held up his finger and thumb, a little apart. "A sword keeps a door shut, unless someone near it wants it open more. You wanted her back more than anything has ever wanted anything. So it turned around."
+"There was a sword in the Root," he said. "Since the white sky. It kept the door shut. That's all it does. Put a person and a giant and a piece of Semjaza together in one body, and you've made something that can open the door, and the sword goes to it to keep it shut. There isn't a door, Val. Not one you could touch. It opens wherever the thing that opens it is standing, right over its head." He looked down past the edge, toward the shaft, where the glow beat slowly in the dark. "That night, Navis had all three in it. You. What Navis had torn out of Penemue. And 04. So the sword came up the shaft for you. I saw it from the Morningstar. It stopped this far from Navis's neck." He held up his finger and thumb, a little apart. "A sword keeps a door shut, unless someone near it wants it open more. You wanted her back more than anything has ever wanted anything. So it turned around and went into you instead, like a key, and turned. And the sky opened right above your head."
 
 Somewhere under it, she had always known. She had known on the shelter steps, saying *04 did this* over and over until it was only noise. She had known in the bay with Seus leaning over her. She had known in a hollow's capsule, feeling nothing, choosing nothing, so that nothing would be hers. She had built her whole life since waking on half a sentence, and she had known the whole time that it was half.
 
@@ -3573,7 +3575,7 @@ Val stopped breathing.
 
 "Through the door," Val said.
 
-"The Commander wants it opened." Abriel said it the way he had told her the names of the stars. "He has for a long time. After that night, they put both swords in the Root, the one that turned for you and the one I came down with, so nobody could open it again. Then they grew a body out of the Root, the only other thing on Earth made of what 04 was made of. It took seven years." He nodded down at the ruins, toward the shaft. "It's finished. It's in hangar zero. He asked me to bring you to the swords."
+"The Commander wants it opened." Abriel said it the way he had told her the names of the stars. "He has for a long time. After that night, both swords were still in 04, the one that turned for you and the one I left in the lock behind it. It took them seven years to cut them out. Now they're down in the Reliquary with the Root, where nobody can get at them. And they grew a body out of the Root, the only other thing on Earth made of what 04 was made of. That took seven years too." He nodded down at the ruins, toward the shaft. "It's finished. It's in hangar zero. He asked me to bring you to the swords."
 
 "Why me?"
 
@@ -3709,7 +3711,7 @@ She didn't understand him. She didn't ask. The tone went on under her jaw, thin 
 
 Unit 12 stepped off the cradle and went down.
 
-It fell the way a stone falls into a well, past the broken levels of headquarters, past the scorched frame of the old drive wing, down into the blue, and the glow came up to meet them until the capsule walls were full of it. At the bottom of the shaft, where the Reliquary had been, there were no doors anymore. There was only the Root.
+It fell the way a stone falls into a well, past the broken levels of headquarters, past the scorched frame of the old drive wing, down into the blue, and the glow came up to meet them until the capsule walls were full of it. At the bottom of the shaft was the Reliquary: a basement the size of a cathedral, cut out of the bedrock under headquarters, with nothing in it but cold and the Root.
 
 She had seen it once before, in the Almost, opening like an eye. It was closed now, curled in on itself, pale as the inside of a shell and the size of a house, and frost grew off it in long slow ferns up the walls of the shaft. Two swords stood in it side by side, driven in to the hilt.
 
@@ -3819,13 +3821,13 @@ Abriel didn't stop her. He only said, very quietly, almost to himself, "You alwa
 
 It was a trap. It had always been a trap. And here she was, doing it for them.
 
-Unit 12 reached the seam, and the swords went into it.
+Unit 12 reached the seam, and the swords went into Unit 12.
 
-She didn't push them. They went on their own, out of Unit 12's hands, the way keys go into a lock they were cut for. Both of them were flickering now, the same cold restless fire, so that she couldn't have told anymore which one had been which. Somewhere inside the seam, something turned.
+She didn't push them. They went on their own, out of Unit 12's hands and into its chest, the way keys go into a lock they were cut for. Both of them were flickering now, the same cold restless fire, so that she couldn't have told anymore which one had been which. Somewhere inside Unit 12, inside her, something turned.
 
 The real Third War on Heaven began.
 
-The door opened. Not the half-open seam the Almost had left: wider, and wider, splitting the sky from the hills to the top of the world, as if someone were drawing back a curtain the size of the sky. What came through it this time wasn't light. It was cold. A cold so deep it had a sound, a high singing like a finger run around the rim of a glass, and where it touched the sky, the sky turned to glass. Val watched it happen through Unit 12's eyes. The red haze over the world went clear and hard and then cracked, in long white lines, like ice on a pond when someone steps on it. She knew that sound. She had heard it a hundred times through 04, when a Nephil's seal gave way under her hands. Now it was the whole sky. The clouds froze where they hung and fell, slowly, in pieces, a rain of crystal the size of houses, turning in the light as they came down.
+The door opened, right above their heads, where there was nothing to open. Not the half-open seam the Almost had left: wider, and wider, splitting the sky from the hills to the top of the world, as if someone were drawing back a curtain the size of the sky. What came through it this time wasn't light. It was cold. A cold so deep it had a sound, a high singing like a finger run around the rim of a glass, and where it touched the sky, the sky turned to glass. Val watched it happen through Unit 12's eyes. The red haze over the world went clear and hard and then cracked, in long white lines, like ice on a pond when someone steps on it. She knew that sound. She had heard it a hundred times through 04, when a Nephil's seal gave way under her hands. Now it was the whole sky. The clouds froze where they hung and fell, slowly, in pieces, a rain of crystal the size of houses, turning in the light as they came down.
 
 On the cracked Moon, Sariel opened its eyes.
 
@@ -3953,7 +3955,7 @@ She felt it go through him, through the link: the one thing he had wanted every 
 
 And Val noticed, the way you notice a noise has stopped, that she wasn't wanting the white room anymore either. She hadn't for minutes. She had only wanted him to stay him.
 
-Out in the light, in the lock of the door, one of the two swords stopped flickering. It burned white and still again, like a flame that had forgotten how to flicker, and turned the other way.
+Inside Unit 12, deep in the lock where the two swords had gone in, one of them stopped flickering. It burned white and still again, like a flame that had forgotten how to flicker, and turned the other way.
 
 "Okay," Abriel said quietly, the way you'd say it at the top of a long flight of stairs. "I'm going now. As me."
 
@@ -3973,7 +3975,7 @@ He came apart in her arms. Not all at once: softly, from the edges in, the way f
 
 Val held the place where he had been.
 
-Above them, the door stopped. It hung wide open for a moment longer, very still, as if listening for someone who wasn't coming. It had been waiting for a giant. What came up to it was a boy, and a sword turning the other way in the lock. Then, slowly, from the edges in, it began to close. It drew itself together across the sky, the way a wound closes, until there was only a seam again, and then less than a seam: a long pale scar from the hills to the top of the world, faintly lit, healed over, not gone.
+Above them, the door stopped. It hung wide open for a moment longer, very still, as if listening for someone who wasn't coming. It had been waiting for a giant. What came up to it was a boy, and a sword turning the other way inside him. Then, slowly, from the edges in, it began to close. It drew itself together across the sky, the way a wound closes, until there was only a seam again, and then less than a seam: a long pale scar from the hills to the top of the world, faintly lit, healed over, not gone.
 
 Val watched it close through Unit 12's eyes. She had come all this way to answer a question. The door was closing, and she hadn't answered.
 
@@ -4003,7 +4005,7 @@ He looked up. There was no sign of the Vigil anywhere in the sky. There was no s
 
 "Great," Seus said, to nobody. "Great. That's great."
 
-He found Unit 12 by the long scar it had cut across the ice. It lay at the end of it, black and broken, with crystal frozen in branches down one arm and a white mask split down the middle over its face. Two swords lay in the ice beside it, where they had come down after it. One burned with a cold fire that flickered like a candle in a draft. The other burned perfectly still. The thing behind his eye, which had been laughing all day, went quiet when he passed them, the way a dog goes quiet near a stove it has been burned on. He climbed up its side, slipping, swearing, and got the capsule open with a piece of broken plating.
+He found Unit 12 by the long scar it had cut across the ice. It lay at the end of it, black and broken, with crystal frozen in branches down one arm and a white mask split down the middle over its face. Two swords lay in the ice beside it, where they had fallen out of its chest when the door shut. One burned with a cold fire that flickered like a candle in a draft. The other burned perfectly still. The thing behind his eye, which had been laughing all day, went quiet when he passed them, the way a dog goes quiet near a stove it has been burned on. He climbed up its side, slipping, swearing, and got the capsule open with a piece of broken plating.
 
 Val was inside. She was sitting in the wrong seat, the left one, with frost all over her: in her hair, on her eyelashes, in a white crust over her flight suit. Her arms were up in front of her, curved, frozen in place in the shape of holding someone. There was nobody in them. At her throat, the collar blinked once, slowly, red, looking for a signal that wasn't there.
 
@@ -5215,6 +5217,8 @@ Unit 12 reached out and took Navis.
 
 It didn't strike it. It simply opened, the way a mouth opens, the black glass of its chest unfolding in long petals, and closed around Navis and the boy inside. The frost pouring out of Seus's eye poured into it instead, into the black glass, into the Root-grown flesh and the man in its seat, and the light from Seus's eye went out of the sky.
 
+Unit 12 went back down into the shaft with what it had taken, fast, past the broken levels and the scorched frame of the old drive wing, down into the blue, until it hung above the Root.
+
 At the bottom of the shaft, the swords tore loose from the Root.
 
 They came up out of the frost end over end, like two sparks going up a chimney, the way the first of them had once come up the same shaft for Navis, to stop it. They stopped a hand's width from Unit 12's glass and hung there, side by side, the flickering one and the steady one, and their light lay across the black glass and across the man inside it.
@@ -5223,19 +5227,19 @@ Patrick felt them look at him. There was no other word for it.
 
 He didn't know what they saw. Fourteen years of a folder in his coat. Twenty years of holding. And under all of it, older and plainer than any plan, the thing he had wanted since a hangar at three in the morning: for it to turn out to have been worth something.
 
-The swords turned.
+The swords turned, and went into Unit 12, the way keys go into a lock they were cut for.
 
-The steady one began, very slightly, to flicker.
+Inside it, the steady one began, very slightly, to flicker.
 
 And the door opened.
 
-It opened across the sky and down the shaft at once, the same door seen from both ends. The scar split from the middle outward, the way a seam splits when something pushes against it from inside, and widened, past where it had been in the Almost, past where it had been when Unit 12 touched it the first time, until it filled the horizon, a wall of light from one edge of the world to the other. And at the bottom of the ruins, past the Root, a path of light ran straight down out of the shaft into the heart of it, into the place where everything was going to go. It opened quietly. It opened the way a door opens in a house where someone is sleeping.
+It opened right above Unit 12, deep in the shaft, where there was nothing to open, and it kept opening: straight up the shaft and out of the ruins and along the old scar to the top of the sky. The scar split from the middle outward, the way a seam splits when something pushes against it from inside, and widened, past where it had been in the Almost, past where it had been when Unit 12 touched it the first time, until it filled the horizon, a wall of light from one edge of the world to the other. And at the bottom of it, deep in the shaft where it had begun, just above Unit 12, the light ran down into the heart of it, into the place where everything was going to go. It opened quietly. It opened the way a door opens in a house where someone is sleeping.
 
 Total Assimilation poured out of it, and up toward it.
 
 In Patrick's ear, the Conclave's voices had stopped reading. They were saying his name now, in the tone of men who had just understood that something was wrong.
 
-"Commander Moriah. The door is open. You are to hold it from the shaft. Descending is not on the schedule. You are not authorized to—"
+"Commander Moriah. The door is open. You are to hold it from the shaft. Going through is not on the schedule. You are not authorized to—"
 
 "I held," Patrick said. "The time is right."
 
@@ -5243,7 +5247,7 @@ He cut them off.
 
 Patrick never said a word to his son. He never had.
 
-Then Unit 12 went back down into the shaft and onto the path of light, carrying what it needed, with the two swords going down beside it like lamps carried into a dark house. Behind it, the path stayed open.
+Then Unit 12 went into the light at the bottom of the door, carrying what it needed, with the two swords burning inside it like lamps carried into a dark house. Behind it, the way down stayed open.
 
 ### Arc 69: The Trigger
 
@@ -5601,7 +5605,7 @@ At the center of Heaven was a stair, and at the top of the stair was a throne.
 
 The stair rose out of the middle of all the rooms, out of everything, white and impossibly long, going up and up into a light so bright it had no color, so that you couldn't see the top except as a place where the light was thickest. Every room in Heaven was built around it the way a city is built around a cathedral. Every memory faced it. It was the one thing in Heaven that nobody remembered building.
 
-Unit 12 climbed toward it, carrying the Nephil it had taken from Seus's eye, with the two swords going up beside it, one on either side, both flickering now.
+Unit 12 climbed toward it, carrying the Nephil it had taken from Seus's eye, with the two swords burning inside it, both flickering now.
 
 Val could see it, from inside the Beast, through 04's eyes, which weren't hers anymore. Unit 12 went up the first steps slowly, the way Patrick had gone down the ladder in the shaft, the way a man his age climbs anything. In the open center of its chest, where it had closed around Navis, something was glowing: a cold white light, small and hungry, the same light that had been behind a black patch for six years. The last child. Going home.
 
@@ -5695,7 +5699,7 @@ He did it all at once. Val felt his mind let go of the rage the way a hand lets 
 
 The Beast stopped on the top step, in front of the empty chair, and the fire stopped with it.
 
-Below the stair, beside Unit 12, one of the two swords stopped flickering. Its flame stood up straight and still, the way it had burned in its case before anyone wanted anything from it.
+Below the stair, inside Unit 12, one of the two swords stopped flickering. Its flame stood up straight and still, the way it had burned in its case before anyone wanted anything from it.
 
 Slowly, the rage drew back into itself. It came down off the stair, step by step, a great shape of heat and smoke and old fury going down out of the light, into the center of Heaven, where all the rooms met. And in the center of Heaven, there was a house burning. A small house, in a district by the harbor, two stories, with a laundry pole on the balcony, burning the way it had been burning since the day a giant fell on it, when a boy of seventeen came home from school. The rage went down to it. It went into the fire. And it sat down in the fire, the way a tired man sits down in his own kitchen, and went still.
 
@@ -6509,7 +6513,7 @@ But a door that big couldn't be closed from the outside. It had to be held shut 
 
 She felt it as soon as she'd done it. The new world was forming, out past the edge of the light, she could feel it coming together the way you feel the morning coming before you open your eyes. But the door was still open behind it. It would always be open, unless someone closed it. Shut from out there, it would only be a door with Heaven leaning on it, the way Heaven had leaned on Hakobune for fifty years: the Falls, the frost, the wanting coming through every crack. Shut from in here, there would be nothing on the other side pushing.
 
-And someone had to keep the keys. Down in the light behind them, where Unit 12 had come to rest, the two swords were still burning, one steady and one flickering. As long as they were anywhere in the world, somebody would find a want big enough to turn them.
+And someone had to keep the keys. Down in the light behind them, inside Unit 12 where it had come to rest, the two swords were still burning, one steady and one flickering. As long as they were anywhere in the world, somebody would find a want big enough to turn them.
 
 Someone had to stay outside time and close the door from in here, and take everything that didn't belong in the new world with them when they did: the two swords, the rage, the exos and the giants and whatever had lived inside them. The saints could sleep. Nobody would come for their swords again. Someone just had to stay behind and hold it shut.
 
@@ -6879,7 +6883,43 @@ Sometimes Val remembered another world, the way you remember a dream: a city bui
 
 ## Appendix A: Changelog
 
-Two passes so far, newest first. Revision 2 adds the new lore (the seal, the swords, Heaven's rules, the loops, the three Aprils, the ages, the ending). Revision 1 is the earlier pass of continuity fixes and added beats; where Revision 2 changed something Revision 1 had added, the Revision 2 entry says so.
+Three passes so far, newest first. Revision 3 makes the door to Heaven non-physical and the swords into keys that merge with the opener. Revision 2 adds the new lore (the seal, the swords, Heaven's rules, the loops, the three Aprils, the ages, the ending). Revision 1 is the earlier pass of continuity fixes and added beats; where Revision 2 changed something Revision 1 had added, the Revision 2 entry says so.
+
+### Revision 3: the door and the keys
+
+The door to Heaven is never a physical thing. It opens in the air above whatever exo is the opener. A sword that gives way merges into the opener like a key, and a second sword turned the other way locks it again. The Reliquary is just the huge basement around the Root.
+
+#### Chapter 6: Ask Me Later
+- **[W]** Stinger: the sword came "from under Sariel's fourth rib". It wasn't driven into the saint like the others: "Sariel had been holding it against its chest." That's why taking it woke Sariel's child but not Sariel.
+
+#### Chapter 8: The Third War on Heaven, Almost
+- **[W]** Arc 34: the Root's sword no longer goes back into the Root. It turns and slides into Navis's chest "the way a key slides into a lock it was cut for," then turns. The Root wakes, the warp drives shake themselves apart instead of "the door built around it" tearing wide, and the seam opens down to "a point just above Navis's ring of light... There was nothing there to open. It opened anyway."
+- **[W]** Arc 35: Abriel drives Hope in "to where the other sword had gone in, the way you'd put a second key into a lock to turn the first one back." Then: "Inside Navis, the key turned back."
+- **[W]** Arc 35: new line. Unit 06 leaves the Sword in Navis "the way you leave a key in a door you never want opened again," and is gone.
+
+#### Chapter 9: After
+- **[W]** Arc 36: the Beast has "two long scars down the front of it, raw-edged, where something had been cut out."
+- **[W]** Arc 38: Seus explains that both swords were stuck in 04 and took seven years to cut out. By then Umbral had grown a new body out of the Root, "and they stopped caring who was aboard." That's why the Morningstar was left to Proxy guards.
+
+#### Chapter 13: Not the Same
+- **[W]** Arc 53: Abriel's rule now says the door isn't one you could touch: "It opens wherever the thing that opens it is standing, right over its head." The sword "went into you instead, like a key, and turned. And the sky opened right above your head."
+- **[W]** Arc 53: after the Almost, both swords stayed in 04 ("the one I left in the lock behind it"). They took seven years to cut out and are now "down in the Reliquary with the Root". Unit 12 "took seven years too."
+
+#### Chapter 14: The Third War on Heaven
+- **[W]** Arc 54: the bottom of the shaft is the Reliquary, "a basement the size of a cathedral... with nothing in it but cold and the Root." The line about it having "no doors anymore" is gone.
+- **[W]** Arc 55–56: at the seam, the swords go "out of Unit 12's hands and into its chest," and the door opens "right above their heads, where there was nothing to open." They are no longer pushed into the seam like keys.
+- **[W]** Arc 56: Hope steadies and turns back "inside Unit 12, deep in the lock where the two swords had gone in." Afterward the swords lie in the ice "where they had fallen out of its chest when the door shut."
+
+#### Chapter 16: The Fourth War on Heaven
+- **[W]** Arc 68: Unit 12 takes what pours out of Seus's eye, goes back down the shaft to the Root, and the swords merge into it. The door opens "right above Unit 12, deep in the shaft... straight up the shaft and out of the ruins and along the old scar to the top of the sky."
+  - This replaces "across the sky and down the shaft at once" and the second path of light. The "way down" that Maggie and the Vigil follow is now the bottom of the same door.
+- **[W]** The Conclave's line now reads "Going through is not on the schedule." Unit 12 enters the light "with the two swords burning inside it."
+
+#### Chapter 17: Rooms
+- **[W]** Arc 72: the swords burn inside Unit 12 on the stair, and Hope steadies "inside Unit 12" when Patrick lets go.
+
+#### Chapter 19: The Rewrite
+- **[W]** Arc 80: the two swords are still burning "inside Unit 12 where it had come to rest" when the three shut the door with them.
 
 ### Revision 2: the new lore
 
@@ -7487,14 +7527,14 @@ A quick reference for keeping the next draft consistent. Anything marked *(new)*
 - **Heaven.**
   - A higher plane made of thought and memory, outside time, with no physics. It can be shaped by will and gives you what you want most.
   - It can't tell what happened from what you wish had happened. The tell: real memories have something wrong in them; wished ones are flawless and cast no shadows; the in-between ones flicker.
-  - It touches the universe only through one door, which can't be opened or closed without a war on Heaven.
+  - It touches the universe only through one door, which can't be opened or closed without a war on Heaven. The door is never a physical thing. It opens in the air right above whatever is opening it.
   - The throne at the top of the stair is empty. Whether anyone ever sat on it is never answered.
 - **The swords.**
   - Older than anyone knows. Half alive, and they answer what people want.
-  - One is driven into every saint and keeps it asleep. The Conclave files those as *swords of despair*; their cold fire flickers like a flame in wind.
-  - Sariel's sword is filed as *the sword of hope*. It burns perfectly steady, and starts to flicker when a want turns it (the Third War, the Fourth).
+  - One is driven into every saint and keeps it asleep. Pulling one out starts a war on Heaven nobody can control (2044). The Conclave files those as *swords of despair*; their cold fire flickers like a flame in wind.
+  - Sariel's sword is filed as *the sword of hope*. It was never driven into Sariel; Sariel was holding it, which is why taking it woke his child and not him. It burns perfectly steady, and starts to flicker when a want turns it (the Third War, the Fourth).
   - The rule: a sword keeps a door shut, unless someone near it wants it open more. Hope does the opposite job and shuts a door that's open.
-- **The opener.** Human flesh, nephil flesh and Semjaza flesh merged in one body, with a sword as the key.
+- **The opener.** Human flesh, nephil flesh and Semjaza flesh merged in one body, with a sword as the key. A sword that gives way goes into the opener like a key into a lock and turns, and the door opens above it. A second sword turned the other way inside it locks the door again.
 - **Who stays awake in Heaven.** The Rite took everyone who didn't choose. Val refused it; Sam and Sora were there before it; Patrick walked in; Maggie flew in. Everyone else is seen in their perfect state, the thing they wanted most, just before they blur into one.
 - **Aging.** "Their flesh keeps you, once it's in you past the skin." Maggie (her accident), Val (04, deeper than the link) and Seus (the piece of Penemue in his eye). Graft relics don't stop aging.
 
@@ -7521,10 +7561,10 @@ A quick reference for keeping the next draft consistent. Anything marked *(new)*
 | 2081 | The fever visit (Val is 8). Tom is grafted at 9. |
 | 2082 | In Sam's last year he builds April beside the rage and leaves Patrick the plan with one word: "Hold." He massacres the Graft children; Palindrome (14) reverses his shot and Tom (10) is missed in a basement tank. The Conclave, suspecting him, has been poisoning him. Sam dies at 37. Maggie's standing order. |
 | 2083 | Seus begins training overseas. |
-| 2087 | Val (14) captures Palindrome. Helen Enoch goes through the door at the Root herself. |
+| 2087 | Val (14) captures Palindrome. Helen Enoch walks down to the Root and goes through, one way, herself. |
 | 2088 | Alex (22) arrives as Val's charge. |
-| 2089 | Part One. The lunar dig frees Sariel's sword, and Sariel's child wakes on the Moon. The plant, the new school, Navis, the dinner, the Proxy, the door, the raid, then the Almost (Trumpet Seven): the Root's sword obeys Val, Abriel's Hope shuts the door, and the seam freezes half open. Navis dies; Aoi dies; Val is sealed in the Beast. |
-| 2089–2096 | The seven years. Umbral grows Unit 12 from the Root and holds the Beast on the Morningstar, unmanned. Seus wakes after a year and a half and flies a new core. WAKE builds the Vigil, and Ararat grows. |
+| 2089 | Part One. The lunar dig frees Sariel's sword, and Sariel's child wakes on the Moon. The plant, the new school, Navis, the dinner, the Proxy, the door, the raid, then the Almost (Trumpet Seven): the Root's sword gives way to Val and goes into Navis, the door opens above her, and Abriel's Hope turns the key back and stays in the lock, and the seam freezes half open. Navis dies; Aoi dies; Val is sealed in the Beast. |
+| 2089–2096 | The seven years. Umbral holds the Beast on the Morningstar and spends the seven years cutting both swords out of it, then puts them in the Reliquary with the Root. It grows Unit 12 from the Root over the same years, and by the end leaves the station to Proxy guards. Seus wakes after a year and a half and flies a new core. WAKE builds the Vigil, and Ararat grows. |
 | 2096 | Part Two. The Morningstar falls on Fuji. Ararat and Lantern, then Ararat's fall. The Third War: Hope turns, then steadies, and Abriel dies closing the door. The Settlement in Kasumi. The Fourth War: Patrick opens the door, the Rite, Heaven, and the Rewrite. |
 | After | The rewritten world. The Moon is whole and the saints are resting. Only Seus remembers. |
 
@@ -7613,7 +7653,7 @@ They merge in Heaven. In the new world, Val's little sister is named April.
 
 ### Places
 
-- **Hakobune:** the ark city, built over the Root. It has headquarters, the Reliquary, Hakobune Municipal No. 3 (Class 2-A), the harbor and Hakobune Central station.
+- **Hakobune:** the ark city, built over the Root. It has headquarters, the Reliquary (the huge basement under headquarters where the Root is), Hakobune Municipal No. 3 (Class 2-A), the harbor and Hakobune Central station.
 - **The Morningstar:** Umbral's orbital gun station. It comes down on Mount Fuji in 2096, and Fuji burns a long time after.
 - **Ararat:** WAKE's caldera town around the Vigil.
 - **The Vigil:** WAKE's flying ship.
