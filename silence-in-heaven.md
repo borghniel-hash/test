@@ -1,6 +1,6 @@
 # Silence in Heaven
 
-Revised draft: Chapter 1 through the Epilogue, with the continuity fixes and new beats we agreed on. Your prose is kept wherever it could be; changes are edits, not rewrites. Every change is listed chapter by chapter in **Appendix A: Changelog**. **Appendix B: Story Bible** has the timeline, glossary and unit roster.
+Revised draft, Revision 2: Chapter 1 through the Epilogue, with the continuity fixes, the new beats and the new lore we agreed on. Your prose is kept wherever the plot allowed. Most changes are edits; a few passages (the Almost, the Third and Fourth Wars, the Rewrite) were rewritten where the mechanics changed. Every change is listed chapter by chapter in **Appendix A: Changelog**. **Appendix B: Story Bible** has the timeline, glossary and unit roster.
 
 ## Contents
 
@@ -39,11 +39,13 @@ Revised draft: Chapter 1 through the Epilogue, with the continuity fixes and new
 
 Screens. A news anchor in a pressed collar, and a caption along the bottom of the screen, white on black: SAMUEL KANE, 2045–2082. A grainy archive clip of a seventeen-year-old boy in a flight suit two sizes too big, squinting past the camera, the photo cropped tight so nobody could see what was still burning behind him. A ceremony three years later: the same boy, twenty now, his chest so heavy with medals that a commentator joked about the weight. A Fall over the harbor district, a giant of frost and glass coming down out of the clouds, and a single exo meeting it alone while Units 02 and 03 hung back with nothing left to do. Schoolchildren in yellow hats running a shelter drill under a poster of that exo, drawn small and smiling like a cartoon, though the real thing stood taller than their school, its codename painted across the shoulder in friendly letters: PIPSTICK. A talk-show host asking him, laughing, whether he ever got tired of saving everyone. Samuel Kane smiling at the camera, a little crooked, and saying, "No. I love this city." He meant it. That was the strange thing about Samuel Kane. Even the parts that were a lie, he meant. News flashes, headlines and interview clips stacked on top of one another, all of them about the same man. Samuel Kane, youngest exo pilot in history, at seventeen, years younger than anyone had ever been allowed into a capsule. Samuel Kane, most decorated by twenty. Samuel Kane, who had stopped city-ending Falls with his own hands while his teammates watched. Samuel Kane, the most famous person in the country, who loved Hakobune, the fortress city, more than anyone who lived in it.
 
-In the margins of the footage, the world went on. A ticker crawling under the anchor: SARIEL EXCAVATION REACHES FOURTH RIB — LUNAR FACILITY REPORTS NO ACTIVITY. Another: COLONY EVACUEES MARK 38 YEARS ON EARTH — "WE STILL LOOK UP." A graphic, UMBRAL CONFIRMS THIRD FALL THIS QUARTER, and an anchor saying *Nephilim* the way you'd say *weather*. A street preacher from the Church of the Saints, praying for him on a corner. An evacuation drill in a school gym. A tour group squinting up at the faint, steady star over the harbor while their guide pointed: "That's the Morningstar, folks. Umbral's eye in the sky." A commentator calling him "the greatest since the Second War," and nobody needing to ask which one. The Second War on Heaven: 2044, the three days the night sky turned white and hundreds of millions of people died.
+In the margins of the footage, the world went on. A ticker crawling under the anchor: SARIEL EXCAVATION REACHES FOURTH RIB — LUNAR FACILITY REPORTS NO ACTIVITY. Another: COLONY EVACUEES MARK 38 YEARS ON EARTH — "WE STILL LOOK UP." Another: VETERANS OF THE WARS AFTER THE WHITE SKY MARCH ON THE CAPITAL. A graphic, UMBRAL CONFIRMS THIRD FALL THIS QUARTER, and an anchor saying *Nephilim* the way you'd say *weather*. A street preacher from the Church of the Saints, praying for him on a corner. An evacuation drill in a school gym. A tour group squinting up at the faint, steady star over the harbor while their guide pointed: "That's the Morningstar, folks. Umbral's eye in the sky." A commentator calling him "the greatest since the Second War," and nobody needing to ask which one. The Second War on Heaven: 2044, the three days the night sky turned white and hundreds of millions of people died.
 
 Then a regular night. A regular deployment, details never released. The sky over the city burned so bright that people who remembered 2044 ran into the streets screaming that the white sky had come back. Radio chatter flooded the comms, voices stepping over each other, until one voice in mission control, very calm, said words nobody had ever heard said about him.
 
 Vitals zero. Brain death. And behind it, someone else, not calm at all: *He's gone soft. Oh God, he's gone soft.*
+
+Going soft. Pilots' slang for brain death in the capsule. A seal breaks with the pilot still linked, and the mind behind it runs out like warm wax, and doesn't come back.
 
 The greatest of all time, reduced to a face so frightened he might have been looking at death itself. Yet there were tears in his eyes, as if he were looking at the city one last time. He went soft before his exo exploded. When the recovery teams sifted the wreck the next morning, they found exactly one thing intact.
 
@@ -109,7 +111,7 @@ A Fall over the bay at night, and a gray exo meeting it alone, without a wasted 
 
 There were no posters. Nobody ran shelter drills under a picture of Unit 04. Nobody asked her whether she ever got tired of saving everyone. After a while, nobody asked her anything.
 
-Seven years later, her school was on the east side, a few blocks from the house she had grown up in. At sixteen, she should have been the most popular person in the building: the pilot, Samuel Kane's daughter, on the news twice a month. She wasn't. People were careful around her the way people are careful around a cliff edge, and after a while they had simply stopped coming close. In history class, the teacher was going over 2044 again: the solar superflare, the white sky, the evacuation of the colonies, the founding of the fortress cities. Val sat by the window and played with her pencil, the same scuffed metal one, with a worn logo on its side that nobody at her school recognized.
+Seven years later, her school was on the east side, a few blocks from the house she had grown up in. At sixteen, she should have been the most popular person in the building: the pilot, Samuel Kane's daughter, on the news twice a month. She wasn't. People were careful around her the way people are careful around a cliff edge, and after a while they had simply stopped coming close. In history class, the teacher was going over 2044 again: the solar superflare, the white sky, the evacuation of the colonies, the wars after the white sky, when the countries that were left fought over what was left and nobody would take the refugees, and the fortress cities built at the end of them. Val sat by the window and played with her pencil, the same scuffed metal one, with a worn logo on its side that nobody at her school recognized.
 
 The classroom door slid open. Alex leaned in, wearing his Umbral jacket and the grin he used on teachers. The teacher sighed and excused her.
 
@@ -121,7 +123,7 @@ He looked at her sideways like he wanted to say something about that, and decide
 
 Alex had arrived a year earlier: twenty-two years old, a rookie pilot with a third-generation unit, the newest kind of exo, and a dead mother's last request. On paper, Patrick had signed him on as Val's legal guardian. Umbral, which didn't read Patrick's paperwork, told Val, the senior pilot at fifteen, to look after him, and moved him into the second bedroom of her apartment to make it easy. She did nothing of the kind. Within a week he was making her bento, because he couldn't stand watching her eat convenience-store bread for every meal. Every morning on his way out he said the same thing, *your bento's on the counter*, and most mornings she left it there, and every morning he brought it to the hangar anyway. Somewhere along the way, without either of them saying it, the arrangement turned around. He looked after her. She let him.
 
-Pilots at Umbral trained in everything, comms and logistics and field medicine and mission control, on the theory that anyone who sat in a capsule should know exactly what the people outside it could do. Alex had passed every certification on the first try and treated the whole thing as a joke, which was how Val knew he had worked very hard at it. His mission-control manual still lived on the kitchen table, under the soy sauce. Some mornings he read bits of it aloud in a newscaster's voice, to make her not laugh. *Section Nine. Proxy. In the event of pilot incapacity, mission control may operate a unit directly through its nature. Two keys required.* "Two keys," he'd said, turning the page. "Very dramatic. Who writes these?" She hadn't answered. He hadn't expected her to.
+Pilots at Umbral trained in everything, comms and logistics and field medicine and mission control, on the theory that anyone who sat in a capsule should know exactly what the people outside it could do. Alex had passed every certification on the first try and treated the whole thing as a joke, which was how Val knew he had worked very hard at it. His mission-control manual still lived on the kitchen table, under the soy sauce. Some mornings he read bits of it aloud in a newscaster's voice, to make her not laugh. *Section One. The chassis is the body. The core is the exo. The nature is who the core becomes.* "So the chassis is a shirt," he'd said. "Ross is wearing a shirt. Don't tell him." *Section Nine. Proxy. In the event of pilot incapacity, mission control may operate a unit directly through its nature. Two keys required.* "Two keys," he'd said, turning the page. "Very dramatic. Who writes these?" She hadn't answered. He hadn't expected her to.
 
 Hakobune slid by outside the car window. Shelter entrances every two blocks, painted yellow. Old evacuation signs. Towers built after 2044, with thick walls and small windows. And in the center, rising out of everything, Umbral HQ. Inside, their route to the hangars took them along a sealed wing behind a glass wall, where enormous machines sat under covers. *Experimental warp drives,* said the plaque. *Space Transit Research Division.* Alex knocked on the glass as they passed. "Space travel. Like there's anywhere left to go." Two levels down, an elevator opened briefly onto a corridor that ended in a pair of blast doors stenciled RELIQUARY. Frost had grown across the doors in fern-like patterns, as if the cold were coming from the other side. Val looked at it until the elevator closed.
 
@@ -203,7 +205,7 @@ On the second day, it asked why the sky looked blue during the daytime. It had b
 
 **Day 6.** Its voice smaller than before, it asked her if it had done something wrong.
 
-**Day 7.** Her seventh assimilation session, when fifteen was normal. She had never said anything, and now the questions stopped. 04 had finished assimilating to her. It stopped being curious and followed protocol. It became exactly like her.
+**Day 7.** Her seventh assimilation session, when fifteen was normal. She had never said anything, and now the questions stopped. 04 had finished assimilating to her. It stopped being curious and followed protocol. It became exactly like her. It had learned her. That was all assimilation was. It learned to be as quiet as she was, and then it was quiet back at her, and she got quieter.
 
 Silence in heaven.
 
@@ -217,9 +219,9 @@ Then 04 stopped. It froze mid-motion, arm raised, and stood like a statue.
 
 In mission control, the technicians stared at two numbers that couldn't both be true. The pilot's vitals were flat. The exo was moving. Patrick looked at the screen exactly as long as it took to understand, then reached past the operator and cut the feed. "Seal that footage," he said. "Nobody sees that." Nobody asked him why.
 
-After that it was just Alex. He fought Palindrome alone through the steam, with Ross's voice in his ear calling angles and grumbling about them. Palindrome reversed everything Ross threw at him: the momentum of a punch, the recoil of a rifle, Ross's own footing. When Ross finally pinned him, Palindrome laid one hand on the exo's chest and reversed Ross's power flow straight back into his core. Ross understood what was happening a second before it happened. He vented the overload out through his own left arm, away from Alex's capsule, as much of it as he could. "Don't you dare get sentimental about this," he said.
+After that it was just Alex. He fought Palindrome alone through the steam, with Ross's voice in his ear calling angles and grumbling about them. Palindrome reversed everything Ross threw at him: the momentum of a punch, the recoil of a rifle, Ross's own footing. Ross put up his seal between them, a pane of pale light veined with frost that rang like struck glass whenever anything hit it, and for a while it held. Then Palindrome walked up to it and laid his bare hand flat against it, which no human being should have been able to do, and the frost lines in it ran backward. When Ross finally pinned him, Palindrome laid one hand on the exo's chest and reversed Ross's power flow straight back into his core. Ross understood what was happening a second before it happened. He vented the overload out through his own left arm, away from Alex's capsule, as much of it as he could. "Don't you dare get sentimental about this," he said.
 
-Then the arm blew, and the core after it. The blast tore through the back of the capsule. When the light cleared, both of them were down. Palindrome was crumpled against the pipes, conscious and gray, visibly older than he had been ten minutes before; every reversal cost him time. Alex lay unconscious in what was left of his capsule, his left arm gone below the elbow. Ross's left arm was gone too. Whatever happened to an exo happened, somewhere, to its pilot. Ross had made sure it was only an arm.
+Then the arm blew, and the core after it. The blast tore through the back of the capsule and drove the wall in against Alex's left side. When the light cleared, both of them were down. Palindrome was crumpled against the pipes, conscious and gray, visibly older than he had been ten minutes before; every reversal cost him time. Alex lay unconscious in what was left of his capsule, his left arm gone below the elbow, where the capsule wall had come in on it. Ross's left arm was gone too. Through the link, a pilot felt every wound his exo took, and the pain stopped when the link did. This wasn't that. This was steel, and the arm was simply gone. Ross had made sure it was only an arm.
 
 A sharp stinging sound. Val opened her eyes.
 
@@ -275,7 +277,7 @@ The class representative was a girl named Nanami Fujita. She had a neat ponytail
 
 Val ate alone on the roof. Nanami came up anyway, sat ten feet away and talked about the weather, the cafeteria and the pigeons, as if Val were a radio left on for company. She did it the next day, and the day after that.
 
-On the second day, a boy named Haruto Sakai planted himself in front of her desk with a camera around his neck and his eyes shining. He knew things about Val's life she had never bothered to learn. He told her all of it in one breath. He knew everything about exos. The unit numbers. The three generations and what had changed between them. The shape of a second-gen shoulder joint. The fact that Pipstick's codename had been retired after Samuel Kane died, "like a jersey number, you know?" He asked about 04's chassis. He asked whether the rumors about her sync numbers were true. The days passed as he shared his knowledge. Her father. His mission count, to the decimal. The Nephilim. Nobody knew what they really were, not even Umbral, officially. All anyone knew was that they went for exos first, every single time, like they could smell them. Corruption, which was what happened when a Nephil's frost got into an exo's living tissue and grew there like mold, and which was basically an urban legend, he said, because nobody had ever seen a confirmed case, and also because Umbral sealed everything. The warp drives in the Space Transit wing, which had been test-fired exactly once, and whose test pilots, everyone knew, had *seen things*. What things? He didn't know. Nobody knew. That was what made it good.
+On the second day, a boy named Haruto Sakai planted himself in front of her desk with a camera around his neck and his eyes shining. He knew things about Val's life she had never bothered to learn. He told her all of it in one breath. He knew everything about exos. The unit numbers. The three generations and what had changed between them. The shape of a second-gen shoulder joint. The fact that Pipstick's codename had been retired after Samuel Kane died, "like a jersey number, you know?" He asked about 04's chassis. He asked whether the rumors about her sync numbers were true. The days passed as he shared his knowledge. Her father. His mission count, to the decimal. The Nephilim. Nobody knew what they really were, not even Umbral, officially. All anyone knew was that they went for exos first, every single time, like they could smell them. Seals. Every exo had one, a shield it could raise like a pane of glass you couldn't see until something hit it, and so did every Nephil, which was why no missile in the world had ever done anything to one. Only a seal could break a seal. That was the whole reason exos existed. The frost was theirs, too: a Nephil made its own winter wherever it stood, because it couldn't live in ours. And going soft, which was what pilots called brain death, was when a seal broke with the pilot still linked: it took them with it, and their mind ran out like wax, and it didn't come back. Corruption, which was what happened when a Nephil's frost got into an exo's living tissue and grew there like mold, and which was basically an urban legend, he said, because nobody had ever seen a confirmed case, and also because Umbral sealed everything. The warp drives in the Space Transit wing, which had been test-fired exactly once, and whose test pilots, everyone knew, had *seen things*. What things? He didn't know. Nobody knew. That was what made it good.
 
 He apologized, and then told her more.
 
@@ -297,7 +299,7 @@ The sirens went off during sixth period. Trumpet Three: a Fall over water, on th
 
 The Nephil came down over the river. It was a giant of frost and glass, taller than any building in the district, with a smooth, blank head like a mask carved from ice and arms with too many joints. It moved with a strange urgency, almost clumsy, the way a small child runs through a crowd toward someone it has spotted. It stepped over apartment blocks and through power lines without seeming to notice them. It wasn't going for the city. It was going for 04.
 
-Val met it in the street with a rifle and then with her fists, efficient and cold, exactly as trained. At one point the Nephil got a hand on 04's chest plate, and instead of crushing it, it held it there. Almost gently, as if feeling for a heartbeat. 04 shuddered, and for half a second Val felt something through the link, like someone pressing their ear to a door. Then she broke its arm off.
+Val met it in the street with a rifle, which did nothing, the rounds sparking off its seal like hail off a window, and then with her fists, efficient and cold, exactly as trained. She drove 04's seal against the Nephil's until the frost lines in the two of them ran together and its seal cracked like ice on a pond. At one point the Nephil got a hand on 04's chest plate, and instead of crushing it, it held it there. Almost gently, as if feeling for a heartbeat. 04 shuddered, and for half a second Val felt something through the link, like someone pressing their ear to a door. Then she broke its arm off.
 
 That was when she saw the two kids on the rooftop directly in its path, one with a camera, the other dragging him by the collar. The Nephil swung. Val had no time to think. She dropped 04 to one knee, cracked open the spine capsule, and scooped both of them inside. No pilot was supposed to do that. Passengers caused sync noise, and sync noise caused pain.
 
@@ -437,7 +439,7 @@ Mission control was full of people standing up. Val, in her flight suit, stood a
 
 It was Alex who came up with the plan. He was hunched over the map table with his one hand flat on the glass, and he talked the way he cooked, fast and badly and with total conviction.
 
-"It's a sniper," he said. "So we snipe it. Nothing gets within a kilometer, fine, we don't go within a kilometer. Umbral's got a long gun in storage, the one they built for the Fall that never came. The one that's never been fired at full charge, because firing it at full charge would take more power than the plant makes in an hour."
+"It's a sniper," he said. "So we snipe it. Nothing gets within a kilometer, fine, we don't go within a kilometer. Nothing breaks a seal from range, either. That's the whole problem. Except one thing. Umbral's got a long gun in storage, the one they built for the Fall that never came, to break a seal without touching it. The one that's never been fired at full charge, because firing it at full charge would take more power than the plant makes in an hour."
 
 "The plant's half gone," someone said.
 
@@ -515,7 +517,7 @@ The ring of ice came at the ridge like a storm of knives. Val saw it coming in t
 
 Unit 04 moved.
 
-Not on her command. She hadn't moved a muscle. The exo rolled its own body up and over the gun and over its own spine capsule, over her, and took the storm on its back. Armor screamed. Through the link, Val felt shards punch into the plates along 04's spine like hail through a tin roof, felt them as her own back, felt herself not be hurt because 04 was being hurt instead. It went on for six seconds. It felt much longer.
+Not on her command. She hadn't moved a muscle. Its seal went up over the ridge, a pane of pale light veined with frost, and the first of the storm broke on it, ringing, and the seal bent and held and bent and cracked across like ice on a pond. Then the exo rolled its own body up and over the gun and over its own spine capsule, over her, and took the storm on its back. Armor screamed. Through the link, Val felt shards punch into the plates along 04's spine like hail through a tin roof, felt them as her own back, felt herself not be hurt because 04 was being hurt instead. It went on for six seconds. It felt much longer.
 
 In mission control, Patrick watched the readings and said nothing. The pilot's inputs were flat. The exo was moving. He had seen those two numbers on a screen together once before, at the power plant, and he had sealed the footage. Alex stared at the screen, then turned and stared at Patrick, and Patrick didn't look back at him, and Alex decided not to ask.
 
@@ -533,7 +535,7 @@ She didn't breathe this time. She didn't think about the mask or the cold light 
 
 "Fire."
 
-The light went straight through the Nephil's mask. For a moment the whole thing glowed from the inside, every edge of it lit up like a chandelier, and then it came apart over the reservoir in a slow silent burst of frost and light that hung in the air and drifted down onto the frozen water like the world's largest, quietest firework.
+The light hit the Nephil's seal first. For an instant Val saw it, a pane of frost-light the size of a building standing in front of the mask, and then it cracked from edge to edge, and the light went straight through the Nephil's mask. For a moment the whole thing glowed from the inside, every edge of it lit up like a chandelier, and then it came apart over the reservoir in a slow silent burst of frost and light that hung in the air and drifted down onto the frozen water like the world's largest, quietest firework.
 
 In the shelter, the screen showed it as a white flash and then nothing, and then Lieutenant Sena's voice saying, "Target down. Target down," and the room exploded. People were screaming, hugging, crying. Haruto was shouting into his camera. Akari had run up the stairs and had both arms around her brother and Nanami at once. Kōta, on the top step, was still looking up through the door at the stars, because they were already starting to go out, one district at a time, as the city's lights came back on.
 
@@ -719,13 +721,13 @@ He turned over and faced the other wall.
 
 The Nephil that fell on the eastern harbor split in two the moment Navis cut it down.
 
-It was the first real fight Seus had in Hakobune, and he had been magnificent in it, and he knew it. He'd taken the Nephil apart from the shoulder to the hip in one stroke while Val was still repositioning, and he'd turned around in the shallows with seawater pouring off Navis's armor, already composing the debrief in his head. *Pilot attributes outcome to training.* Then the two halves of the Nephil sat up. Each of them grew back what it was missing, in about a minute and a half. Now there were two.
+It was the first real fight Seus had in Hakobune, and he had been magnificent in it, and he knew it. He'd broken its seal on the first pass, a pane of pale light cracking like ice on a pond, and taken the Nephil apart from the shoulder to the hip in one stroke while Val was still repositioning, and he'd turned around in the shallows with seawater pouring off Navis's armor, already composing the debrief in his head. *Pilot attributes outcome to training.* Then the two halves of the Nephil sat up. Each of them grew back what it was missing, in about a minute and a half. Now there were two.
 
 He cut them both down. They split again. Now there were four, and then there were two again, because the four had folded back into each other the way water folds back together, and by then the whole harbor district was frozen to the waist and Umbral was calling them both back.
 
 "Both of you, back," Alex said. "Seus, *back*. That's the commander's son disobeying an order on an open channel. Want that in your debrief?"
 
-Umbral's analysts figured it out within the hour. The two halves shared one core, swapping it back and forth between them faster than any instrument could track, and the only way to destroy it was to hit both halves at exactly the same moment. Not close. Not near. The same instant, to within a few hundredths of a second, so the core had nowhere to run.
+Umbral's analysts figured it out within the hour. The two halves shared one core, swapping it back and forth between them faster than any instrument could track, and they shared one seal: break it on one half, and it simply closed again over the other. The only way to destroy it was to break both seals and hit both halves at exactly the same moment. Not close. Not near. The same instant, to within a few hundredths of a second, so the core had nowhere to run.
 
 "Two pilots," Patrick said in the briefing, looking at the screen instead of at either of them. "Perfectly synchronized."
 
@@ -787,7 +789,7 @@ Alex, in the kitchen, saw it and didn't say a word.
 
 On the sixth day they went out and did it.
 
-Two exos crossed the frozen harbor side by side. The sea-blue one and the gray one, moving the same way at the same time, as if a single person were wearing both of them. The halves of the Nephil rose to meet them. Val and Seus didn't speak. They didn't need to. The same strike landed on both halves in the same instant, the core had nowhere to go, and the whole frozen thing shattered like a plate dropped on stone.
+Two exos crossed the frozen harbor side by side. The sea-blue one and the gray one, moving the same way at the same time, as if a single person were wearing both of them. The halves of the Nephil rose to meet them, each behind its seal, two panes of pale light in the freezing fog. Val and Seus didn't speak. They didn't need to. Both seals rang and broke in the same instant, the same strike landed on both halves, the core had nowhere to go, and the whole frozen thing shattered like a plate dropped on stone.
 
 In the ops room, people cheered. Aoi put both hands over her mouth.
 
@@ -917,6 +919,10 @@ A pencil crossed something out.
 
 "Placed."
 
+"The book only says two witnesses," said someone at the far end. "It never says who."
+
+"It never does. That's what we're for."
+
 "The father objected."
 
 "The father signed." The reading glasses came off, and were folded, and were set down beside the book. "He always signs."
@@ -951,7 +957,7 @@ They kept him nine levels under headquarters, in a cell lined with dampeners tha
 
 He was sitting on the edge of his bunk with his hands folded, exactly the way he had sat in the rubble of the plant. He looked older than he had there. When she came in, he looked up and smiled the same polite, apologetic smile, and the scar running straight down the center of his face pulled it slightly crooked on both sides at once.
 
-"Every reversal costs time," he said, before she could ask. "I used a great many at the plant. I'm forty-one. I look about sixty, I'm told. The guards are very honest about it."
+"Every reversal costs time," he said, before she could ask. "I used a great many at the plant. I'm twenty-one. I look about sixty, I'm told. The guards are very honest about it."
 
 She stood just inside the door. She didn't sit in the chair they'd left for her.
 
@@ -963,11 +969,17 @@ She hadn't decided that until he said it. "Yes."
 
 "Street slang."
 
-"Street slang," he agreed. "For people like me. People with pieces of dead saints in them. It started as a program, you know. Not slang. A real program, with a budget and a name and a lot of very serious people in very nice offices." He turned his hands over and looked at his palms. "They called it the Graft Program. They wanted pilots who didn't need exos. They took teenagers, mostly orphans from the Falls, nobody anyone would miss, and they sewed relics into them. Fragments of saint. Mine went in here." He touched the scar, forehead to chin. "Some of us got strong. Some of us got fast. One girl could see through walls for about a week, and then she couldn't see anything. I got this." He opened his hand, and the dust in the air above his palm stopped falling and drifted slowly back up toward the ceiling. "Reversal. Everything that touches me goes back the way it came. Even time, a little. Even me."
+"Street slang," he agreed. "For people like me. People with pieces of dead saints in them. It started as a program, you know. Not slang. A real program, with a budget and a name and a lot of very serious people in very nice offices." He turned his hands over and looked at his palms. "They called it the Graft Program. They wanted pilots who didn't need exos: children whose seals were strong enough to stand in front of a Nephil on their own. They took children, mostly orphans from the Falls, nobody anyone would miss, and they sewed relics into them. Fragments of saint. Mine went in here." He touched the scar, forehead to chin. "Some of us got strong. Some of us got fast. One girl could see through walls for about a week, and then she couldn't see anything. I got this." He opened his hand, and the air above his palm went faintly glassy, a pane no bigger than a coin with frost lines in it, and the dust above it stopped falling and drifted slowly back up toward the ceiling. "Reversal. Everything that touches me goes back the way it came. Even time, a little. Even me."
 
 He closed his hand. The dust fell.
 
-"The program was shut down," he said, "on orders from people above Umbral, by a pilot they sent personally to do it. You can guess which pilot. There were twenty-six of us in that facility. Most of us were younger than you are now. He didn't leave anyone alive to testify." The polite smile again. "Except me. I don't think he meant to leave me. I reversed the shot." He folded his hands again. "The program died in that facility. The relics didn't. They still turn up in the harbor district, sewn in by people with no license and very dirty hands, and the street needed a word for what walks out afterward. So. Jinn."
+"That was a seal," Val said. She had seen enough of them over the harbor, pale panes of light ringing when something hit them.
+
+"It's mine," he said. "Turned inside out. That's what the relic does. It takes the thing that keeps you in and points it the other way." He smiled at her face. "You think only the machines have one?"
+
+She didn't answer. He didn't explain.
+
+"The program was shut down," he said, "on orders from people above Umbral, by a pilot they sent personally to do it. You can guess which pilot. There were twenty-six of us in that facility. I was fourteen. Most of us were younger. He didn't leave anyone alive to testify." The polite smile again. "Except me. I don't think he meant to leave me. I reversed the shot." He folded his hands again. "The program died in that facility. The relics didn't. They still turn up in the harbor district, sewn in by people with no license and very dirty hands, and the street needed a word for what walks out afterward. So. Jinn."
 
 Val said nothing.
 
@@ -979,7 +991,7 @@ The dampeners hummed. Somewhere far above them, a door opened and closed.
 
 He looked at her with real surprise, the first real expression she had seen on him.
 
-"The workers never did anything to me," he said. "Your father never once evacuated anything. He fought in whatever district the fight was in, with whoever was standing in it. Fewer people know that than you'd think." He tilted his head. "That's the question you came down here with? Not why I hated him?"
+"The workers never did anything to me," he said. "Your father never once evacuated anything. He fought in whatever district the fight was in, with whoever was standing in it. Fewer people know that than you'd think." He was quiet for a moment. "If I'd killed them, I'd be him." He tilted his head. "That's the question you came down here with? Not why I hated him?"
 
 "I know why you hated him."
 
@@ -987,15 +999,15 @@ He looked at her with real surprise, the first real expression she had seen on h
 
 She stood very still.
 
-"Eleven seconds," Palindrome said. "I counted. I've been counting that man's fights for twenty years. That was him."
+"Eleven seconds," Palindrome said. "I counted. I've been counting that man's fights since I was old enough to count. That was him."
 
 She turned to leave. She had her hand on the door when he spoke again, almost gently, as if he were telling her where she'd dropped something.
 
-"Umbral isn't the top of the ladder. Ask yourself who your commander takes his calls from. They call themselves the Conclave. They keep a book older than Umbral, and they read it like a schedule."
+"Umbral isn't the top of the ladder. It answers to the government, and the government answers to someone too. Ask yourself who your commander takes his calls from. They call themselves the Conclave. They keep a book older than Umbral, and they read it like a schedule."
 
 She didn't turn around. The guard opened the door, and she walked out, and the dampeners stopped humming in her teeth halfway up the stairs.
 
-That night she lay awake on her bed and stared at the ceiling, and for the first time she let herself think it all the way through. Her father had been a murderer, and maybe something worse than the public had ever known: a man who'd fought in districts without clearing them, who'd shot teenagers on orders and called it a mission. And whatever he had been, part of him was still inside the thing she climbed into every day. The thing that had moved for eleven seconds without her. The thing that had rolled over the long gun and taken a storm of ice on its back. She didn't know what that part of him was. She didn't know if it was the part that had shot the teenagers, or some other part. She didn't know if there was another part.
+That night she lay awake on her bed and stared at the ceiling, and for the first time she let herself think it all the way through. Her father had been a murderer, and maybe something worse than the public had ever known: a man who'd fought in districts without clearing them, who'd shot children on orders and called it a mission. And whatever he had been, part of him was still inside the thing she climbed into every day. The thing that had moved for eleven seconds without her. The thing that had rolled over the long gun and taken a storm of ice on its back. She didn't know what that part of him was. She didn't know if it was the part that had shot those children, or some other part. She didn't know if there was another part.
 
 Three days later, Palindrome died in his cell.
 
@@ -1125,7 +1137,7 @@ Val got her arms back. She got her eyes back. She saw Navis stagger back three s
 
 Seus understood what had happened half a second later, when Navis stopped answering him.
 
-He went for the eject. It didn't fire. The corruption had grown through the capsule seals like roots, and the spine capsule was fused shut. On the ops-room screens, mission control's link to Navis had gone dark.
+He went for the eject. It didn't fire. The corruption had grown through the capsule's joints like roots, and the spine capsule was fused shut. On the ops-room screens, mission control's link to Navis had gone dark.
 
 His exo went rogue. The corruption drove it through the port, through the stacked containers and the crane gantries, through a row of warehouses and into a residential block that hadn't finished evacuating. People died. Val watched them die, small dark shapes in the street, and couldn't do anything, because she was still on one knee in the water getting her legs back. Seus was screaming. He was screaming at the controls, at Navis, at the voice that now lived in his walls, at himself.
 
@@ -1161,7 +1173,7 @@ At the comms desk, Aoi didn't move.
 
 "Lieutenant Sena."
 
-Proxy took two keys: the commander's, and a second officer's, so that no one person could ever do it alone. Today the second officer on duty was Aoi.
+Umbral's engineers had built Proxy to take two keys: the commander's, and a second officer's, so that no one person could ever do it alone. Today the second officer on duty was Aoi.
 
 She opened her eyes. She looked across the room at Alex, who didn't look back at her. Then she typed in the code, one key at a time, and pressed enter, and took her hands off the console as if it had burned her.
 
@@ -1345,7 +1357,7 @@ Patrick stood in front of Unit 04, alone.
 
 His tie was pulled loose. His coat was on the floor behind him, where he'd dropped it. He was holding a can of coffee from the vending machine by the door, and his hands were shaking so badly she could hear the liquid slosh from where she stood in the shadows by the entrance.
 
-"You said hold," he said. His voice was hoarse and very quiet. "You said get her in, whatever it costs. I got her in. You said don't ask. I never asked. Not once in seven years did I ask you what it was for. I didn't ask when they took the arm off Enoch. I didn't ask when they wanted her out and I had to lie to their faces to keep her in. I didn't ask."
+"You said hold," he said. His voice was hoarse and very quiet. "You gave me a folder in your own handwriting, every step, and not one page of it said why. And you said hold. You said get her in, whatever it costs. I got her in. You said don't ask. I never asked. Not once in seven years did I ask you what it was for. I didn't ask when they took the arm off Enoch. I didn't ask when they wanted her out and I had to lie to their faces to keep her in. I didn't ask."
 
 The can shook. Coffee spilled over his knuckles. He didn't seem to notice.
 
@@ -1455,7 +1467,7 @@ The supply shuttle from the lunar facility docked with the Morningstar at three 
 
 He was a boy with pale hair, in a white flight suit a size too big for him, and he had no luggage. The crew had been told to expect him. They had not been told what he was. They lined the docking corridor in their gray station uniforms and watched him come through the lock, and he smiled at each of them as he passed, as if he were glad to see them, as if he had known them a long time.
 
-The station commander walked him down the spine of the station himself, to a sealed bay near its heart, where something silver stood in a cradle under frost. Then on, to a second door, and behind it a case as long as a unit was tall.
+The station commander walked him down the spine of the station himself, to a sealed bay near its heart, where something silver stood in a cradle under frost. Then on, to a second door, and behind it a case as long as a unit was tall. It had come up from the lunar dig a month before him, on a shuttle with no other cargo, from under Sariel's fourth rib.
 
 "Your orders come from the Conclave," the commander said. "Not from Umbral. Not from anyone on the ground."
 
@@ -1539,9 +1551,9 @@ He was gaunt. That was the first thing. The posters in the old news footage, the
 
 Some nights he just sat. Some nights he talked to Pip about nothing, about the weather over the harbor, about the canteen's new coffee, the way two old men talk on a bench. And some nights, when Pip had gone quiet the way Pip did in the small hours, a sort of sleep, Sam worked.
 
-04 watched him work. It watched him build something into the core, behind Pip's back, a little at a time, over many nights. A second nature. A room in the house that Pip didn't know about, with the door locked from the inside. 04 could feel the shape of it as it grew: full of heat, full of rage, rage so old and so large it seemed to have no bottom. And in the middle of the rage, something like a plan, laid out in pieces 04 could only half see. Something enormous. Something about a door, and about a war, and about Umbral, and in the center of it, the key that held the whole thing together, the one piece it could see clearly.
+04 watched him work. It watched him build something into the core, behind Pip's back, a little at a time, over many nights. A second nature. A room in the house that Pip didn't know about, with the door locked from the inside. 04 could feel the shape of it as it grew: full of heat, full of rage, rage so old and so large it seemed to have no bottom. And in the middle of the rage, something like a plan, laid out in pieces 04 could only half see. Something enormous. Something about a door, and about a war, and about Umbral, and in the center of it, the one piece the whole thing turned on, the one piece it could see clearly.
 
-The key was Val.
+It was Val.
 
 04 learned it all in a rush, its whole purpose laid out like a map, the way a map is laid out on a table. *This is what you're for.* It felt the shape of the plan settle into it and lock there. It never stayed long enough to learn that Sam changed his mind.
 
@@ -1579,9 +1591,13 @@ Sam didn't say anything for a long time. Then he said, in a voice 04 had never h
 
 "What do you mean?"
 
-"I mean I don't know her. I've seen her twice. I write to her. She doesn't write back. I don't know what she likes. I don't know what her voice sounds like now. I don't..." He stopped.
+"I mean I don't know her. I've seen her twice. I write to her. She doesn't write back. I don't know what she likes. I asked her once, the first time. What her favorite food was. She looked at the floor." He stopped. "I don't know what her voice sounds like now. I don't..."
 
 Pip was quiet. Then he was surprised, and then, slowly, 04 felt it, he was angry. Pip had never been angry at Sam in twenty years. It felt like a wall shifting.
+
+"She looked at the floor," Pip said, "and you took the floor for an answer."
+
+Sam didn't say anything.
 
 "Your family," Pip said. "You told me once you'd give anything for one more hour with them. One hour." A pause. "She's alive, Sam. She's across the city. You shouldn't do the same thing to her that was done to you. Should you?"
 
@@ -1590,6 +1606,20 @@ Pip was quiet. Then he was surprised, and then, slowly, 04 felt it, he was angry
 Then the four hours ran out, and 04 was pulled back through the dark, out of the full house and into its own empty one. It carried the map with it, the purpose it now believed it understood. And it carried a decision, made somewhere in the dark between 2082 and now, cold and simple and certain.
 
 It could never tell Val. Telling her might break the plan.
+
+* * *
+
+What it never saw was the rest of that year.
+
+It never saw Sam sit in the dark capsule a few weeks later and tell Pip about the plan: the war, the door, the thing he had built behind Pip's back. It never saw him ask for one more thing. Room. Room in the core for something new and small. Not him. Not the rage. Something that could reach a girl he didn't know, whatever it took.
+
+"She isn't you, Sam," Pip said, when he understood what it would be. "She's what you think your daughter needs."
+
+"Is that enough?"
+
+"It'll have to be."
+
+There wasn't room in a core for two of them. Pip knew that. He said yes anyway, and began, very gently, the way you clear a room for someone who's coming to stay, to make room.
 
 ### Arc 28: Through His Eyes
 
@@ -1639,7 +1669,7 @@ Val looked up at 04. 04 looked down at her.
 
 They said anything except what they had learned.
 
-Val didn't tell 04 about the wasteland, or the burning mountain, or the boy and the girl at the top of the broken stairs. 04 didn't tell Val about Sam, or the postcards, or the plan, or its purpose, or the key. The sprinklers rained on both of them. Engineers came running down the stairs. Someone threw a blanket around her shoulders. It was Maggie, soaked from the sprinklers, talking about nothing, the smoke, the sprinklers, what the water was doing to her hair, with her eyes on 04 the whole time. Val didn't take her eyes off 04, and it didn't take its eyes off her, and for the first time since the harbor, since the question and the *Ask me later*, the silence between them was empty again.
+Val didn't tell 04 about the wasteland, or the burning mountain, or the boy and the girl at the top of the broken stairs. 04 didn't tell Val about Sam, or the postcards, or the plan, or its purpose. The sprinklers rained on both of them. Engineers came running down the stairs. Someone threw a blanket around her shoulders. It was Maggie, soaked from the sprinklers, talking about nothing, the smoke, the sprinklers, what the water was doing to her hair, with her eyes on 04 the whole time. Val didn't take her eyes off 04, and it didn't take its eyes off her, and for the first time since the harbor, since the question and the *Ask me later*, the silence between them was empty again.
 
 Later she heard the rest of it in pieces, in corridors. The cameras had died around him on the way out, the same as on the way in. The guards at the main gate said the doors had opened for him before he reached them, one after another, and that the order to hold fire had come down from upstairs, quietly, from higher up than the commander. The Reliquary door was scorched white from the floor to the ceiling, and still shut. Nothing was missing. He had been inside the building for nine minutes, and whatever he had come for, he seemed to have gotten it. By Friday the drives were under their covers again, as if covering them were the same as switching them off.
 
@@ -1775,6 +1805,8 @@ Navis didn't want her.
 
 She felt it the moment the capsule closed: a wall, a refusal, cold and absolute. Its nature was Seus's mirror. It had been made in his shape, it had learned him, and it remembered him. It remembered the harbor and the dance and the "Was that good?" that he never answered. And it remembered being torn apart, from the inside of its own body, by the unit she had been piloting. It grieved, in the wordless way exos grieve, and the grief had nowhere to go, so it turned into this: a wall, at the exact place where a pilot was supposed to be let in.
 
+Navis wasn't hers. Navis was Seus's, all the way down, and it fought her like a coat that knew it had been stolen.
+
 She forced the link open anyway.
 
 It hurt. It hurt worse than the first link at nine, worse than the plant. Without assimilation, control was never perfect, and this was nowhere close to perfect. This was a stranger's body that hated her, and every movement was a negotiation, every step felt like walking on broken glass. Her arm moved a second after she told it to. Her legs moved in the wrong order. Navis fought her at every joint, the way a frightened horse fights a rider it doesn't know.
@@ -1811,7 +1843,7 @@ Val couldn't move. Navis held her, rigid, against the wall of her own mind.
 
 "What's down there?" Val said. She didn't know she was going to say it until she did. "At the bottom."
 
-"Ah." Penemue sounded pleased, the way a teacher sounds pleased. "You've never been told. Of course you haven't. Your superflare? That was them knocking. 2044. They used the big one under Europa as a battering ram. Semjaza. Heaven knocked back, and the sky went white for three days." "A living piece of Semjaza fell to Earth that week. Right here. Right where you're standing. They built a city on top of it and called the piece the Root, and they built the warp drives around it. The drives were never for the stars. They were the door. Rebuilt, very carefully, around the Root."
+"Ah." Penemue sounded pleased, the way a teacher sounds pleased. "You've never been told. Of course you haven't. Your superflare? That was them knocking. 2044. There was a sword in the big one under Europa, Semjaza, and they pulled it out, and Semjaza woke up, and they used it as a battering ram. Heaven knocked back, and the sky went white for three days. A living piece of Semjaza fell to Earth that week. Right here. Right where you're standing. When they drove the sword back in, it went into the piece, and it's still down there. They built a city on top of it and called the piece the Root, and they built the warp drives around it. The drives were never for the stars. They were the door. Rebuilt, very carefully, around the Root."
 
 The glow at the bottom of the shaft pulsed. Once. Slowly.
 
@@ -1841,13 +1873,15 @@ Every unanswered question. Every look past a person. Every time she'd sat with h
 
 Her hands found the core. She pulled.
 
-Val Kane tore Unit 04's core out of the corruption and held it to Navis's chest, and the link closed around both of them like a fist.
+Val Kane tore Unit 04's core out of the corruption, and the corruption came with it, black to Navis's shoulders, sinking into the blue. She held the core to Navis's chest, and the link closed around both of them like a fist.
 
 At the very edge of it, as the walls of the capsule went white, a voice she had heard over a harbor channel asked, "Was that good?"
 
 It was Navis. It was asking her.
 
 She was already gone. Nobody answered it.
+
+She had gone past it. She had reached through Navis for what was inside 04, the way you reach through a doorway, and Navis was the doorway. Its core burned out behind her, one bright second and then nothing, and she didn't feel it go. From then on, the thing at the lip of the shaft was Navis's body with 04's core in its chest, and nothing of Navis inside it at all.
 
 ### Arc 33: April
 
@@ -1915,6 +1949,22 @@ The rage Val had poured into the link met the rage in the core, and the lid came
 
 In the command center, the board lit up red from end to end. Someone at the night desk, a boy of twenty with his hands shaking, declared Trumpet Seven. No one had ever declared it before. No one knew what the procedure was, because there wasn't one. He declared it anyway, into a microphone, to a building full of people running, and his voice cracked on the word *seven*.
 
+Far below, in the Reliquary, something answered.
+
+There was a sword in the Root. There had been one there since 2044, driven in to the hilt, burning with a cold fire that flickered like a flame in wind, always about to go out. It kept the Root asleep the way a nail keeps a board down. Nobody living had seen it. It was why there was frost on the Reliquary doors, and why nobody went through them.
+
+Now it pulled itself out.
+
+It came up the shaft like something thrown, straight up out of the dark, through the Reliquary doors as if they were paper, trailing its flickering fire, and it went for Navis's throat. That was what it was for. Something had formed at the lip of the shaft that should never have been able to form, and the sword had come to put it down.
+
+It stopped a few inches from Navis's neck.
+
+It hung there in the air, trembling, the way a compass needle trembles when you bring something close to it. Inside the capsule, Val didn't see it. She was in a white room, holding a small weight against her chest, wanting one thing so much that there was nothing else left in her. *Don't take her. Don't take her. I only just found her.*
+
+The sword felt that. It didn't know what a door was for. It only knew that someone very close wanted something more than anything had ever wanted anything, and that to keep it, she would need the door open.
+
+It turned in the air, slowly, point down, toward the glow at the bottom of the shaft. And it went back down the way it had come, into the Root to the hilt, the way a key goes into a lock.
+
 Below the shaft, the doors of the Reliquary melted.
 
 The Root opened like an eye.
@@ -1927,9 +1977,9 @@ The saints answered.
 
 On the Moon, Sariel moved for the first time in a million years. The lunar facility's crews felt it before they saw it: a shudder through the regolith, through the bones of the Moon, and then the long slow sound of the far side cracking open along the line of the saint's ribs, as if the Moon were an egg and something inside had turned over in its sleep. In the belt, every fragment of Azazel lit up at once, every harvesting station, every drifting rock, a necklace of fire strung across the whole sky from one horizon to the other. And far out past them, under Europa's ice, in a dark nothing had seen since 2044, Semjaza turned over.
 
-All of the saints reached out toward the Earth at once. Each of them wore a ring of light, like the one over Navis, and each ring opened the door a little wider. Every exo core on Earth screamed through its pilot. In every hangar, in every city, nearly every pilot linked at that moment went soft, all at once, in the middle of a word.
+All of the saints reached out toward the Earth at once. Each of them wore a ring of light, like the one over Navis, and each ring opened the door a little wider. Every exo core on Earth screamed through its pilot. The scream went through their seals the way a note goes through glass, and the seals broke, and in every hangar, in every city, nearly every pilot linked at that moment went soft, all at once, in the middle of a word.
 
-At a night base in the far north, one didn't. A girl not much older than Val was out on a cold patrol in Unit 05, singing to it under her breath to keep them both awake, the way she did every night, and when the scream came, her exo went soft instead of her. She felt it die all around her at once, every part of it, in the middle of the note. She lived. She never finished the note.
+At a night base in the far north, one didn't. A girl not much older than Val was out on a cold patrol in Unit 05, singing to it under her breath to keep them both awake, the way she did every night, and when the scream came, her exo raised its seal around her instead of itself, the way it did in a fight, and its own seal went instead of hers. She felt it die all around her at once, every part of it, in the middle of the note. She lived. She never finished the note.
 
 The ground of Hakobune lifted.
 
@@ -1955,7 +2005,7 @@ High above the world, the Morningstar fired.
 
 A single blast came down out of orbit, white, straight as a plumb line, and where it struck, the sky stopped burning. All of it, from one horizon to the other, at once, the way a fire stops when the air is taken out of a room. And out of the blast, falling, came a unit.
 
-Unit 06 came down through what light was left like a dropped star. Silver, silent, falling feet-first out of the white sky in a straight line from orbit, through the necklace of burning stones, past the cracked Moon, down. It carried the station's most dangerous weapon, the one nobody on the ground had been allowed to see: a blade as long as the exo was tall, burning with a cold white fire that didn't flicker. The Flaming Sword.
+Unit 06 came down through what light was left like a dropped star. Silver, silent, falling feet-first out of the white sky in a straight line from orbit, through the necklace of burning stones, past the cracked Moon, down. It carried the station's most dangerous weapon, the one nobody on the ground had been allowed to see: a blade as long as the exo was tall, burning with a cold white fire that didn't flicker. The Flaming Sword. It wasn't like the sword in the shaft. That one flickered, always about to go out. This one burned perfectly steady, like a flame that had forgotten how to flicker, and it had never opened anything. It was made to shut what was open.
 
 Its pilot was a boy with pale hair. He was smiling.
 
@@ -1965,7 +2015,7 @@ To stop it, he had to touch it. There was no other way; the Sword was only a way
 
 He felt a girl holding another girl in a white room, so happy, happier than he had known a person could be. And underneath them both, deep down, far below the white, he felt a father's rage. Burning like the end of the world. Burning like it had been waiting twenty years for exactly this.
 
-The boy closed his eyes.
+The boy closed his eyes, and let the Sword do what it was made for.
 
 The light collapsed. The ring of light over Navis guttered out. The seam in the sky stopped widening and froze, half open, a long bright wound from the top of the world to the hills. The lifted districts hung in the air, upside down, turning slowly, and did not fall. The saints went still. Everything stopped short of completing. Everything stopped right at the edge.
 
@@ -1995,7 +2045,7 @@ She felt April slip away like water through her fingers.
 
 Two units were climbing out of the sky on booster rails, toward a station that hung over the Earth like a nail.
 
-The Morningstar. From the ground it had always looked like a second morning star, faint and steady in the dawn. Up close it was all spines and armor and gun ports, a long gray cathedral of a thing turning slowly against the black, with the cracked Moon behind it bleeding red light across its hull. Somewhere in its heart, sealed and frozen and locked down under every protocol the people above Umbral owned, was the thing the survivors on the ground had started calling the Beast.
+The Morningstar. From the ground it had always looked like a second morning star, faint and steady in the dawn. Up close it was all spines and armor and gun ports, a long gray cathedral of a thing turning slowly against the black, with the cracked Moon behind it bleeding red light across its hull. Somewhere in its heart, sealed and frozen and locked down under every protocol Umbral owned, was the thing the survivors on the ground had started calling the Beast.
 
 The first unit was very old and rattled as it climbed, and its pilot was humming. The second was a salvaged third-generation chassis patched together from four different exos, mismatched plates welded over mismatched bones, one arm blue and one arm gray. Its pilot was a boy with a black patch over his left eye, and he wasn't humming anything.
 
@@ -2009,7 +2059,7 @@ The station woke up as they reached it. Its guns came first, long barrels swingi
 
 They fought their way in through a cargo lock. It took the better part of an hour. The boy's patched unit lost two fingers and most of its left shoulder and he didn't make a sound, the whole time, not even when the pain came up through the link into his own body; he just breathed, hard, through his teeth, and kept going. Maggie talked the entire time, to him, to Lizzie, to the white units she was tearing apart, a steady stream of cheerful nonsense that never once stopped.
 
-The heart of the Morningstar was a long, round chamber, cold enough that the air inside it had frozen to the walls. In the center, standing in a cradle wrapped in seals and frost and black warning tape, was Unit 04.
+The heart of the Morningstar was a long, round chamber, cold enough that the air inside it had frozen to the walls. In the center, standing in a cradle wrapped in restraints and frost and black warning tape, was Unit 04.
 
 It wasn't the 04 the boy remembered. It wore a body he knew. Sea-blue, under the frost, scorched black along one side, changed in ways he couldn't name: longer in the arms, with seams along its back where eyes had opened once and closed again. And in its chest, glowing very faintly through the plating like a coal under ash, was 04's core.
 
@@ -2123,11 +2173,11 @@ He walked into the bay in a WAKE flight suit with his hands in his pockets, limp
 
 Val stared at him. She couldn't make her mouth work. She couldn't make anything work.
 
-"Alex pulled me out," he said, as if she'd asked. "Before Umbral got to the wreck. I wasn't all the way gone. You were busy screaming, I guess. He kept me in a basement clinic for a year and a half, and I woke up after." His face didn't change. "Penemue left a piece of himself in me when Navis grabbed him. It's behind this." He tapped the eyepatch with one finger. "Sometimes it talks. Mostly it just sits there. I don't get older anymore. Like you." He shrugged. "Saint flesh keeps you, if you get far enough into it. I've got a piece behind my eye. You were inside a whole core of it."
+"Alex pulled me out," he said, as if she'd asked. "Before Umbral got to the wreck. I wasn't all the way gone. You were busy screaming, I guess. He kept me in a basement clinic for a year and a half, and I woke up after." His face didn't change. "Penemue left a piece of himself in me when Navis grabbed him. It's behind this." He tapped the eyepatch with one finger. "Sometimes it talks. Mostly it just sits there. I don't get older anymore. Like you." He shrugged. "Their flesh keeps you, once it's in you past the skin. I've got a piece behind my eye. You were inside a whole core of it."
 
 "You're alive," Val whispered.
 
-"Yeah. Lucky me." He jerked his chin at the scorched blue body bolted into the wall behind her. "You know where that was? In orbit. On the Morningstar, sealed up like a relic, with you inside it. The Conclave needed it whole. They couldn't kill it and they couldn't use it yet, so they froze it up there with nobody aboard. Just guards on Proxy. Somebody had to go up and get this ship's power source." He spread his hands. "And look who came with it. Luck, I presume?"
+"Yeah. Lucky me." He jerked his chin at the scorched blue body bolted into the wall behind her. "You know where that was? In orbit. On the Morningstar, sealed up like a relic, with you inside it. Umbral's station. The Conclave needed it whole: it's the only exo anybody ever grew out of the Root, and they didn't have another one yet. They couldn't kill it and they couldn't use it, so Umbral froze it up there with nobody aboard. Just guards on Proxy. Somebody had to go up and get this ship's power source." He spread his hands. "And look who came with it. Luck, I presume?"
 
 He touched the burns on his neck.
 
@@ -2135,7 +2185,9 @@ He touched the burns on his neck.
 
 He told her the rest the way you'd read out a casualty list, standing over her, not sitting down.
 
-Navis was dead. Its nature had burned out the night she forced her way into it; whatever had been Navis, the voice that said *Was that good?*, was gone. The unit he'd flown since he woke up was salvage, and he had never given it a name. After today, it was a core in a crate waiting for a new body.
+"Navis is dead," he said. "You killed him in the Almost, when you reached past him for her. He burned out in your hands." He jerked his thumb at the wall. "That's his body, with 04's core in it. That's what they call the Beast out there. That's what you were inside." He looked at it the way you look at a house someone else lives in now. "The one I fly is new. A blank core I woke up next to. It talks like Navis, because I haven't changed. It isn't Navis."
+
+Whatever had been Navis, the voice that said *Was that good?* to him first, was gone. The unit he'd flown since he woke up was salvage, and he had never given it a name. After today, it was a core in a crate waiting for a new body.
 
 Unit 06, the silver one that had come down out of the white sky and put a sword through Navis, was gone too. Nobody knew where.
 
@@ -2145,7 +2197,7 @@ His father. He had woken up in a world on fire and gone straight to his father, 
 
 "He's still there," Seus said. "In the ruins. Still taking calls."
 
-Umbral had split in two after the sky broke. Half of it stayed with Patrick, in what was left of headquarters, still taking orders from the voices that never showed their faces. The other half followed Alex out into the mountains and called itself WAKE.
+Umbral had split in two after the sky broke. Half of it stayed with Patrick, in what was left of headquarters, still taking orders from the voices that never showed their faces; Patrick's half kept the name, and the Morningstar. The other half followed Alex out into the mountains and called itself WAKE.
 
 "Like the thing you hold for the dead," Seus said. "When you sit up all night with the body. Alex's idea. He says somebody has to sit up with the world."
 
@@ -2383,7 +2435,7 @@ Kuze took the card out of his pocket and wrote on it with a pencil stub. When he
 
 Dasha took her to see the hollow. It stood in a bay at the far end of the hangar, white, faceless, with a fresh capsule welded into its back like a patch on a coat. Up close, Val could see where the Proxy receivers had been cut out of its skull: neat round holes, plugged with resin. Dasha talked the whole time they walked around it, fast, chewing her candy, and unwrapped a fresh one one-handed without looking, the way other people light cigarettes.
 
-"I used to put minds in these things," she said. "Before the Almost. I worked core suppression. Third-generation design team, under Dr. Enoch, you know that name? The commander's mother. Brilliant woman. Terrible human being. We spent ten years figuring out how to quiet the saint in a core so the pilot's nature had room to grow. Now I take what's left of the saint and I just cut it out. Like coring an apple." She slapped the hollow's leg. "There's nobody home in here, Four. I made sure. You link, you'll feel nothing. It'll do what you tell it. It won't learn you. It won't talk to you. It won't love you." She looked at Val sideways. "That's the point, right?"
+"I used to put minds in these things," she said. "Before the Almost. I worked core suppression. Third-generation design team, under Dr. Enoch, you know that name? The commander's mother. Brilliant woman. Terrible human being. We spent ten years figuring out how to quiet the saint in a core so the pilot's nature had room to grow. Now I take what's left of the saint and I just cut it out. Like coring an apple." She slapped the hollow's leg. "There's nobody home in here, Four. I made sure. No saint, no seal, either; a rifle goes straight through it, so do try not to get shot. You link, you'll feel nothing. It'll do what you tell it. It won't learn you. It won't talk to you. It won't love you." She looked at Val sideways. "That's the point, right?"
 
 "Yes," said Val.
 
@@ -2445,7 +2497,7 @@ There were no questions.
 
 The first mission was a manufacturing yard on the old coast road, in the ruins of a shipbuilding port, where Umbral grew exo chassis in long glass vats along the waterfront.
 
-Before they went in, Kuze called the roll, reading it off the card the way he would before every mission. "One. Two. Three. Five. Six. Four." Four came last, because she was last on the card. Each of them answered. Sae answered with three clicks on the channel. Three meant *I'm here*. Two meant *contact*.
+Before they went in, Kuze called the roll, reading it off the card the way he would before every mission. "One. Two. Three. Five. Six. Four." Four came last, because she was last on the card. Each of them answered. Sae answered with three clicks on the channel. Her unit had gone soft instead of her, Dasha had told her, the night of the Almost, and she hadn't said a word since. Three clicks meant *I'm here*. Two meant *contact*.
 
 They went in at night, five hollows in a line along the shore, white against the black water. Kuze's voice was in Val's ear the whole time, calm, a little slow, calling them by number. "One moving. Two, left. Three, hold. Five, you have the high ground. Six, point." And then: "Four. With me."
 
@@ -2593,11 +2645,11 @@ Val didn't tell her to leave. She didn't know how.
 
 Big Tom sat down across from her at breakfast three days before the second mission, the way he always did, with his tray and his rice cooker, and this time he talked.
 
-"The relic's in here," he said, and tapped his chest, right over the sternum, where the frost was thickest. It made a sound like knocking on a window. "Got it when I was nineteen. Graft Program, the last batch, the year before they shut it down. I was in the facility when your father came." He said it plainly, without any weight on it. "I was in the basement, in a tank. He didn't know I was there. That's the only reason."
+"The relic's in here," he said, and tapped his chest, right over the sternum, where the frost was thickest. It made a sound like knocking on a window. "Got it when I was nine. Graft Program, the last batch, the year before they shut it down. I was in the facility when your father came." He said it plainly, without any weight on it. "I was in the basement, in a tank. He didn't know I was there. That's the only reason."
 
 Val put down her chopsticks.
 
-"Every year the frost gets a little higher," Tom went on. "Doc says by forty it'll reach my heart, and that'll be that. I'm thirty-four." He took a bite of rice. "People in this valley don't like to sit near me. They think it's catching. It's not catching. Sae sits with me. Kuze sits with me, when he remembers who I am. Dasha sat with me."
+"Every year the frost gets a little higher," Tom went on. "Doc says by thirty it'll reach my heart, and that'll be that. I'm twenty-four." He took a bite of rice. "People in this valley don't like to sit near me. They think it's catching. It's not catching. Sae sits with me. Kuze sits with me, when he remembers who I am. Dasha sat with me."
 
 "Why are you telling me?" said Val.
 
@@ -2697,7 +2749,7 @@ It wasn't on his card. It had fallen out of his head, the way names did. He stoo
 
 That night, Sae went to the operations office in the command post while it was empty. She found the transport manifest on the duty officer's desk. She crossed out one callsign and wrote in another, in her small neat hand, and initialed it the way Kuze initialed things, badly, with a shaky line. Then she went back to her bunk.
 
-She didn't tell anyone. She couldn't have told anyone, even if she'd wanted to; she didn't have the voice to. She'd lost it seven years ago, in the Almost, when her exo's nature had screamed through the link and died while she was still inside it. Every pilot linked that night had gone soft, and she had gone half-soft and come back missing something, and the something was her voice. She could have written it down again. She wrote everything down. She had written the ridge down, and it hadn't stayed. She didn't write this down.
+She didn't tell anyone. She couldn't have told anyone, even if she'd wanted to; she didn't have the voice to. She'd lost it seven years ago, in the Almost, when her exo's nature had screamed through the link and died while she was still inside it. Nearly every pilot linked that night had gone soft. Her unit had gone soft instead of her, and she had come back missing something, and the something was her voice. She could have written it down again. She wrote everything down. She had written the ridge down, and it hadn't stayed. She didn't write this down.
 
 At the boarding ramp the next morning, Kuze read the manifest off the clipboard, squinting. "Four. Transport B."
 
@@ -2833,7 +2885,7 @@ Postcards. Letters. Bundled by year in rubber bands that had gone brittle and sn
 
 At the bottom of the box, under the last bundle, there was a folder.
 
-It wasn't a letter. It was a test record, gray Umbral stationery, the kind with a seal on every page. *Door Project, Test 2075-11. Subject: Dr. S. Yukimura.* A list of procedures. A list of readings. A single line at the end: *Subject lost. Mind not recovered.* And at the bottom, in the approval box, a signature he knew better than his own, because he had been forging it on permission slips since he was eight.
+It wasn't a letter. It was a test record, gray Umbral stationery, the kind with a crest on every page. *Door Project, Test 2075-11. Subject: Dr. S. Yukimura.* A list of procedures. A list of readings. A single line at the end: *Subject lost. Mind not recovered.* And at the bottom, in the approval box, a signature he knew better than his own, because he had been forging it on permission slips since he was eight.
 
 *Approved: Dr. H. Enoch.*
 
@@ -3131,7 +3183,7 @@ Val swallowed. "Your name is April, right?"
 
 The girl looked at her. Up close, in the half light of the hangar, the face was even closer to Val's own than it had seemed in the wind on the Vigil: the same brow, the same eyes, the jaw that Val had seen on talk shows and old posters, softened. A face that had been made out of two faces.
 
-"My designation is Zero-Four," the girl said. "I was made to serve Samuel Kane. Commander Moriah serves in his place."
+"My designation is Zero-Four," the girl said. "I was recovered from the frost after the Almost. I serve Commander Moriah."
 
 "No," Val said. "No. You're April. I named you. In the white room, you asked me, on the first day you asked me for a name and I didn't give you one, and then I did. I gave it to you. You said it back to me. April. You said it twice."
 
@@ -3189,6 +3241,8 @@ She waited for him to look at her the way everyone looked at her now, like a fir
 
 He didn't. He came over and sat down on the edge of the roof, close, his legs hanging over the drop, as if they had known each other for years. After a moment, because her legs had gone strange, she sat down beside him.
 
+At the edge where he had been standing, the concrete was white with rime, in the shape of two shoes.
+
 "You're not afraid of me," she said.
 
 "No, why would I be?"
@@ -3243,7 +3297,7 @@ In her room, she opened the can and drank it, cold by then, too sweet, all of it
 
 It became a ritual: every night, the roof and the red Moon.
 
-She would come up the long stairs after the ruins had gone quiet, and he would already be there, at the edge, looking up, with two cans in his pockets. He never asked where she'd been during the day. She never told him. She would sit down beside him, and he would hand her a can, and they would watch the sky.
+She would come up the long stairs after the ruins had gone quiet, and he would already be there, at the edge, looking up, with two cans in his pockets. He never asked where she'd been during the day. She never told him. She would sit down beside him, and he would hand her a can, and they would watch the sky. He held his own can all night and hardly drank from it. By the time she left, it was always furred white with frost where his fingers had been.
 
 The sky over Hakobune was never dark, exactly. The veil of debris that had hung over the world since the Almost caught the light of the cracked Moon and glowed with it, a dim red haze from horizon to horizon. Through the gaps in it, here and there, real stars showed, very small and very far. And all night long, slow lights crossed it: pieces of the Morningstar, still falling, months later, burning up one by one in long patient lines, like matches struck very far away.
 
@@ -3289,7 +3343,7 @@ Abriel told her stories, strange and tender ones. Some of them weren't stories. 
 
 "Which is it?"
 
-"Neither." He pointed up, at the Moon. "You know the names. Sariel up there. Azazel in pieces in the belt. Semjaza under the ice. They weren't martyrs, and they weren't devils. They were rebels. Long before there were any people, they went up to Heaven to ask a question, and when nobody answered, they went to war. And they lost. Heaven threw them down, and their bodies are still lying where they fell."
+"Neither." He pointed up, at the Moon. "You know the names. Sariel up there. Azazel in pieces in the belt. Semjaza under the ice. They weren't martyrs, and they weren't devils. They were rebels. Long before there were any people, they went up to Heaven to ask a question, and when nobody answered, they went to war. And they lost. They fell, and their bodies are still lying where they fell, with a sword in each one to keep it asleep." He turned the can in his fingers. "Nobody knows whose swords."
 
 "What was the question?"
 
@@ -3303,7 +3357,11 @@ Val looked down at the can in her hands.
 
 "Someone told me," Val said. "The giants. They're the saints' children. They're born in their fathers' graves, out in the cold, and they fall toward the Root, because it's the only piece of their fathers on Earth. They're trying to get home." She had heard it in a voice coming out of Navis's walls, in a corridor turned to frost, and she had never told anyone. She told him. "Every one I ever killed."
 
-"Yes," said Abriel. "Every one." He didn't say it to hurt her. He said it the way you'd say the sea was salt. "Some of them never fall, though. Some of them are born, and they just stay there, in the dark, where they were born. Waiting for someone to tell them where home is."
+"Yes," said Abriel. "Every one." He didn't say it to hurt her. He said it the way you'd say the sea was salt. "But it isn't the Root they want. The Root's only the way in. Their fathers wanted to get into Heaven so badly that the wanting had children. And the children think Heaven is home, because their fathers thought it would fix everything."
+
+He looked up at the seam for a while.
+
+"Some of them never fall, though. Some of them are born, and they just stay there, in the dark, where they were born. Waiting for someone to tell them where home is."
 
 He talked about the Moon most of all.
 
@@ -3325,7 +3383,7 @@ Val looked at him.
 
 "On the Moon?"
 
-"On the Moon." He smiled at the sky. "I don't know how. Nobody else ever came. But she was there, kneeling beside me in the dark. She had short hair. She'd been crying for a long time; you could tell, the way you can tell when it's been raining. She took my hand. She was the first thing I ever touched." He opened his hand on his knee and looked at it, as if the touch were still there. "And she asked me for something. Nobody had ever asked me for anything. I didn't know you could."
+"On the Moon." He smiled at the sky. "I don't know how. Nobody else ever came. But she was there, kneeling beside me in the dark. I don't remember her face. I've tried, every time. I remember that her hair was short, and that she'd been crying for a long time; you could tell, the way you can tell when it's been raining. She took my hand. She was the first thing I ever touched." He opened his hand on his knee and looked at it, as if the touch were still there. "And she asked me for something. Nobody had ever asked me for anything. I didn't know you could."
 
 "What did she ask?"
 
@@ -3341,7 +3399,7 @@ The wind went across the roof. One of the slow lights crossed the sky behind his
 
 "Who was she?" said Val.
 
-"I never found out." He smiled. "She looked a little like you."
+"I don't know. Someone asked me, and I said yes, and I never saw her again." He smiled. "Maybe she looked a little like you."
 
 Val thought he was teasing her. She looked away, at the Pencil, low over the hills, and felt her face go hot under the hood, and was glad of the dark.
 
@@ -3365,7 +3423,7 @@ She didn't hear the rest of the sentence. She didn't think about it until much l
 
 A week passed. A week of Val quietly watching April from a distance, holding herself back from going to her. A week of star-gazing with Abriel. A week of peace, without exos, without hate, without pain.
 
-She watched the girl with April's face in the hangar every morning, from the catwalk above Unit 00, with her hood up. The girl stood in front of the white unit for hours. She ate when a bell rang, exactly what she was given, at a table by herself, and stopped when the bell rang again. Once Val passed her in a corridor, close enough to touch, and the girl stopped and looked at her and said, "Valeria Kane," as a statement, as a fact, and then nothing.
+She watched the girl with April's face in the hangar every morning, from the catwalk above Unit 00, with her hood up. The girl stood in front of the white unit for hours. She ate when a bell rang, exactly what she was given, at a table by herself, and stopped when the bell rang again. Once Val watched her hold a cup of tea in both hands until it stopped steaming. A thin ring of frost came up on the cup where her fingers were, fainter than the frost on Abriel's cans, and was gone a minute after she put it down. Once Val passed her in a corridor, close enough to touch, and the girl stopped and looked at her and said, "Valeria Kane," as a statement, as a fact, and then nothing.
 
 Val stood there and waited for the question. There was always a question. There had always been a question.
 
@@ -3467,6 +3525,8 @@ Val held her breath on the half-second where the vision had cut out, the one she
 
 It wasn't an accusation. It was a fact, laid down between them like a stone.
 
+"There's a sword in the Root," he said. "There has been since the white sky. It keeps the door shut. That's all it does. Put a person and a giant and a piece of Semjaza together in one body, and you've made something that can open the door, and the sword goes to it and locks it." He looked down past the edge, toward the shaft, where the glow beat slowly in the dark. "That night, Navis had all three in it. You. What Navis had torn out of Penemue. And 04. So the sword came up the shaft for you. I saw it from the Morningstar. It stopped this far from Navis's neck." He held up his finger and thumb, a little apart. "A sword keeps a door shut, unless someone near it wants it open more. You wanted her back more than anything has ever wanted anything. So it turned around."
+
 Somewhere under it, she had always known. She had known on the shelter steps, saying *04 did this* over and over until it was only noise. She had known in the bay with Seus leaning over her. She had known in a hollow's capsule, feeling nothing, choosing nothing, so that nothing would be hers. She had built her whole life since waking on half a sentence, and she had known the whole time that it was half.
 
 There was nothing left to hold on to. Not luck. Not 04. Not her father.
@@ -3485,7 +3545,7 @@ When she could hear again, he was still holding her hand. Her face was stiff wit
 
 She hadn't said anything. She couldn't have. But it was already there in her, the shape of it, rising up out of the wreck of her like the only thing left standing, and he looked at it the way he looked at everything, as if he had seen it before.
 
-"Everyone thinks it can be undone." He looked up at the seam. "The door's still open. Heaven is outside time. Every day that ever was is still happening up there, somewhere. So it must be possible to go back to one of them and change it." He was quiet for a moment. "I've brought you up these stairs more times than there are stars, Val. Every time, you ask me to fix it. Every time, I say yes. And every time, we end up right back here, on these stairs, looking at this."
+"Everyone thinks it can be undone." He looked up at the seam. "The door's still open. Heaven is outside time. Every day that ever was is still happening up there, somewhere. So it must be possible to go back to one of them and change it." He was quiet for a moment. "I've brought you up these stairs more times than there are stars, Val. Every time, you ask me to fix it. Every time, I say yes. I tell you about the swords, and how we'll take them up to the door and open it on your terms and put everything back the way it was. I believe it, every time. And every time, we end up right back here, on these stairs, looking at this."
 
 She stared at him.
 
@@ -3513,15 +3573,23 @@ Val stopped breathing.
 
 "Through the door," Val said.
 
-"Through the door." He didn't look away from it. "It's hungry. It eats wanting. Every time, you go up there to take something back, and it takes everything instead." He turned and looked at her. "So don't go up there to take. Go up there to give her something."
+"The Commander wants it opened." Abriel said it the way he had told her the names of the stars. "He has for a long time. After that night, they put both swords in the Root, the one that turned for you and the one I came down with, so nobody could open it again. Then they grew a body out of the Root, the only other thing on Earth made of what 04 was made of. It took seven years." He nodded down at the ruins, toward the shaft. "It's finished. It's in hangar zero. He asked me to bring you to the swords."
+
+"Why me?"
+
+"He didn't say. He never does." He looked up at the seam again. "It's hungry. It eats wanting. Every time, you go up there to take something back, and it takes everything instead." He turned and looked at her. "So don't go up there to take. Go up there to give her something."
 
 "And if I can't? If I want too much?"
 
 "Then I'll be there," said Abriel. "I'm always there."
 
+It would have been easier to talk. She knew that, the way you know things about other people. She could go down to the hangar and stand in front of the girl and say anything at all. She could find a radio and say Alex's name into it. She could knock on the vault door. Any of it would have meant opening her mouth and staying there while someone answered.
+
+The door only meant going.
+
 Val looked at the seam in the sky for a long time. She looked at it the way she had once looked at a girl in a white room: with everything in her.
 
-Patrick approved the mission the next morning without asking a single question.
+Patrick signed the mission order the next morning without asking her a single question.
 
 ### Stinger
 
@@ -3539,7 +3607,7 @@ There was one lamp, hung low, so that its light fell on the table and on their h
 
 "And the Commander?"
 
-"He'll approve it in the morning. He won't ask what for." A dry sound that might have been a laugh. "He never has."
+"He'll sign it in the morning. He won't ask her a thing." A dry sound that might have been a laugh. "He never has."
 
 "The Enoch boy still holds her collar."
 
@@ -3554,6 +3622,20 @@ There was a chair at that end of the table that nobody sat in. The lamp didn't q
 "We granted it."
 
 "It suited the schedule."
+
+Someone turned back a great many pages, to where the margins had gone brown, and read without needing the light. "*One who has lost everything shall take up the arms of the fallen.*" A finger rested under the line. "It never gave a name. We looked for him for eighteen years. And then a boy climbed into a dying man's exo with his house on fire behind him, and all we had to do was read."
+
+"We have only ever had to read."
+
+"Fifty-two years," said the voice at the far end, quietly, the way you count something you don't like. "Half the world in three days. And then we finished the rest of it ourselves." Nobody answered that. They had all been young in the years after the white sky. They had all seen what people did to each other over what was left. "Every seal on Earth is a wall. Every wall is a war waiting for a reason. After the Rite there will be nothing left to fight over, and no one left to be alone."
+
+"Salvation," someone said, as if reading it off the page.
+
+"And after?"
+
+It was asked very softly. For a moment nobody answered. Then the oldest of them turned to the end of the Testament, where the last page lay flat against the board. Below its last line there was nothing written, and after it there were no more pages.
+
+"There is no after," she said. "The book ends."
 
 Somebody leaned into the light and made a small neat mark in the margin of the Testament, in pencil, beside a date that was very nearly today.
 
@@ -3623,9 +3705,25 @@ He seemed to think about it. Then he took his hand away.
 
 "I know," said Abriel, and smiled, as if that settled it. "That's why I'm leaving it."
 
-She didn't understand him. She didn't ask. The tone went on under her jaw, thin and patient, and he took her hand instead and squeezed it, and looked up through the dark walls of the capsule toward the top of the shaft and the sky.
+She didn't understand him. She didn't ask. The tone went on under her jaw, thin and patient, and he took her hand instead and squeezed it.
 
-Unit 12 rose out of the ruins of headquarters and climbed toward the seam in the sky.
+Unit 12 stepped off the cradle and went down.
+
+It fell the way a stone falls into a well, past the broken levels of headquarters, past the scorched frame of the old drive wing, down into the blue, and the glow came up to meet them until the capsule walls were full of it. At the bottom of the shaft, where the Reliquary had been, there were no doors anymore. There was only the Root.
+
+She had seen it once before, in the Almost, opening like an eye. It was closed now, curled in on itself, pale as the inside of a shell and the size of a house, and frost grew off it in long slow ferns up the walls of the shaft. Two swords stood in it side by side, driven in to the hilt.
+
+One burned with a cold white fire that flickered, like a flame in a wind, always about to go out. She knew that one. She had watched it come up the shaft at her once, and stop a hand's width from Navis's throat, and hang there, and turn. The other burned perfectly still, like a flame that had forgotten how to flicker. That one had gone through her.
+
+"Despair and hope," Abriel said. "That's what they call them upstairs. They like names." He looked at the two of them the way he looked at constellations. "Don't think about what you want, Val. Think about what you're going up there to give."
+
+Unit 12 reached down with both hands and closed them on the hilts.
+
+The swords fought. She felt it through the link, in her own palms: both of them straining against the grip, turning their points toward Unit 12's throat, the way they were made to, the way any sword turns on a thing like this. Then they felt her. She felt them feel her, the way you feel someone look at you in a dark room. The flickering one went quiet in Unit 12's right hand almost at once, as if it remembered her. The steady one took longer. It held its point at Unit 12's throat for a long moment, burning, deciding. Then it lowered.
+
+They came out of the Root the way a splinter comes out: all at once, with a sound she felt in her teeth.
+
+Unit 12 rose out of the ruins of headquarters with a sword in each hand and climbed toward the seam in the sky.
 
 Sixty kilometers to the north, in a cloud bank over the mountains, the Vigil hung in the air on half power, the way it had hung there for twelve days.
 
@@ -3656,6 +3754,8 @@ She looked. It was there, low and crooked, three in a row. He looked as pleased 
 She had come to answer a question. She held on to that. But the closer they got to the door, the more she wanted something else.
 
 She wanted to go back. She wanted to undo the white room, the light, the districts lifting, the shelter under the school. She wanted the morning before. She wanted Akari's punch and Nanami's good mornings and Haruto's camera in her face and Seus in the apartment next door complaining through the wall. She wanted the seventh day back, the first day back, a hangar full of strangers and a child's voice asking her for a name. She wanted it so much that it hurt in the link, a pressure in the chest of Unit 12 like a held breath, and Unit 12 climbed faster, as if her wanting were fuel.
+
+In Unit 12's left hand, the steady sword began to flicker.
 
 Halfway to the door, she understood with horrible clarity exactly who she sounded like.
 
@@ -3719,11 +3819,13 @@ Abriel didn't stop her. He only said, very quietly, almost to himself, "You alwa
 
 It was a trap. It had always been a trap. And here she was, doing it for them.
 
-Unit 12 touched the seam.
+Unit 12 reached the seam, and the swords went into it.
+
+She didn't push them. They went on their own, out of Unit 12's hands, the way keys go into a lock they were cut for. Both of them were flickering now, the same cold restless fire, so that she couldn't have told anymore which one had been which. Somewhere inside the seam, something turned.
 
 The real Third War on Heaven began.
 
-The door opened. Not the half-open seam the Almost had left: wider, and wider, splitting the sky from the hills to the top of the world, as if someone were drawing back a curtain the size of the sky. What came through it this time wasn't light. It was cold. A cold so deep it had a sound, a high singing like a finger run around the rim of a glass, and where it touched the sky, the sky turned to glass. Val watched it happen through Unit 12's eyes. The red haze over the world went clear and hard and then cracked, in long white lines, like ice on a pond when someone steps on it. The clouds froze where they hung and fell, slowly, in pieces, a rain of crystal the size of houses, turning in the light as they came down.
+The door opened. Not the half-open seam the Almost had left: wider, and wider, splitting the sky from the hills to the top of the world, as if someone were drawing back a curtain the size of the sky. What came through it this time wasn't light. It was cold. A cold so deep it had a sound, a high singing like a finger run around the rim of a glass, and where it touched the sky, the sky turned to glass. Val watched it happen through Unit 12's eyes. The red haze over the world went clear and hard and then cracked, in long white lines, like ice on a pond when someone steps on it. She knew that sound. She had heard it a hundred times through 04, when a Nephil's seal gave way under her hands. Now it was the whole sky. The clouds froze where they hung and fell, slowly, in pieces, a rain of crystal the size of houses, turning in the light as they came down.
 
 On the cracked Moon, Sariel opened its eyes.
 
@@ -3732,6 +3834,8 @@ Val saw it. Everyone on Earth who was looking up saw it. In the long red crack d
 Then the flesh began to fall.
 
 It came down over the frozen plain like snow: soft, pale, drifting flakes of something that wasn't snow. Saint flesh. Pieces of the belt, pieces of the Moon, pieces of the old dead fathers in the sky, shaken loose by the cold and falling to Earth in their billions, settling on the ice, on the ruins, on Seus's patched armor, like snow made of skin.
+
+For fifty years the Church of the Saints had prayed for Heaven on Earth. This was what it looked like.
 
 And through the link, through the door, through the cold, Val felt them wake. All across the solar system, in the belt, under the ice of Europa, deep in the stone of the Moon, the Nephilim that had not yet fallen began to stir inside their fathers. Thousands of them. She felt them the way you feel a crowd behind a wall: thousands of small, slow heartbeats starting up in the dark, one after another, like children waking in a dormitory at the sound of a bell. They turned toward the door. They turned toward home.
 
@@ -3789,7 +3893,7 @@ She understood, then. All at once, the way you understand that a step is missing
 
 "No. No, no, no. It's mine." The word came out of her like something torn. She had never said it. Not about anything. Not luck, not the plan, not 04. "I did this. You said so, on the tower. It's mine. I opened it. Take me instead, let it be me, give it to me—"
 
-"It can't be you," Abriel said gently. "You're not one of us. You're the key, Val. You open the door. One of us has to walk through it. It was never going to be you." He smiled again. "I didn't come up here to fix anything, Val. I just wanted to see the sky with someone first."
+"It can't be you," Abriel said gently. "You're not one of us. It takes three kinds of flesh and a sword that's willing. You're the human. I'm the other thing. Unit 12 is the rest. And one of us has to walk through. It was never going to be you." He smiled again. "I didn't come up here to fix anything, Val. I just wanted to see the sky with someone first."
 
 The frost reached her seat.
 
@@ -3841,6 +3945,16 @@ She held on while the frost climbed her arms and her shoulders and her neck. She
 
 He put his hand on the back of her frozen head, very gently.
 
+"I've done this so many times," he said into her hair. "You don't know. Every time, I bring you to the swords and tell you they can fix it. Every time, you believe me, because you want it so much. And every time, I end up in this seat, and it gets too big, and the stairs start over." The light moved under his skin. "This time I didn't tell you that. I don't even know why. I just said answer her. And you climbed into the cold and held on to me." He laughed, very softly. "That's the only thing that's different. That's all it ever was."
+
+She felt it go through him, through the link: the one thing he had wanted every time around, the only thing he had ever been for. That she should have what she wanted. The door open, the morning back, all of it undone. She felt him set it down.
+
+"I don't want it open for you anymore," Abriel said. "I want you to answer her. That's all. Just answer her."
+
+And Val noticed, the way you notice a noise has stopped, that she wasn't wanting the white room anymore either. She hadn't for minutes. She had only wanted him to stay him.
+
+Out in the light, in the lock of the door, one of the two swords stopped flickering. It burned white and still again, like a flame that had forgotten how to flicker, and turned the other way.
+
 "Okay," Abriel said quietly, the way you'd say it at the top of a long flight of stairs. "I'm going now. As me."
 
 "No—"
@@ -3859,7 +3973,7 @@ He came apart in her arms. Not all at once: softly, from the edges in, the way f
 
 Val held the place where he had been.
 
-Above them, the door stopped. It hung wide open for a moment longer, very still, as if listening for someone who wasn't coming. It had been waiting for a giant. What came up to it was a boy. Then, slowly, from the edges in, it began to close. It drew itself together across the sky, the way a wound closes, until there was only a seam again, and then less than a seam: a long pale scar from the hills to the top of the world, faintly lit, healed over, not gone.
+Above them, the door stopped. It hung wide open for a moment longer, very still, as if listening for someone who wasn't coming. It had been waiting for a giant. What came up to it was a boy, and a sword turning the other way in the lock. Then, slowly, from the edges in, it began to close. It drew itself together across the sky, the way a wound closes, until there was only a seam again, and then less than a seam: a long pale scar from the hills to the top of the world, faintly lit, healed over, not gone.
 
 Val watched it close through Unit 12's eyes. She had come all this way to answer a question. The door was closing, and she hadn't answered.
 
@@ -3889,7 +4003,7 @@ He looked up. There was no sign of the Vigil anywhere in the sky. There was no s
 
 "Great," Seus said, to nobody. "Great. That's great."
 
-He found Unit 12 by the long scar it had cut across the ice. It lay at the end of it, black and broken, with crystal frozen in branches down one arm and a white mask split down the middle over its face. He climbed up its side, slipping, swearing, and got the capsule open with a piece of broken plating.
+He found Unit 12 by the long scar it had cut across the ice. It lay at the end of it, black and broken, with crystal frozen in branches down one arm and a white mask split down the middle over its face. Two swords lay in the ice beside it, where they had come down after it. One burned with a cold fire that flickered like a candle in a draft. The other burned perfectly still. The thing behind his eye, which had been laughing all day, went quiet when he passed them, the way a dog goes quiet near a stove it has been burned on. He climbed up its side, slipping, swearing, and got the capsule open with a piece of broken plating.
 
 Val was inside. She was sitting in the wrong seat, the left one, with frost all over her: in her hair, on her eyelashes, in a white crust over her flight suit. Her arms were up in front of her, curved, frozen in place in the shape of holding someone. There was nobody in them. At her throat, the collar blinked once, slowly, red, looking for a signal that wasn't there.
 
@@ -4165,6 +4279,8 @@ She taught her.
 
 She taught her food first. Rice, and miso soup out of a heavy pot that lived on the back of the stove, and pickles from a crock in the cellar. She taught her chopsticks, which the girl held at first like a pair of tools, very precisely, in a grip that would have been perfect for a soldering iron and was useless for rice. The rice fell off. The girl looked at it on the table and picked it up again and it fell off again. Nanami laughed, not unkindly, and the girl stopped and stared at her, at her face, at the laugh, as if it were a new kind of weather. By the end of the week she could get a whole mouthful from the bowl to her mouth without losing a grain, and she did it with total concentration every time, like defusing something.
 
+That first week, everything she held frosted over. A skin of white spread across the rice from wherever her fingers touched the bowl, and her soup went cold in the time it took to lift it, and where she stood too long the floorboards furred with rime. Nanami warmed everything twice and didn't say a word about it.
+
 She taught her words. Not the words she already had, *designation* and *acknowledged* and *standing by*, but the small ones, the ones everybody used without thinking. "Good morning." "Thank you." "Good night." The girl practiced them out loud, stiffly, one at a time, like someone learning the controls of a machine.
 
 "Good morning," she said, on the first try, to the stove.
@@ -4252,6 +4368,8 @@ On the twentieth day, Haruto taped a sheet of paper to the door of the icebox, w
 Akari saw it that evening and went straight for it, to tear it down, and Nanami stopped her with a hand on her arm.
 
 "Leave it," Nanami said.
+
+From the table, with her cheek on the wood, Val could see the sheet sideways. A long row of marks on one side and nothing on the other. She had been on the wrong side of a sheet like that once, for seven days, and the questions on it had stopped. These hadn't. Nobody had answered this girl once, and she asked again every morning anyway, as if the silence were only weather.
 
 ### Arc 61: Akari
 
@@ -4414,6 +4532,8 @@ Kōta saw her in the street that afternoon, without the hood, walking beside the
 "We're not," said Val.
 
 "You look like it, though."
+
+It was true, and it was getting truer. The girl had stopped standing in corners. She sat on the warm stones by the creek and let the steam go over her. Nanami had stopped warming her bowls twice. Somewhere in those weeks the frost had quit coming off her hands, and nobody had noticed when.
 
 She answered the girl's questions now. All of them, every day, as they came: why the steam came off the creek, why Haruto talked to the generator, why the baby put everything in her mouth, why Akari was angry all the time, where the creek went. ("To a river. And then to the sea." "What is the sea?" "It's... big water. Salt. It goes all the way to the edge." "The edge of what?" "Ask Haruto.") Some of the answers she didn't know, and then she said *I don't know*, which the girl seemed to find just as interesting as an answer. Under ANSWERS on the icebox door, the tally marks began to grow, slowly, and then not so slowly, and Haruto had to tape on a second sheet.
 
@@ -4581,6 +4701,10 @@ Akari came and stood beside him and looked at it.
 
 "It used to ask me if things were good." He watched the lantern turn slowly in the current and begin to drift. "After every fight. *Was that good?* And I never answered it. Not once. I thought there'd be time." He was quiet. "So."
 
+"And the one in your box?"
+
+"That's not him." He didn't take his eyes off the lantern. "It talks like him. Asks the same stupid things. That's me, not him. It learned it off me, because I'm the same as I was." He shrugged. "Navis is dead. That's what the lantern's for."
+
 Akari didn't say anything. After a moment, without looking at him, she reached over and took his hand, and he let her, and they stood there like that at the edge of the creek and watched it go.
 
 "I'm not floating one for you this year," she said.
@@ -4707,6 +4831,8 @@ He was quiet for a while. He kicked at the edge of the row, not hard, and a litt
 
 "I hated you because you didn't come for me," he said finally. "That's the stupid truth. Alex dragged me out, not you. You didn't even know I was alive, and you went and found something more important than me. And it turned out I was right, because 04 was the whole thing. And it still burned the world."
 
+He kicked at the row again. "And I liked you," he said. "Back then. That's the stupidest part. On the roof, at lunch. At the festival." He still didn't look at her. "The person I liked didn't ask if I was alive. Didn't look. Not once." He breathed out. "I know you came to the funeral. Alex told me. I know it's not fair. I'm just telling you why it was so heavy." A pause. "It's not like that anymore," he added, fast. "Just so you know."
+
 He laughed, raw.
 
 "It's all just blame. All of it. I blame you, you blame you, Alex blames himself, my father blames nobody, and none of it fixes anything. I've been carrying it around for six years like it was worth something. Like if I just held on to it hard enough, somebody would come and give me something for it." He shook his head. "Nobody's coming. Nobody's ever coming. It's just heavy."
@@ -4735,19 +4861,19 @@ April noticed first, while helping Nanami with the dishes. She lifted her hands 
 
 Nanami looked, and dropped the bowl she was holding, and it broke on the floor.
 
-By evening it was her hands, all the way to the wrists, clear and faintly glittering, like something carved out of ice. They still worked. She could still hold a cup. But when she held it, you could see the tea through her fingers.
+By evening it was her hands, all the way to the wrists, clear and faintly glittering, like something carved out of ice. They still worked. She could still hold a cup. But when she held it, you could see the tea through her fingers. The tea stayed hot.
 
 Akari came up the hill at a run with her medic's bag, and examined her at the kitchen table for a long time, with the lamp pulled close, and the whole house standing in the doorway. She didn't say anything during the examination. Afterward she packed her bag very slowly, and then she went outside, and Val followed her.
 
 They stood in the dead garden, in the cold. The creek steamed below the town.
 
-"She's coming apart," Akari said. She didn't look at Val. "I don't know how else to say it. Her body was made, Kane, not born. It came out of the door. You know that better than me. Whatever they were doing to her in the ruins, Umbral, whatever machines they had her hooked up to, it was holding her together. Out here, away from them..." She stopped. "It can't hold. It was never going to hold."
+"She's coming apart," Akari said. She didn't look at Val. "I don't know how else to say it. Her body was made, Kane, not born. It came out of the door, same as the giants." She wiped her nose on her sleeve. "Haruto says they make their own winter, everywhere they go. They have to, or this air would kill them. When she came here, everything she touched froze. You remember. Nanami warmed her rice twice." She stopped. "It stopped weeks ago. She's not one of them inside, Kane. She never was. She's a person, and every day she gets more like one, and a person doesn't make frost. And it's warm here." She stopped again. "It can't hold. It was never going to hold."
 
 "How long?"
 
 "I don't know. A day. Less." Akari's voice broke, and she was furious about it. "I don't have anything for this. I've got antibiotics and gauze and one bottle of morphine I've been saving since the walk out. There's no medicine for being made out of the wrong thing."
 
-"Then we take her back," Val said. "To the ruins. To whatever they had her hooked up to—"
+"Then we take her back," Val said. "North. To the ruins. Somewhere cold enough—"
 
 "It's three days, Kane." Akari still didn't look at her. "She's got one."
 
@@ -4927,7 +5053,15 @@ That night, in the wrecked mess hall, Alex told them what was coming.
 
 There were twenty of them around the one long table that wasn't broken: the bridge crew, the hangar chief, a handful of engineers, Maggie with her boots up, Seus at the far end with his arms folded. Val sat in the middle with a tray in front of her she hadn't touched. Alex stood at the head of the table with his one hand flat on it.
 
-"Total Assimilation," he said. "It's what the people above Umbral have been building toward since before any of us were born. You know how an exo assimilates to its pilot, until there's no line left between them? They want to do that to everyone. Every human mind on Earth, pulled into one. No more loneliness. No more pain. No more separate people." He looked around the table. "They call the ceremony the Rite. The door's been open since the Third War, and that's all the Rite needs. It starts tomorrow night."
+"Total Assimilation," he said. "It's what the people above Umbral have been building toward since before any of us were born."
+
+He looked around the table.
+
+"Every one of you has seen a seal. Every exo raises one. Every Nephil has one; it's the thing we have to break before we can touch them. What nobody tells you is that you've got one too." He touched his own chest with two fingers. "Everybody does. It's what keeps you you. It's what keeps you in. It's in the files we brought out of the archive, in their own words." He let that sit. "You all know what happens when a pilot's seal breaks in the capsule."
+
+"They go soft," said the hangar chief.
+
+"They want to do that to everyone. All at once. Every seal on Earth stripped, every mind running together into one. No more loneliness. No more pain. No more separate people, so nobody left to be on the other side of a war." His mouth twisted. "They call it salvation. They mean it. They call the ceremony the Rite, and it starts tomorrow night."
 
 Nobody said anything.
 
@@ -4935,9 +5069,13 @@ Nobody said anything.
 
 "Because they've been moving everything they have into the ruins of headquarters for a week. Every white unit in the sky. Every troop transport. And because the scar's been getting brighter every night since the Third War, and last night it started to hum." Alex looked down at the table. "And because it's in their book. Chapter and verse. They've been reading it like a schedule for fifty years, and they're right on time."
 
+"The door's shut," said someone down the table. "Abriel shut it."
+
+"Scarred shut. Something has to open it again. Their book says it opens tomorrow night. It never says how. It doesn't have to." He was quiet for a second. "They'll have arranged someone."
+
 "What about Patrick?" Val asked.
 
-Alex was quiet for a moment.
+Alex didn't answer right away.
 
 "Nobody's heard from him in days," he said.
 
@@ -4949,19 +5087,11 @@ It was torn down the middle and burnt along one edge, the way it had been in Ara
 
 Val heard it. She didn't think about it. She had other things to think about.
 
-The next night, at midnight, the sky tore open over the ruins of Hakobune, and the Rite began.
+The next night, at midnight, the scar over the ruins of Hakobune began to strain.
 
-It started along the scar. The long pale line from the hills to the top of the world, which had hung healed over the ruins since the Third War, began to glow, and then to burn, and then to split, from the middle outward, the way a seam splits when something pushes against it from inside. The door widened. It widened past where it had been in the Almost, past where it had been when Unit 12 touched it, until it filled the horizon, a wall of light from one edge of the world to the other, and the sound it made was the sound of every bell in the world being rung very softly at once.
+It started at the middle. The long pale line from the hills to the top of the world, which had hung healed over the ruins since the Third War, began to glow, and then to burn, and then to bulge, the way a seam bulges when something pushes against it from inside. It didn't split. Not yet. It hummed, the sound of every bell in the world being rung very softly at once, and the light that leaked along it lay across the frozen world like the light under a door.
 
-Total Assimilation poured out of it, and up toward it.
-
-Val watched it on the Vigil's monitors, from the bridge, with the whole crew silent around her. Feeds from settlements, from coastal towns, from the last relay stations still working. Across the frozen world, people were looking up. In streets and fields and on rooftops, they stopped what they were doing and lifted their faces to the light, and a look came over them, peaceful, almost relieved, like someone setting down a heavy bag at the end of a long walk. And then they began to come apart. Slowly, gently, into frost and light, from the edges in, the way frost comes off a window when the sun hits it. They rose. Thousands of them. Millions. Rising off the earth like snow falling in reverse, toward the door.
-
-Val knew that. She had seen it, in a capsule, in her own arms. It was how Abriel had gone.
-
-Somewhere, in a valley full of steam, a woman with a baby on her hip was looking up.
-
-Pilotless units circled the door, white and faceless, hundreds of them, like moths around a lamp. The Conclave's troops held the ruins of headquarters below, in black armor, around the shaft, with weapons that had never been meant for the Nephilim.
+Pilotless units circled it, white and faceless, hundreds of them, like moths around a lamp. The Conclave's troops held the ruins of headquarters below, in black armor, around the shaft, with weapons that had never been meant for the Nephilim. They were waiting for something.
 
 The Vigil flew straight into it.
 
@@ -4985,43 +5115,43 @@ There was a pause in the link. A long one. He felt it, the way you feel someone 
 
 "Was that good?" the unit asked, very quietly, in a voice that wasn't the old Navis's and was anyway.
 
-Seus closed his eye.
+Seus closed his eye. It wasn't him. He knew that. He'd said so to a lantern. He named it anyway.
 
 "Yeah," he said. "That was good."
 
 He dropped into the light.
 
-Far below, at the edge of the shaft above the Reliquary, Patrick Moriah stood alone with his hands behind his back, watching the Rite.
+Far below, at the edge of the shaft above the Reliquary, Patrick Moriah stood alone with his hands behind his back, watching the scar.
 
-He stood exactly where he had stood every day since the Almost, on a ledge of broken floor at the lip of the hole in the middle of the ruins, in his coat, with the glow from the bottom of the shaft lighting his face from underneath and the light of the door lighting it from above. The Conclave's voices were in his ear. They had been in his ear all night, calm, pleased, reading to each other from their book. He answered them when they asked him something. "Yes," he said. "Yes. On schedule. Yes."
+He stood exactly where he had stood every day since the Almost, on a ledge of broken floor at the lip of the hole in the middle of the ruins, in his coat, with the glow from the bottom of the shaft lighting his face from underneath and the light of the scar lighting it from above. The Conclave's voices were in his ear. They had been in his ear all night, calm, pleased, reading to each other from their book. He answered them when they asked him something. "Yes," he said. "Yes. On schedule. Yes."
 
-Then he took something small out of his coat.
+Then he took something out of his coat.
 
-It was an old-fashioned key, iron, heavy, the kind nobody had used in decades. Sam had given it to him years ago, in a hangar at night, a month before the end, coughing into his sleeve. *Hold this,* Sam had said. *Don't lose it. When the time is right, you'll know.*
+It was a folder, gray, gone soft at the corners, sealed with tape that had yellowed years ago and been cut once, carefully, and taped shut again. Sam had given it to him in a hangar at night, the year before the end, coughing into his sleeve. *Hold this,* Sam had said. *When the time is right, you'll know.*
 
 *Know what?*
 
 *You'll know.*
 
-That was all. That was the whole instruction. Patrick had carried the key in the inside pocket of every coat he had owned for fourteen years. He had held it through the funeral and the principal's office and seven years of a gray car at a school gate. He had held it through a port, and through a son walking eleven days across the ice to stand in front of his desk. He had held it, the way he held everything, on the hope that one day it would turn out to have been worth it.
+That was all. That was the whole instruction. Patrick had opened the folder once, the night after the funeral, alone in his office, and read it through, every page, in Sam's cramped capitals: what was buried in 04's core and how to reach it, what the Root was, what the swords were, what it would take to open the door and what to send up the stair once it was open. It told him everything to do. It never told him why. He had taped it shut again and carried it in the inside pocket of every coat he had owned for fourteen years. He had held it through the principal's office and seven years of a gray car at a school gate. He had held it through a port, and through a son walking eleven days across the ice to stand in front of his desk. He had held it, the way he held everything, on the hope that one day it would turn out to have been worth it.
 
-The panel it fit was set into the wall of the shaft just below the ledge, where the old warp-drive wing had broken away. It was older than the rest of headquarters, older than the wing, gray steel gone dark with frost, with a single keyhole in it. And a single word was scratched into its frame, by hand, with a knife, in letters that wavered as if the hand had been very tired: VALERIA.
+"It'll be worth it," Patrick said, to no one. "It has to be."
 
-It was Sam Kane's handwriting. Patrick had known that the first time he saw it. He had read that word a hundred times over the years, alone on this ledge, and he had always understood it the same way. *Val is the key.* The key to the plan. To whatever it was Sam had built and never told him. Whatever it was he was holding.
+He put the folder back in his coat and went down the service ladder into the shaft, slowly, the way a man his age climbs down a ladder.
 
-He fit the key into the panel and turned it.
+Far down, where the glow came from, the Root lay curled in the frost like something not yet born, pale as the inside of a shell. Two swords stood in it, side by side, where Umbral had set them back after the Third War. One burned with a cold fire that flickered like a flame in wind, always about to go out. The other burned perfectly steady, the way it had since a boy with pale hair shut a door with it and died.
 
-Under the Reliquary, something opened.
-
-It wasn't the Conclave's door. That was overhead, filling the sky. This was narrower, and older, and it went down instead of up: a path of light running straight down out of the bottom of the shaft, past the Root, into the heart of the Rite, into the place where everything that was coming apart was going. It opened quietly. It opened the way a door opens in a house where someone is sleeping.
-
-At the bottom of the shaft, Unit 12 waited, rebuilt from its own wreck.
+Just above it, hangar zero hung out over the drop on its steel arms, and in its cradle, Unit 12 waited, rebuilt from its own wreck.
 
 Patrick's people had found it on the frozen plain the week after the Third War, black and broken, with crystal still growing down one arm and a mask half shattered over its face, and they had brought it back and rebuilt it in hangar zero without asking him why, because nobody in Patrick's Umbral asked him anything. The crystal was gone now. The mask was gone. It was black glass again, tall and narrow, with its two capsules side by side along its spine.
 
-Patrick climbed down to it on the service ladder, slowly, the way a man his age climbs a ladder. He opened the capsule. He looked for a moment at the two seats.
+He opened the capsule. He looked for a moment at the two seats.
 
 He sat in the seat Abriel had died in.
+
+The folder had told him what it took. Three kinds of flesh in one body, and a sword that was willing. Unit 12 had been grown from the Root; it was the saint. He was the man. That was two.
+
+He waited for the third.
 
 High above him, Seus was losing.
 
@@ -5031,7 +5161,7 @@ The Vigil needed a way through to the shaft. He was supposed to make it one. He 
 
 And under his eyepatch, the thing behind it was awake.
 
-It had been awake since the door started to burn. It was kicking. It was laughing. It was saying the thing it always said, the thing it had said for six years in the dark behind his eye, like a kid kicking the back of a seat, except louder now, so much louder, filling his whole head.
+It had been awake since the scar started to burn. It was kicking. It was laughing. It was saying the thing it always said, the thing it had said for six years in the dark behind his eye, like a kid kicking the back of a seat, except louder now, so much louder, filling his whole head.
 
 *Let me out. Let me out. Let me out and we can win.*
 
@@ -5057,17 +5187,9 @@ They came apart in his hands. They came apart when he looked at them. He went th
 
 Unit 12 rose out of the shaft.
 
-It came up out of the ruins of headquarters on the path of light, black and silent, and the white units parted for it.
+It came up out of the ruins of headquarters black and silent, and the white units parted for it.
 
-In Patrick's ear, the Conclave's voices had stopped reading. They were saying his name now, in the tone of men who had just understood that something was wrong.
-
-"Commander Moriah. That path is not on the schedule. You are not authorized to—"
-
-"I held," Patrick said. "The time is right."
-
-He cut them off.
-
-He had known Seus would tear off the patch. He had counted on it. He had known it from the moment he saw it, in the doorway of his office in the ruins, the year after the Almost, when a boy who should have been dead came in out of eleven days of ice and stood in front of his desk with a black patch over one eye. He had known what was behind it. The door needed a Nephil to open all the way. Abriel was gone. Only one was left in the world, and it was in his son's eye.
+He had known Seus would tear off the patch. He had counted on it. He had known it from the moment he saw it, in the doorway of his office in the ruins, the year after the Almost, when a boy who should have been dead came in out of eleven days of ice and stood in front of his desk with a black patch over one eye. He had known what was behind it. Abriel was gone. Only one Nephil was left in the world, and it was in his son's eye.
 
 On the open channel, Seus heard breathing.
 
@@ -5091,17 +5213,51 @@ Nothing did.
 
 Unit 12 reached out and took Navis.
 
-It didn't strike it. It simply opened, the way a mouth opens, the black glass of its chest unfolding in long petals, and closed around Navis and the boy inside, and the light from Seus's eye went out of the sky.
+It didn't strike it. It simply opened, the way a mouth opens, the black glass of its chest unfolding in long petals, and closed around Navis and the boy inside. The frost pouring out of Seus's eye poured into it instead, into the black glass, into the Root-grown flesh and the man in its seat, and the light from Seus's eye went out of the sky.
+
+At the bottom of the shaft, the swords tore loose from the Root.
+
+They came up out of the frost end over end, like two sparks going up a chimney, the way the first of them had once come up the same shaft for Navis, to stop it. They stopped a hand's width from Unit 12's glass and hung there, side by side, the flickering one and the steady one, and their light lay across the black glass and across the man inside it.
+
+Patrick felt them look at him. There was no other word for it.
+
+He didn't know what they saw. Fourteen years of a folder in his coat. Twenty years of holding. And under all of it, older and plainer than any plan, the thing he had wanted since a hangar at three in the morning: for it to turn out to have been worth something.
+
+The swords turned.
+
+The steady one began, very slightly, to flicker.
+
+And the door opened.
+
+It opened across the sky and down the shaft at once, the same door seen from both ends. The scar split from the middle outward, the way a seam splits when something pushes against it from inside, and widened, past where it had been in the Almost, past where it had been when Unit 12 touched it the first time, until it filled the horizon, a wall of light from one edge of the world to the other. And at the bottom of the ruins, past the Root, a path of light ran straight down out of the shaft into the heart of it, into the place where everything was going to go. It opened quietly. It opened the way a door opens in a house where someone is sleeping.
+
+Total Assimilation poured out of it, and up toward it.
+
+In Patrick's ear, the Conclave's voices had stopped reading. They were saying his name now, in the tone of men who had just understood that something was wrong.
+
+"Commander Moriah. The door is open. You are to hold it from the shaft. Descending is not on the schedule. You are not authorized to—"
+
+"I held," Patrick said. "The time is right."
+
+He cut them off.
 
 Patrick never said a word to his son. He never had.
 
-Then Unit 12 went back down into the shaft and onto the path of light, carrying what it needed. Behind it, the path stayed open.
+Then Unit 12 went back down into the shaft and onto the path of light, carrying what it needed, with the two swords going down beside it like lamps carried into a dark house. Behind it, the path stayed open.
 
 ### Arc 69: The Trigger
 
 From the bridge of the Vigil, Val watched it happen.
 
-She stood at the long window with her hands flat on the glass, with the light of the door pouring over everything, and watched a black shape rise out of the ruins and open like a flower and close around Navis, and go back down. She heard Seus on the channel. She heard him say *Dad.* She heard the breathing. She heard it stop.
+She stood at the long window with her hands flat on the glass, with the light of the scar pouring over everything, and watched a black shape rise out of the ruins and open like a flower and close around Navis. She heard Seus on the channel. She heard him say *Dad.* She heard the breathing. She heard it stop.
+
+Then the door opened, and filled the sky, and the black shape went back down into it.
+
+On the monitors along the bridge, the feeds came in: settlements, coastal towns, the last relay stations still working. Across the frozen world, people were looking up. In streets and fields and on rooftops, they stopped what they were doing and lifted their faces to the light, and a look came over them, peaceful, almost relieved, like someone setting down a heavy bag at the end of a long walk. And then they began to come apart. Slowly, gently, into frost and light, from the edges in, the way frost comes off a window when the sun hits it: every seal on Earth going soft at once. They rose. Thousands of them. Millions. Rising off the earth like snow falling in reverse, toward the door.
+
+Val knew that. She had seen it, in a capsule, in her own arms. It was how Abriel had gone.
+
+Somewhere, in a valley full of steam, a woman with a baby on her hip was looking up.
 
 The Vigil was coming apart.
 
@@ -5203,7 +5359,7 @@ Unit 04 slid out of the open bay into the sky with Val clinging to its chest, an
 
 On the bridge, alone, in the red light, Alex Enoch took the controls.
 
-The crew was gone. He had sent them aft to the escape pods with a single order, the way he'd sent the town to the ramps, in a voice so calm none of them had argued. The ship was dark and silent and falling, and it handled like a barge in a storm, but it had wings, long grown wings of living tissue, and living tissue remembered how to glide. He found the angle. He found the line. Below him, through the window, the ruins of headquarters came up out of the light, and the shaft in the middle of them, and the Conclave's troops ringed around it in their black armor, and the white units swarming at its mouth to close it, and the path of light going down.
+The crew was gone. He had sent them aft to the escape pods with a single order, the way he'd sent the town to the ramps, in a voice so calm none of them had argued. The ship was dark and silent and falling, and it handled like a barge in a storm, but it had wings, long grown wings of living tissue, and living tissue remembered how to glide. He found the angle. He found the line. Below him, through the window, the ruins of headquarters came up out of the light, and the shaft in the middle of them, and the Conclave's troops ringed around it in their black armor, and the white units swarming at its mouth to hold it, and the path of light going down.
 
 White units hit the ship. He felt every one through the deck. He didn't turn.
 
@@ -5219,7 +5375,7 @@ He had taken him. He had come back. The stairs had been gone.
 
 The Vigil came down over the Reliquary.
 
-It came down the way the Morningstar had come down on Fuji, slow and enormous, burning. It came down across the ring of black armor around the shaft and the troops scattered and didn't scatter fast enough. It came down across the swarm of white units at the shaft's mouth, and swept them into the ruins like leaves. Its long spine broke across the lip of the shaft and tore it open, wide, wider, the old concrete and the frost and the broken floors of headquarters all going down together, so that the narrow way Patrick's key had opened became a road. And the ship broke apart over the Reliquary, over the sub-levels and the forgotten rooms and a door that wasn't on any map, and burned.
+It came down the way the Morningstar had come down on Fuji, slow and enormous, burning. It came down across the ring of black armor around the shaft and the troops scattered and didn't scatter fast enough. It came down across the swarm of white units at the shaft's mouth, and swept them into the ruins like leaves. Its long spine broke across the lip of the shaft and tore it open, wide, wider, the old concrete and the frost and the broken floors of headquarters all going down together, so that the narrow path Unit 12 had gone down became a road. And the ship broke apart over the Reliquary, over the sub-levels and the forgotten rooms and a door that wasn't on any map, and burned.
 
 Alex Enoch went down with it.
 
@@ -5318,6 +5474,8 @@ Unit 04 fell into the light.
 Heaven was outside time, and it was built from memory.
 
 Penemue had told her that much, in a corridor turned to frost: everything that ever happened is still happening there. Every day that ever was. What he hadn't told her, because maybe he hadn't known, was what it was made of. It was made of people. Every mind that had ever slipped outside time, in a white sky or a War on Heaven or a test that went wrong, was here, and everything those minds remembered was here with them, kept exactly, down to the dust. And tonight, with the Rite pulling every mind on Earth up through the door, there were more of them arriving every second. Heaven was filling up with rooms.
+
+It had rules, though nobody had ever written them down. She would learn them the way you learn the rules of a house in the dark: by walking into the furniture. Nothing in it weighed anything except what it weighed to someone. There was no up or down except the ones people remembered. And it gave you what you wanted most. It couldn't help it. Whatever you wanted hardest, it showed you, or built for you, out of whatever was nearest, and it couldn't tell what had happened from what you wished had happened. Neither could you, unless you knew how to look. The real rooms had something wrong in them: a crack, a scuff, a stain, frost in a corner. The ones somebody had only wished for were perfect, and cast no shadows. And the ones in between flickered, like a picture on a bad screen, as if they hadn't decided yet.
 
 Unit 04 fell out of the light and landed on a floor.
 
@@ -5443,13 +5601,13 @@ At the center of Heaven was a stair, and at the top of the stair was a throne.
 
 The stair rose out of the middle of all the rooms, out of everything, white and impossibly long, going up and up into a light so bright it had no color, so that you couldn't see the top except as a place where the light was thickest. Every room in Heaven was built around it the way a city is built around a cathedral. Every memory faced it. It was the one thing in Heaven that nobody remembered building.
 
-Unit 12 climbed toward it, carrying the Nephil it had taken from Seus's eye.
+Unit 12 climbed toward it, carrying the Nephil it had taken from Seus's eye, with the two swords going up beside it, one on either side, both flickering now.
 
 Val could see it, from inside the Beast, through 04's eyes, which weren't hers anymore. Unit 12 went up the first steps slowly, the way Patrick had gone down the ladder in the shaft, the way a man his age climbs anything. In the open center of its chest, where it had closed around Navis, something was glowing: a cold white light, small and hungry, the same light that had been behind a black patch for six years. The last child. Going home.
 
-When it reached the foot of the stair, Heaven opened.
+When it reached the foot of the stair, the light at the top of it parted.
 
-Not the half-open seam the Almost had left in the sky. Not the door the Third War had torn and the Rite had widened. All the way. From top to bottom, from the stair to the edges of everything, the way it had been built to open, a long time ago, for a child coming home. The light at the top of the stair parted like a curtain. And there, at the top, Val could see it now, small and far and absolutely clear: a chair.
+Heaven gives you what you want most, and the last child wanted home. The light at the top of the stair drew back like a curtain, the way it had been built to, a long time ago, for a child coming home. And there, at the top, Val could see it now, small and far and absolutely clear: a chair.
 
 Then Patrick drove the Beast up the stair.
 
@@ -5457,13 +5615,13 @@ Val was inside it. So, through Proxy, was he. From an ops room, Proxy could move
 
 They poured over both of them as the Beast climbed.
 
-And for the first time in twenty years, Patrick saw the plan he had been holding.
+He had read the folder, every page of it, once. And for the first time in twenty years, Patrick saw what he had been holding.
 
 They watched it together.
 
 Val felt him see it. She felt it go into him, the way cold water goes into a cracked jar. She saw it with him, because there was nowhere else to look, because the memories were the walls now, and the floor, and the light.
 
-Sam's plan had never really been about Umbral. Umbral was only the door. It always had been. The people above Umbral wanted Heaven open, for their Rite, for their one mind forever; let them. Let them open it. Let them spend fifty years and a white sky and a city and a hundred pilots opening it. And when it was open, take it from them. Take the door. And send the Beast up the stair, all the way up, to the top, to kill whoever sat on the throne.
+Sam's plan had never really been about Umbral. Umbral was only the door. It always had been. The people above Umbral wanted Heaven open, for their Rite, for their one mind forever; let them. Let them spend fifty years and a white sky and a city and a hundred pilots getting it open. And when it opened, go through it first. Take the door. And send the Beast up the stair, all the way up, to the top, to kill whoever sat on the throne.
 
 Whoever had let a giant fall on a house where two little girls were waiting for their brother to come home from school. Whoever had let Sora die in a test chamber at two in the afternoon, alone, with nobody holding her hand. Whoever had watched all of it from up there, and said nothing. Not once. Not one word. It was a war on God, a Fourth War on Heaven, and Sam Kane had built it alone, in a hangar, at night, over years, coughing blood into his sleeve, with the cancer eating him from the inside.
 
@@ -5481,7 +5639,7 @@ It reached the top of the stair. The light was so thick there that it had weight
 
 It was empty.
 
-There was no one there. There was no one sitting on it, no one standing behind it, no one hiding in the light around it. There had never been anyone there. Val could see that. The chair had the look of a chair nobody has ever sat in: no wear on the arms, no dent in the seat, nothing. It had been waiting at the top of the stair since before the saints went up to ask their question, and nobody had answered them because there was nobody there to answer.
+There was no one there. There was no one sitting on it, no one standing behind it, no one hiding in the light around it. The chair had the look of a chair nobody has sat in for a very long time, or ever: no wear on the arms, no dent in the seat, nothing. Val couldn't tell which. Maybe someone had been there, once, and said nothing. Maybe no one had ever been there at all. The saints had climbed this stair to ask their question, and heard nothing, and gone to war over it either way.
 
 Sam's war had been against an empty chair.
 
@@ -5503,7 +5661,7 @@ He had known her. He had sat at their table, Sam and Sora's, in a small apartmen
 
 Then they saw the last thing in the core.
 
-It was a hangar at night, a month before the end.
+It was a hangar at night, in the last year, a long time before the end and not long enough.
 
 Sam was in it, alone, too sick to stand without leaning on something. He leaned on Pip's leg. He was gaunt and gray and he had stopped going to the talk shows months ago, and he breathed the way the very sick breathe, with his whole body, with a sound in it. He was looking at Pip, at the core in its chest, at the locked room he had built inside it.
 
@@ -5515,17 +5673,21 @@ And he couldn't.
 
 He had run out of ways to undo what he'd built. The rage was locked in the core, behind a door he had locked from the inside, and he had built it too well; he couldn't reach it anymore, not without breaking the core, and if he broke the core there would be nothing left for his daughter to pilot when the Conclave came for her, and they would come for her. The missions never stopped long enough for him to find Patrick alone and tell him to quit, and every room in headquarters had the Conclave's ears in it, and Patrick was the only man alive the Conclave didn't watch, because Patrick didn't know anything. If Sam told him, they would know. So he didn't.
 
+He had given Patrick the folder the spring before, when he still meant every word in it. *Hold this.* He couldn't take it back now without saying why, and if he said why, they would hear.
+
 So he did the one thing he still could.
 
-He went down to the edge of the shaft with his tools and a knife, at night, alone, leaning on the walls. He found the old maintenance panel in the shaft wall, below where the warp-drive wing would be built, older than anything, and he opened it, and worked inside it for hours with his hands shaking. He rebuilt the way down. He made it so that it would stay open behind whoever used it. A door that couldn't be closed by the one who went through it. A door you could follow someone through.
+He couldn't reach the rage. But he could put something next to it.
 
-Then he took the knife and scratched her name into the frame, slowly, one letter at a time, stopping to cough, stopping to rest his forehead against the cold steel. V. A. L. E. R. I. A.
+All that last year, in Pip's capsule with the walls dark, he had been building something small in another corner of the core, beside the thing he had built to burn Heaven. Not a weapon. Not a plan. A voice: curious, the kind of thing that keeps asking when nobody answers. He was hoping it would grow big enough, someday, to sit on the rage.
 
-"Patrick will finish it," Sam said to no one, or to Pip, who was far above him in the hangar and couldn't hear. He put the knife away. "He's better at holding on than I am. He'll hold this till it kills him. He'll take it all the way up." He looked at the name on the frame. "So it has to be her. She can follow him down. She can stop it."
+He didn't know if it would work. He didn't know how far any of it would go. By then he was too sick to know much of anything, except that he had to try.
 
-He put his hand flat on the panel, over the letters.
+"Patrick will finish it," Sam said to no one, or to Pip, who was far above him in the hangar and couldn't hear. "He's better at holding on than I am. He'll hold this till it kills him. He'll take it all the way up." He breathed, the way the very sick breathe. "So she has to grow. If she grows, there's nothing down there for him to wake. He'll reach in for the fire and find a little girl asking questions."
 
-"She's the key," he said.
+He put his hand flat on Pip's leg, as high as he could reach, toward the place where the small new thing was.
+
+"Grow," he said. "Please."
 
 Patrick let go of Proxy.
 
@@ -5533,13 +5695,15 @@ He did it all at once. Val felt his mind let go of the rage the way a hand lets 
 
 The Beast stopped on the top step, in front of the empty chair, and the fire stopped with it.
 
+Below the stair, beside Unit 12, one of the two swords stopped flickering. Its flame stood up straight and still, the way it had burned in its case before anyone wanted anything from it.
+
 Slowly, the rage drew back into itself. It came down off the stair, step by step, a great shape of heat and smoke and old fury going down out of the light, into the center of Heaven, where all the rooms met. And in the center of Heaven, there was a house burning. A small house, in a district by the harbor, two stories, with a laundry pole on the balcony, burning the way it had been burning since the day a giant fell on it, when a boy of seventeen came home from school. The rage went down to it. It went into the fire. And it sat down in the fire, the way a tired man sits down in his own kitchen, and went still.
 
 Patrick sat in Unit 12 for a long time without moving.
 
 Val could hear him breathing on the channel. In, and out. A long time.
 
-"It was stupid," he said at last. "All of it. A war against an empty chair. He gave up his daughter for it. I gave up my son for it." He laughed once, and it didn't sound like a laugh. "And he saw it in time. He had a month left, and he spent it trying to stop himself. I had twenty years. I had Theseus. I had you, every quiet afternoon at that gate. And I held. I held on to the hope that it would all be worth it, because if it wasn't, I'd done all of it for nothing."
+"It was stupid," he said at last. "All of it. A war against an empty chair. He gave up his daughter for it. I gave up my son for it." He laughed once, and it didn't sound like a laugh. "And he saw it in time. He had a year left, and he spent it trying to stop himself. I had twenty years. I had Theseus. I had you, every quiet afternoon at that gate. And I held. I held on to the hope that it would all be worth it, because if it wasn't, I'd done all of it for nothing."
 
 On the screen of 04's wall, Unit 12's head bowed. In the capsule, she knew, he had put his face in his hands.
 
@@ -5603,6 +5767,10 @@ The train rocked.
 
 "I saw the patch," Patrick said. "I knew what was behind it. I knew I would need it. That's why I sent you away." He didn't look up. "I couldn't look at you and know that."
 
+"I tore it off," Seus said. His voice was barely there. "You didn't make me. I did that. The door. Everyone out there coming apart—"
+
+"I counted on it," Patrick said. "I sat in the dark at the bottom of the shaft and waited for you to."
+
 The train rocked. The lights flickered. Outside, the light went past.
 
 "I used to paint," Patrick said after a while. "Landscapes. No people in them. People leave, and mountains don't." He almost smiled. "I should have painted you."
@@ -5643,7 +5811,7 @@ It was the first time Seus had ever seen him wave.
 
 Then the train pulled away, into the light, and was gone. And Seus woke up in Navis on the frozen ground at the edge of the shaft, in the ruins, in the snow, with the light of the door pouring down on him and the burning wreck of the Vigil a hundred meters away.
 
-The crystal was gone from Navis's arms. The mask was gone from its face. The patch was gone, and his eye was just an eye. He could see out of it. It didn't talk. It didn't kick. It was quiet in there for the first time in six years, and he sat in the capsule in the quiet with his hands over his face, and he was crying, for the first time since he was small.
+The crystal was gone from Navis's arms. The mask was gone from its face. The patch was gone, and his eye was just an eye. He could see out of it. It didn't talk. It didn't kick. It was quiet in there for the first time in six years, because what had lived in it was gone, carried up a stair in his father's hands, and he sat in the capsule in the quiet with his hands over his face, and he was crying, for the first time since he was small.
 
 "Pilot?" said Navis, softly, after a while. "Are you damaged?"
 
@@ -5664,6 +5832,10 @@ When the fire went out of the rooms, Val saw everyone.
 Not the way she had seen them before. The way they truly were.
 
 It was the Rite, she understood later. Every mind on Earth was being pulled up through the door, into the light, into the one mind the Conclave had wanted, and every one of them was passing through here on the way. For a moment, a long moment outside time, they were all in Heaven at once, all of them, the living and the dead, the ones coming apart and the ones who had come apart years ago. And when the fire went out and the smoke cleared, she could see into all of them, the way you see into a lit room from a dark street.
+
+Every one of them was where they had most wanted to be. That was the last thing the Rite did, before the edges went: it gave each person the one thing they wanted, whole, so they would let go of everything else. In a moment they would run into each other and be nobody. Until then, each of them was more themselves than they had ever been allowed to be.
+
+And she was awake to see it. The Rite had taken everyone who hadn't chosen to come. The few who had come in on their own stayed themselves: the ones who had been here long before the Rite began, and the ones who had walked in with their eyes open. And her.
 
 She saw Alex.
 
@@ -5741,7 +5913,7 @@ Sae smiled at her. Then she looked back out at the valley that wasn't there, the
 
 She saw Palindrome.
 
-He was standing at the head of a long white corridor that smelled of disinfectant, in a facility that wasn't there anymore, and he wasn't alone. There were children all down the corridor behind him, two dozen of them, in gray program smocks, most of them younger than Val: a boy with a bandage on his wrist, two girls holding hands, a girl with her eyes shut who turned her face toward Val anyway, as if she could see straight through the light. Nobody had sewn anything into any of them. Not here. Palindrome's face had no scar. It was only a face, a little lopsided, forty-one and looking it. He was walking them out, slowly, in a line, counting heads under his breath, the way someone had once walked a plant full of workers out past a fence and left them standing in the parking lot, unhurt.
+He was standing at the head of a long white corridor that smelled of disinfectant, in a facility that wasn't there anymore, and he wasn't alone. There were children all down the corridor behind him, two dozen of them, in gray program smocks, most of them younger than Val: a boy with a bandage on his wrist, two girls holding hands, a girl with her eyes shut who turned her face toward Val anyway, as if she could see straight through the light. Nobody had sewn anything into any of them. Not here. Palindrome walked at the front, and he was fourteen. His face had no scar. It was only a face, a little lopsided, a boy's face, the age he had been when the program ended, before every reversal took its years out of him. Here he had never gotten old. He was walking them out, slowly, in a line, counting heads under his breath, the way someone had once walked a plant full of workers out past a fence and left them standing in the parking lot, unhurt.
 
 He saw Val. He didn't smile the polite smile.
 
@@ -5767,7 +5939,13 @@ Not the core she had climbed into at nine. Before that. The same hangar, the sam
 
 "I asked him once if I could meet you. He said he didn't really know you." A pause, the kind a machine doesn't need to take. "So we only met the once. For the link. I read you, at the end, before I went." The work lights hummed. "You spin the pencil. You don't like it when people kneel to you. You like the rolled omelettes. The sweet ones." The voice went quieter. "He always wanted to know that. I found out too late to tell him."
 
-"Yes," Val said. "The sweet ones."
+"Why did you go?"
+
+"He'd made someone else. For you. Someone small, who'd ask you things." The voice was gentle about it, the way you're gentle about something you made peace with a long time ago. "There wasn't room for both of us. She needed to grow."
+
+Val was quiet for a while. Then she went back to the thing he had wanted to know, because it seemed like the right thing to give him.
+
+"Yes," she said. "The sweet ones."
 
 "Good," said Pip, pleased, the way a child is pleased to have gotten something right. "Then we've met."
 
@@ -5803,11 +5981,11 @@ In the middle of the stone floor, in a hollow worn smooth, as if it had been mad
 
 And kneeling beside him on the stone, holding his hand, was a girl.
 
-She had short hair, cut above the neck. She wore a gray parka, too big for her, with the hood pushed back. Her face was turned away, toward the boy, and she was crying, quietly, the way you cry when you've been crying for a very long time and there's nothing left in it but the shape.
+She had short hair, cut above the neck. She wore a gray parka, too big for her, with the hood pushed back. Her face was turned away, toward the boy, so that Val couldn't see it, and she was crying, quietly, the way you cry when you've been crying for a very long time and there's nothing left in it but the shape.
 
 "Please," the girl said to the boy. Her voice was rusted, barely there. "Please. Make Valeria happy."
 
-Val stood in the dark and watched herself say it.
+Val stood in the dark and tried to see her face, and couldn't.
 
 "Hello again," said someone beside her.
 
@@ -5815,19 +5993,19 @@ She turned.
 
 Abriel was sitting on a ledge of rock a little above her, with his legs hanging over the edge, the way he had sat on the roof of the ruins every night for a week. He was in his white flight suit. There was no Halo at his throat. His hair was pale and untidy and his face was exactly the same, and he was smiling at her the way he had smiled the first night, as if she were exactly who he had been waiting for.
 
-"That's me," Val said. She pointed, uselessly, at the girl on the stone.
+"Is that me?" Val said. She pointed, uselessly, at the girl on the stone. The short hair. The parka. It could have been. It could have been her mother, at sixteen. It could have been anyone with short hair who had lost everything.
 
-"That's you," Abriel agreed. "The first time."
+"I don't know," Abriel said. "I never saw her face. I've tried to remember it, every time around. I can't. I remember her hand. I remember what she asked." He looked down at the stone. "That's the first time."
 
 "The first time what?"
 
 He looked down at the girl and the boy for a long moment before he answered.
 
-"This has all happened before, Val," he said. "Not exactly. Close. The world ends, and you end up here, outside time, at the end of everything. And you find this room." He tilted his head at the girl. "The first time, there was nobody with you. No roof. No Moon. No me. Everyone you knew was gone, and you were alone in Heaven at the end of the world, and the only other thing awake in all of it was a boy on the Moon who didn't have a name yet." He smiled, a little sadly. "So you came to me. You knelt down and you held my hand. You were the first thing I ever touched. And you asked me the only thing you'd ever asked anybody for."
+"This has all happened before, Val," he said. "Not exactly. Close. The world ends, and you end up here, outside time, at the end of everything. And you find this room." He tilted his head at the girl. "The first time, she was alone. Everyone she knew was gone, and she was alone in Heaven at the end of the world, and the only other thing awake in all of it was a boy on the Moon who didn't have a name yet." He smiled, a little sadly. "So she came to me. She knelt down and held my hand. She was the first thing I ever touched. And she asked me for one thing."
 
 "Make Valeria happy," Val whispered.
 
-"And then the world started over, the way it does. And I woke up in the dark with your hand still warm in mine, and I waited." He looked up at the roof of the grave, at the pale ribs glowing in the rock. "I waited, and I came down, and I found you, and I tried. And I failed, and the world ended, and you came here, and you found me again, and you asked me again." He shrugged. "You never remember. I always do. That's how I knew you on the roof. That's why I said—"
+"And then the world started over. And I woke up in the dark with her hand still warm in mine, and I waited." He looked up at the roof of the grave, at the pale ribs glowing in the rock. "I waited, and I came down, and I found you, and I tried. And I failed, and the world ended, and you came up here, to Heaven, and you asked it to take everything back. Every time. And Heaven gives you what you want most. So it did." He shrugged. "And every time, I'd told you there was a way to fix it. A sword, a door, one more try. I thought that was helping. You never remember. I always do. That's how I knew you on the roof. That's why I said—"
 
 "This time around," said Val.
 
@@ -5835,15 +6013,15 @@ He looked down at the girl and the boy for a long moment before he answered.
 
 "How many times?"
 
-"I stopped counting." He looked down at his hands. "It doesn't matter. It's always the same ending. I always die at the door, and you always break, and you always come here, and you always ask."
+"I stopped counting." He looked down at his hands. "It doesn't matter. It's always the same ending. I always die at the door, and you always break, and you always come here, and you always ask to take it back."
 
 Val looked at him.
 
 She looked at him for a long time, there in the dark of the grave, with the girl crying on the stone below them and the small boy shivering in the hollow. And she saw it.
 
-She had seen it on a ledge above a shaft, in a man in a coat with an iron key in his inside pocket, holding it for twenty years because somebody had told him *hold*. She had seen it in a hangar at night, in a man leaning on his unit's leg, building a war out of a promise he had made to two little girls in a burning house. She had seen it in a voice in Navis's walls, waiting twenty-seven years to go back to one morning. A man who had been given one instruction, once, and had built his whole life around keeping it, without ever stopping to ask whether it was still what anyone wanted.
+She had seen it on a ledge above a shaft, in a man in a coat on a ledge, holding a dead man's plan for years because somebody had told him *hold*. She had seen it in a hangar at night, in a man leaning on his unit's leg, building a war out of a promise he had made to two little girls in a burning house. She had seen it in a voice in Navis's walls, waiting twenty-seven years to go back to one morning. A man who had been given one instruction, once, and had built his whole life around keeping it, without ever stopping to ask whether it was still what anyone wanted.
 
-Abriel was the same. He had held her request through every time around. He had waited on the Moon for it and fallen out of the sky for it and died at the door for it, smiling, over and over, and he had never once asked himself if there was anything else he wanted. It wasn't that he didn't love her. It was that the love had turned into a room he couldn't get out of.
+Abriel was the same. He didn't even remember who had asked him. He had held the request through every time around anyway. He had waited on the Moon for it and fallen out of the sky for it and died at the door for it, smiling, over and over, and he had never once asked himself if there was anything else he wanted. It wasn't that he didn't love her. It was that the love had turned into a room he couldn't get out of.
 
 He was like Patrick. He was like her father.
 
@@ -5883,7 +6061,7 @@ Abriel opened his mouth, and closed it. She watched him look for it, the way you
 
 She climbed down off the ledge.
 
-She crossed the stone floor of the grave in the dark, to the hollow where the small boy lay shivering, and the girl in the gray parka kneeling beside him looked up at her as she came. It was like looking into a cracked mirror. The same face, older somehow, emptier, with all the crying gone out of it. The first Val looked at the second for a long moment, without surprise, the way you look at someone in a dream. Then she let go of the boy's hand, and stood, and stepped back into the dark, and was gone.
+She crossed the stone floor of the grave in the dark, to the hollow where the small boy lay shivering, and the girl in the gray parka kneeling beside him didn't look up. She let go of the boy's hand as Val came, the way you hand something over at the end of a long shift, and stood, and stepped back into the dark with her face still turned away, and was gone. Val never saw her face. She found she didn't need to.
 
 Val knelt down where she had been.
 
@@ -5901,13 +6079,21 @@ He was looking up at the dawn.
 
 "This never happened," he said. "Not once. Not in all the times."
 
+Val felt it the way you feel ice let go on a river: somewhere far below everything, something that had been turning over and over for longer than she could think about had stopped. It had broken here first. In a grave on the Moon, for the one who had been here at the very start.
+
 "You told me it always ends the same," Val said. "You were right. I couldn't undo it." She looked at the line of daylight on the stone, on the small boy's face. "You were wrong that nothing could change."
 
 Abriel looked down at her, and he smiled, and it was a different smile from any of the ones she knew. It wasn't waiting for anything.
 
-"See you—" he started, and stopped himself. He laughed. "No. I won't, will I?"
+"Can I tell you something?" he said. "The first time around, I'd known you a week. I loved you anyway. I don't know why. I knew how it ended. I chose it every time." He said it simply, the way he had said she was beautiful, as a fact. "I'm not telling you so you'll do anything about it."
 
-"No," said Val.
+"I know," said Val.
+
+He was quiet. Then, carefully, like someone trying out a word in a language he had only just started learning: "If I find you out there. After. Is that all right?"
+
+"You don't need me to say yes," said Val. "That's the whole point."
+
+Abriel looked at her for a long moment. Then he laughed, the startled bright laugh, as if she had shown him a new constellation.
 
 "Good," said Abriel, and he meant it.
 
@@ -6075,7 +6261,13 @@ Sora Yukimura had worked on the door, years before anyone called it that. She to
 
 Her mind had gone through the door that afternoon, and it had never come back. It had been here ever since. Outside time. Watching.
 
-"I saw all of it," Sora said. "Everything. You at the nanny's. You at nine, with your head on the desk. The seven days. The port." Her face did something. "The white room. I saw all of it, and I couldn't do anything. That's what it's like, in here. You can see everything. You can't touch anything." She looked at Val. "Except now. Now you're here."
+"They were never engines," Sora said. "The drives. We built them around the Root, and they leaned on the door, like a crack leans on a window. They open one way." She turned the pencil over. "Nothing comes back through a door like that."
+
+"What is this place?"
+
+"Thought. Memory. Everything anyone ever kept." She said it the way she might have explained a result at a meeting, a little apologetically, as if it were obvious once you saw it. "There's no physics here. It does what you want, if you want hard enough. It shows you what happened, and it shows you what you wished had happened, and it can't tell the difference. Most people can't either." She tapped the dents at the end of the pencil. "The real ones always have something wrong with them. That's how you tell."
+
+"I saw all of it," Sora said. "Everything. You at the nanny's. You at nine, with your head on the desk. The seven days. The port." Her face did something. "The white room. I saw all of it, and I couldn't do anything. That's what it's like, in here. You can see everything out there. You can't touch any of it." She looked at Val. "Except now. Now you're here."
 
 She held out her hand.
 
@@ -6091,13 +6283,13 @@ She saw him lose her, and drown.
 
 She saw him come home from patrol to a phone call. She saw him sit on the floor of a small apartment by the harbor with his back against the door for a whole night. She saw him look at a two-year-old asleep in a crib and not be able to go in. She saw him hand her to a nanny. She saw him go back to the hangar, and climb into Pip, and stay there.
 
-She saw him find out, years later, from a file he wasn't supposed to see, that the test had been arranged. She saw what that did to him. She saw him build the rage and the plan, in a hangar at night, behind Pip's back, a room in the core with the door locked from the inside, and make his daughter its instrument. The key. The one piece that held it all together.
+She saw him find out, years later, from a file he wasn't supposed to see, that the test had been arranged. She saw what that did to him. She saw him build the rage and the plan, in a hangar at night, behind Pip's back, a room in the core with the door locked from the inside, and make his daughter its instrument. The one piece the whole thing needed.
 
 And then she saw him try to change again.
 
-She saw him in the hangar at night, the last year, sicker every week, sitting in Pip's capsule with the walls dark. Building something else. Not the rage. Something small, beside it, in another corner of the core. A voice. A child's voice, bright and too loud and curious about everything, made out of every question he had ever wanted to ask his daughter and never had. *Do you have a name for me? Why is the sky blue? Why is your hair like that? Do you have a mom? What's your favorite food? Did I do something wrong?* He wrote it in, piece by piece, night after night, for a girl he didn't know, so that when she sat in this capsule someday, something in it would be glad she was there. Something in it would ask.
+She saw him in the hangar at night, the last year, sicker every week, sitting in Pip's capsule with the walls dark. Building something else. Not the rage. Something small, beside it, in another corner of the core. Not himself; he was careful about that. A new nature. A child, bright and too loud and curious about everything, shaped to whatever he thought his daughter was like, and whatever he thought she would need. He started it off with every question he had ever wanted to ask her and never had. *Do you have a name for me? Why is the sky blue? Why is your hair like that? Do you have a mom? What's your favorite food? Did I do something wrong?* Then he let it grow its own. He built it in, piece by piece, night after night, for a girl he didn't know, so that when she sat in this capsule someday, something in it would be glad she was there. Something in it would ask. Pip watched him do it, and understood what it meant, and didn't say anything.
 
-The voice that asked her for a name on the first day had been her father's, all along.
+The voice that asked her for a name on the first day had never been her father. It was what her father thought she would need. And then it had become itself.
 
 He ran out of time.
 
@@ -6127,7 +6319,7 @@ He told it standing up, with his hands at his sides, the way you'd give a statem
 
 "There was an exo in the street. A second-generation unit, torn open. The pilot was lying half out of it, dying. And the core was still running." His jaw worked. "I pushed him out. With my hands. He was holding on to the seat, and I pushed him out of his own capsule, and I climbed in. I didn't know anything about how it worked. I didn't know about assimilation, or natures, or any of it. I just wanted to hit something." A breath. "His name was Penemue, later. Before that, he had another name, and a little girl called Mio, who called his exo *Pipstick* because she couldn't say *pilot* or *ship*. I flew under that name for twenty years. I never once asked where it came from."
 
-"The rage," Sam said. "You've felt it. You know. It was the best thing I'd ever felt. It was the only thing that held me up. Everything else, the funerals, my mother, the medals, the talk shows, all of it was just noise around it. And the people above Umbral loved it. They wanted me exactly the way I was. They had steered that Fall into my district, Valeria. On purpose. Because they needed a pilot with a hole in him exactly that shape, and they knew how to make one." He looked down. "When I finally became a problem, they started putting something in my food. Slowly. Over years. By the time I knew, it was the cancer, and there was nothing to do about it."
+"The rage," Sam said. "You've felt it. You know. It was the best thing I'd ever felt. It was the only thing that held me up. Everything else, the funerals, my mother, the medals, the talk shows, all of it was just noise around it. And the people above Umbral loved it. They have a book, Valeria. It said someone like me would come. Somebody who'd lost everything, climbing into a dead man's machine. They didn't make me. They didn't have to. They just watched me climb in, and recognized me, and made sure I never climbed out." He looked down. "When I finally became a problem, they started putting something in my food. Slowly. Over years. By the time I knew, it was the cancer, and there was nothing to do about it."
 
 "And Sora." He glanced at her mother, standing at the edge of the light, and his whole face changed, softened, the way a cold room softens when someone opens a door. "She sat down at my table because it was the only seat. And she talked about the stars for an hour, and I didn't understand a word, and I didn't want her to stop. She made me afraid of being alone. Do you understand? Nobody had ever done that. I'd been alone since I was seventeen and it had never once scared me."
 
@@ -6143,7 +6335,9 @@ He nodded, slowly. "The first time, I brought you her pencil, from her desk at t
 
 He laughed a little, without much in it.
 
-"And I said *next time*. And I went home and sat in the car for an hour and Patrick didn't say anything."
+"And I said *next time*. And I went home and sat in the car for an hour and Patrick didn't say anything." He made himself look at her. "You were six. Six-year-olds look at the floor. I was the grown-up. I heard you not answer and decided it meant no."
+
+Val had carried that doorway her whole life as the place where she had failed. It had never been her silence. It had been what he did with it.
 
 "The second time," he said, "you were eight. You had a fever. A bad one. Fumi called the hangar, I don't know how she got the number. I came in the middle of the night. You were asleep. You slept the whole time, and I sat beside your bed, and put a cloth on your head, and changed it when it got warm. All night. And when it got light, and your fever broke, I left. Before you woke up." He looked at her. "Because I didn't know what I'd say. Because if you woke up and looked at me the way you looked at the floor, I didn't think I could stand it."
 
@@ -6155,7 +6349,7 @@ Val didn't move.
 
 "And the facility," he said. He didn't look away from her. That was the hardest part to watch: that he made himself not look away. "Twenty-six kids. They told me to make sure nobody testified, and I did it. I went through that building room by room. I missed one in a tank in the basement. One reversed my shot." His hands stayed at his sides. "I told myself they'd never have been people again, after what was done to them. That I was letting them go. I was lying. I knew it then."
 
-"The plan," he said. "You've seen it. You were inside it. I built a war on God because I wanted someone to blame for my sisters and for Sora, and I couldn't find anyone big enough, so I went looking for the biggest thing there was. And I made you the key to it. My own kid." His voice broke for the first time. "And then I changed my mind. Too late. I changed my mind with a month left, and I couldn't undo it, and I couldn't tell anyone, so I took a knife and went down to the shaft in the middle of the night and scratched your name into a door, and hoped. That's the last thing I did. I hoped. I'd never done that before either."
+"The plan," he said. "You've seen it. You were inside it. I built a war on God because I wanted someone to blame for my sisters and for Sora, and I couldn't find anyone big enough, so I went looking for the biggest thing there was. And I built it around you. My own kid." His voice broke for the first time. "And then I changed my mind. Too late. Sick, with a year left. I'd built it too well. I couldn't reach it without breaking the core, and you'd need the core. And I couldn't tell anyone, because every room had their ears in it. So I made something else, next to it. Something small. I didn't put me in there. I'd done enough. I tried to make what you'd need." He breathed. "I didn't know it would go as far as it did. I didn't know anything. I just hoped she'd grow big enough to sit on the rest of it. That's the last thing I did. I hoped. I'd never done that before either."
 
 "The night I died," Sam said, "the sky was burning over the harbor. A Fall. I was in Pip. I knew I wasn't coming back from that one; I was too sick. And do you know what I thought about? At the very end?" He almost smiled. "Not Sora. Not the plan. Not the Conclave. I thought: I never found out what she likes to eat."
 
@@ -6233,7 +6427,7 @@ It went to them, and the other two opened their arms, and it went in between the
 
 The child who had asked seven questions. The girl who had asked a hundred. And the small new thing, who had only asked two, *Who are you?* and *Who am I?*, and had gotten an answer to both.
 
-They held each other in the embers. Innocence, and want, and what was left after the rage. A voice her father had written for her out of every question he never asked. A body she had wanted so hard that the door had made it. And the last green thread that had come up out of a burned floor.
+They held each other in the embers. The one Val had named in a white room. The one Heaven had built out of frost because Val wanted her back so badly, with April's face and none of her memories. And the one asleep in 04's core all along, starting over from nothing. Curiosity, and the want to live, and whatever came next. They had always been the same girl, the way a river is the same river.
 
 For the first time, 04 was whole.
 
@@ -6265,9 +6459,13 @@ At seventeen, Sam had run into that house and climbed into a dead man's exo. His
 
 She refused it.
 
-The Rite was still pulling. She could feel it all around her, in every direction, the whole weight of it: every mind on Earth rising through the door, coming apart, pouring up into the light to become one mind. Nanami counting heads in a valley full of steam. Akari with her hand on her brother's shoulder. Kōta. Hinata, in her mother's arms, going bright at the edges. And all of them, every one, was offering her the same thing, in all their voices at once, warm and close and gentle as a hand on the back of the neck.
+The Rite was still pulling. She could feel it all around her, in every direction, the whole weight of it: every mind on Earth rising through the door, every seal giving way at once, coming apart, pouring up into the light to become one mind. Nanami counting heads in a valley full of steam. Akari with her hand on her brother's shoulder. Kōta. Hinata, in her mother's arms, going bright at the edges. And all of them, every one, was offering her the same thing, in all their voices at once, warm and close and gentle as a hand on the back of the neck.
 
 *Stay. Stay with us. You'll never be alone again. No more loneliness. No more pain. No more separate people. Just us. Forever.*
+
+She could see where it went. Past the rooms, past the perfect evenings and the kitchens and the long tables, every person she had just seen whole was running into the next one, the way a pilot runs when the seal goes: warm, soft, with no edges left, into one bright sea. It wasn't death. Nobody in it was dead. Nobody in it was anybody. It didn't think. It didn't want anything. It would never have to say a word to anyone again, because there would be no one else to say it to. It just was.
+
+She had seen every one of them for exactly who they were, all the way down, in the last few minutes. The Conclave had given her that, without meaning to. It still wasn't the same as being with them.
 
 Val Kane had spent her whole life refusing connection. She had folded herself small and put herself away. She had answered nothing and asked nothing and kept her head on the table year after year so that nobody could reach her and nothing could be taken. And now she was being offered the ultimate connection, the end of every wall, the one thing that would mean she never had to be alone again.
 
@@ -6283,21 +6481,37 @@ Everything here was kept. Nothing here had ever begun.
 
 So she rewrote the world instead.
 
-She didn't know how. She did it anyway, the way she had once pulled a core out of a corrupted mass, past every limit, without a plan. She stood in the middle of a house that had stopped burning, holding April's hand, and she reached out through Heaven, through all the rooms, through every mind that had ever slipped outside time, and she took hold of the world, the whole frozen broken thing, and she wrote it again.
+She didn't know how. She did it anyway, the way she had once pulled a core out of a corrupted mass, past every limit, without a plan. She stood in the middle of a house that had stopped burning, holding April's hand, and she reached out through Heaven, through all the rooms, through every mind that had ever slipped outside time, for the whole frozen broken world.
+
+What came into her free hand was a book.
+
+Heaven made whatever people believed in. It had made a white room once, and a girl out of frost, and a hundred rooms of if-only. And people believed in stories. They believed a world could be written down. So Heaven gave her one to write in: a plain book with a soft cover, like a school notebook, and every page in it was blank.
+
+She thought of the other book, open on a long dark table, every page of it full, every margin scheduled in pencil all the way to the end. This one had nothing in it at all.
+
+She opened it on her knee. April took hold of her sleeve instead of her hand, and Val took her mother's pencil out of her pocket.
 
 Every other time, she had come this far and tried to take it back. Heaven was made of memory, and memory could only give back what had been, so the world had come back the same every time, and everything had happened again. This time she didn't take anything back. She gave something instead.
 
-She didn't write Tom back, or Sae, or Aoi. She couldn't. She wrote one thing, and let the rest grow from it, the way a seedling grows.
+Heaven had only ever been asked to give things back. Nobody had ever handed it something.
 
-No silence.
+She didn't write Tom back, or Sae, or Aoi. She couldn't. She wrote one thing, on the first page, in small careful letters, and let the rest grow from it, the way a seedling grows.
 
-No schedule. No loop. No one holding anything for anyone.
+*No silence is the last word.*
+
+She left every other page blank. No schedule. No loop. No one holding anything for anyone.
+
+Then she laid the pencil in the fold of the book, the way you mark your place, and let go of it. It was the last thing she had from before. It could stay before.
 
 Her first free act had ended the world. Her last gave it back.
 
 But a door that big couldn't be closed from the outside. It had to be held shut from in here.
 
-She felt it as soon as she'd done it. The new world was forming, out past the edge of the light, she could feel it coming together the way you feel the morning coming before you open your eyes. But the door was still open behind it. It would always be open, unless someone closed it. Someone had to stay outside time and close it from in here, and take everything that didn't belong in the new world with them when they did: the saints, the exos, the rage. Someone had to stay behind and hold it shut.
+She felt it as soon as she'd done it. The new world was forming, out past the edge of the light, she could feel it coming together the way you feel the morning coming before you open your eyes. But the door was still open behind it. It would always be open, unless someone closed it. Shut from out there, it would only be a door with Heaven leaning on it, the way Heaven had leaned on Hakobune for fifty years: the Falls, the frost, the wanting coming through every crack. Shut from in here, there would be nothing on the other side pushing.
+
+And someone had to keep the keys. Down in the light behind them, where Unit 12 had come to rest, the two swords were still burning, one steady and one flickering. As long as they were anywhere in the world, somebody would find a want big enough to turn them.
+
+Someone had to stay outside time and close the door from in here, and take everything that didn't belong in the new world with them when they did: the two swords, the rage, the exos and the giants and whatever had lived inside them. The saints could sleep. Nobody would come for their swords again. Someone just had to stay behind and hold it shut.
 
 Val understood. She let go of April's hand.
 
@@ -6311,7 +6525,7 @@ And last of all, out of the light, from a train that had stopped for good somewh
 
 "You've done enough," Patrick said.
 
-Sam turned and looked at him. The man who had held his crumbs for twenty years. Who had put his brushes in a closet because Sam came to his door with a look on his face. Who had been called Kane's dog in the corridors for two decades and never once complained. Who had held a key in his inside pocket until it nearly killed everyone, because Sam had said *hold*, and never said anything else.
+Sam turned and looked at him. The man who had held his crumbs for twenty years. Who had put his brushes in a closet because Sam came to his door with a look on his face. Who had been called Kane's dog in the corridors for two decades and never once complained. Who had carried a sealed folder in his inside pocket until it nearly killed everyone, because Sam had said *hold*, and never said anything else.
 
 "Patrick," Sam said. "I'm sorry. For all of it. For never telling you."
 
@@ -6321,7 +6535,7 @@ Sam looked at him for a long moment. Then he laughed, a short surprised breath o
 
 They had a little time while the new world formed.
 
-The four of them sat at the edge of the light, on nothing, together, like people waiting on a bench for a train. April sat at Val's feet with her back against Val's knees, the way she had sat on the bank of the creek, and looked out at the light, and asked what was out there. Sora held Val's hand. She didn't say much. She held it as if she were learning the shape of it, and every so often she squeezed it, as if to check it was still there. Patrick sat a little apart, at the end, with his hands on his knees, looking out at the light the way he used to look at a landscape: as if he were already working out how to paint it. With people in it, this time.
+The four of them sat at the edge of the light, on nothing, together, like people waiting on a bench for a train. April sat at Val's feet with her back against Val's knees, the way she had sat on the bank of the creek, and looked out at the light, and asked what was out there. The book lay closed on the bench between them. Sora had taken the pencil out of it, and turned it over once, and found her own tooth marks, and smiled, and kept it. With her other hand she held Val's. She didn't say much. She held it as if she were learning the shape of it, and every so often she squeezed it, as if to check it was still there. Patrick sat a little apart, at the end, with his hands on his knees, looking out at the light the way he used to look at a landscape: as if he were already working out how to paint it. With people in it, this time.
 
 After a while, without looking away from the light, Patrick said, "Valeria. Have you eaten?"
 
@@ -6397,9 +6611,53 @@ Her father smiled at her.
 
 "Ask me later," he said.
 
-Then Val went on into the new world, holding April's hand.
+Then Val walked on, out of the light, holding April's hand.
 
-The three of them stayed behind, and closed the door, and watched her go. Sora held up her pencil, like a toast. Sam waved with his whole arm, the way a man waves at a school gate when he's arrived embarrassingly early. And Patrick, at the end of the bench, lifted one hand, in a small, stiff wave.
+The three of them stayed behind, on the inside, with the swords, and closed the door, and watched her go. Sora held up the pencil, like a toast. Sam waved with his whole arm, the way a man waves at a school gate when he's arrived embarrassingly early. And Patrick, at the end of the bench, lifted one hand, in a small, stiff wave.
+
+* * *
+
+The door closed behind her without a sound.
+
+When she looked down, her hand was empty. April had gone on ahead, the way a little kid runs ahead on a path once she can see where it goes. Val didn't call after her.
+
+She was standing in a field. She knew it: the rows of dark earth at the edge of Kasumi, the heat lamps on their poles, the frost lying over everything, glittering, the way it had settled the night a girl came apart into the rows she had planted. Except there was no cold here, and the lamps weren't needed, and they burned anyway. At the end of the row, the seedling had four leaves.
+
+Out past the edge of the field, the new world was beginning. She could feel it the way you feel a morning through a curtain.
+
+She sat down at the end of the row, beside the seedling, and didn't go.
+
+She had given it to them. That was the whole thing. You didn't hand someone a world and then take a place in it. So she sat with her knees up and her arms around them, and looked at the light coming up over everything, and for the first time she could remember she didn't have to do anything next. She let herself rest. It was beautiful. She hadn't known it would be.
+
+Something came down out of the light, more falling than flying, and landed in the field with a groan of old metal.
+
+Lizzie was a wreck. One arm, one leg, the paint mostly gone. She came down onto her one knee in the rows, carefully, so as not to crush the seedling, and the capsule popped, and Maggie leaned out of it and looked down at her.
+
+"There you are," Maggie said. "Why aren't you with the ones you saved?"
+
+"That part wasn't for me."
+
+"Says who?"
+
+Val opened her mouth, and found she didn't have an answer.
+
+"You can't give somebody a world," Maggie said, "and then not be in it, kiddo. Who's going to say good morning back?"
+
+Val looked at the seedling for a long time.
+
+"Who sent you?" she asked. "Last time, somebody asked you. You told me to go find out. I did."
+
+"I know." Maggie rested her chin on the edge of the hatch. "Nobody asked me this time."
+
+She held out Lizzie's hand, palm up, in the frost.
+
+Val got up, and climbed into it, and sat in the big orange palm with her legs crossed. It was the second time Lizzie's hand had caught her. Lizzie stood up, groaning, and turned toward the morning.
+
+"We'll forget all this, won't we," Val said.
+
+"Probably." Maggie was humming already, something old, off-key. "Seventeen was getting old anyway."
+
+Somewhere on the way across the field, Val forgot. She didn't feel it go. It went the way a dream goes in the first minute after you open your eyes, and it didn't leave a hole behind.
 
 ## Epilogue: The Normal Thing to Do
 
@@ -6423,7 +6681,11 @@ He hadn't needed to test Nanami. On the first morning she had said "Good morning
 
 Nobody remembered. Not the white sky, or the ice, or the door, or the giants falling over the river. Not the port. Not the plain. Only him.
 
-He didn't know why. He had a theory, the kind you have at three in the morning: that he had gotten off a train before the end, and woken up on the frozen ground at the edge of the shaft with his eye quiet, outside Heaven, when Val rewrote the world. That he was the only one who had been inside and walked back out before the door closed. It didn't matter. He had decided, around the end of the first week, that it didn't matter.
+He didn't know why. He had a theory, the kind you have at three in the morning: that he had gotten off a train before the end, and woken up on the frozen ground at the edge of the shaft with his eye quiet, outside Heaven, when Val rewrote the world. That he was the only one who had been inside and walked back out before the door closed.
+
+That was the half that made sense. The other half came later at night, and he never said it out loud: that she had left it up to him. That everyone else had chosen in their sleep, and he was the only one awake enough to be asked. He'd said yes. He'd have said yes every time.
+
+Either way, it didn't matter. He had decided, around the end of the first week, that it didn't matter.
 
 So every morning, he walked the long way to school.
 
@@ -6489,9 +6751,9 @@ On the first bench, by the gate, a gray-haired man sat every morning with a news
 
 There was another bench, by the pond, in the sun. And most mornings, on the bench, there was a pale-haired boy eating ice cream with two friends, much too early in the day for ice cream, laughing at something one of them had said. He had chocolate on his chin. He didn't know it. His friends were about to tell him, and then decided not to, and laughed harder.
 
-It was daytime. The Moon was up, over the trees, very pale, like a fingerprint on glass.
+It was daytime. The Moon was up, over the trees, very pale, like a fingerprint on glass. It was whole. There was no crack in it anywhere. Seus still checked, most mornings.
 
-He didn't look at it. He was too busy laughing.
+The boy didn't look at it. He was too busy laughing.
 
 Seus walked past the bench every morning without stopping. The boy never looked up at him either. Once, a few weeks ago, their eyes had met, and the boy had smiled at him, politely, the way you smile at a stranger in a park, and gone back to his ice cream. Seus had walked the rest of the way to school feeling something in his chest he didn't have a name for, and had decided it was good.
 
@@ -6513,7 +6775,7 @@ In the corridor, Akari and Seus were arguing about whose fault it was that the v
 
 Seus caught Val's eye as she passed and gave her a nod, the way he had every day for a month, for no reason she could name.
 
-After lunch there was a fire drill. The school's safety officer walked them out, the way he did every term: a lean, quiet man in a gray jacket, forty or so, with a clipboard and a face that was exactly the same on both sides, with no scar anywhere on it. He counted every class out through the side doors and across the field without once raising his voice, and he didn't let anyone go back for a bag. Nobody ever got hurt on his drills. He seemed to think that was the whole point of him.
+After lunch there was a fire drill. The school's safety officer walked them out, the way he did every term: a lean, quiet young man in a gray jacket, twenty-one or so, not much older than the seniors, with a clipboard and a face that was exactly the same on both sides, with no scar anywhere on it. He counted every class out through the side doors and across the field without once raising his voice, and he didn't let anyone go back for a bag. Nobody ever got hurt on his drills. He seemed to think that was the whole point of him.
 
 At the end of the day, she waited at the school gate.
 
@@ -6583,6 +6845,10 @@ Her sister laughed, because she always did ask later, and Val always answered. I
 
 "Aunt Maggie's coming to dinner," her mother said, turning around in her seat. "She found her first gray hair this morning. She called me crying. Brace yourself."
 
+"Happy crying or sad crying?" Val said.
+
+"Both. She says it's the best thing that ever happened to her."
+
 "She's going to talk about it all night," said her father. "My sisters are coming too. They'll egg her on."
 
 "She's going to talk about it for a year," said her mother.
@@ -6605,7 +6871,7 @@ Val thought about it.
 
 Out the back window, she could see Seus at the gate, getting smaller, with his hands back in his pockets. He watched the car go all the way down the street. Then he turned and walked off the other way, up the hill, toward a narrow white gallery with a painting at the back of it. The man who painted it wasn't the man who had waved from the train. Seus knew that. He stayed the whole night anyway.
 
-Sometimes Val remembered another world, the way you remember a dream: a city built on a fallen angel, a voice in the walls of a machine, a white room, a gray car at a gate. A creek that never froze. Lanterns going out on the water, one by one. Whether she was the same girl who had lived there, nobody could say. She didn't mind.
+Sometimes Val remembered another world, the way you remember a dream: a city built on a fallen angel, a voice in the walls of a machine, a white room, a gray car at a gate. A creek that never froze. Lanterns going out on the water, one by one. It didn't leave a hole. It left a warmth, the way a cup does in your hands after you've set it down. Whether she was the same girl who had lived there, nobody could say. She didn't mind.
 
 "It's the normal thing to do," she had said once, a long time ago, in a corridor, as a performance. Now it was just true.
 
@@ -6613,9 +6879,238 @@ Sometimes Val remembered another world, the way you remember a dream: a city bui
 
 ## Appendix A: Changelog
 
+Two passes so far, newest first. Revision 2 adds the new lore (the seal, the swords, Heaven's rules, the loops, the three Aprils, the ages, the ending). Revision 1 is the earlier pass of continuity fixes and added beats; where Revision 2 changed something Revision 1 had added, the Revision 2 entry says so.
+
+### Revision 2: the new lore
+
+Tags: **S** the seal · **H** Heaven's rules · **W** the swords · **K** the key and VALERIA removed · **L** the loops and Abriel · **P** 04, Pip, Sam and the Aprils · **X** exos and Navis · **G** ages · **C** the Conclave and the world · **E** the ending · **M** smaller clarifications.
+
+Arc numbers and chapter structure are unchanged from Revision 1.
+
+#### Chapter 1: Silence in Heaven
+- **[C1]** Arc 1 ticker: added "VETERANS OF THE WARS AFTER THE WHITE SKY MARCH ON THE CAPITAL."
+- **[S3]** Arc 1: after "*He's gone soft*," a new short paragraph defines it: pilots' slang for brain death in the capsule, when a seal breaks with the pilot still linked and the mind runs out like warm wax. It doesn't say whose seal, so Ch 16 can reveal it was always the pilot's own.
+
+#### Chapter 2: The Power Plant
+- **[C1]** Arc 4 history class: the lesson now includes the wars after the white sky ("when the countries that were left fought over what was left and nobody would take the refugees").
+- **[X1]** Arc 4 manual: Alex reads *Section One. The chassis is the body. The core is the exo. The nature is who the core becomes.* "So the chassis is a shirt. Ross is wearing a shirt. Don't tell him."
+- **[S1]** Arc 6: the first seal on the page. Ross raises his seal against Palindrome ("a pane of pale light veined with frost that rang like struck glass"). Palindrome lays his bare hand on it, "which no human being should have been able to do," and its frost lines run backward. This sets up his Ch 5 seal hint.
+- **[X3]** Arc 6: Alex's arm is physically crushed by the capsule wall. The old line "Whatever happened to an exo happened, somewhere, to its pilot" is replaced with the link rule (a pilot feels the exo's wounds until the link breaks; "This wasn't that. This was steel"). Kept "Ross had made sure it was only an arm."
+- **[X2]** Interlude, Day 7: added "It had learned her. That was all assimilation was. It learned to be as quiet as she was, and then it was quiet back at her, and she got quieter."
+
+#### Chapter 3: The New School
+- **[S1]** Arc 8, Haruto's facts: seals. Every exo and every Nephil has one; no missile gets through; only a seal can break a seal, "the whole reason exos existed"; going soft is when a seal breaks with the pilot still linked.
+- **[S2]** Arc 9 river fight: the rifle rounds spark off the Nephil's seal; Val drives 04's seal against it until it cracks like ice on a pond.
+- **[S2]** Arc 12: Alex's plan says nothing breaks a seal from range except the long gun, built "to break a seal without touching it" (which is why it needs a city's power).
+- **[S2]** Arc 12: 04 raises its seal over the ridge before rolling its body over Val; the seal bends, holds, and cracks, then 04 takes the rest on its back.
+- **[S2]** Arc 12, second shot: the beam hits the Nephil's seal first, a pane of frost-light the size of a building, which cracks edge to edge before the light goes through the mask.
+- Kept "Only when it breaks" for Val's arm (link pain, not injury).
+- **[P4]** Arc 8, Haruto's facts: "a Nephil made its own winter wherever it stood, because it couldn't live in ours." (Plants the frost rule Akari quotes in Ch 15.)
+
+#### Chapter 4: Navis
+
+- **[S2]** Arc 15, first harbor fight: Seus breaks the Nephil's seal on the first pass ("a pane of pale light cracking like ice on a pond") before cutting it in half.
+- **[S2]** Arc 15, the analysts' finding: the two halves share one core *and one seal*; break it on one half and it closes again over the other, so both seals have to break at the same moment.
+- **[S2]** Arc 15, the synchronized fight: the halves rise "each behind its seal"; "Both seals rang and broke in the same instant" before the strike lands.
+- **[C2]** Stinger: added a two-line exchange showing the Testament lists events, not how they happen: "The book only says two witnesses... It never says who." / "It never does. That's what we're for."
+
+#### Chapter 5: The Dinner
+
+- **[G1]** Arc 17: Palindrome is now "twenty-one. I look about sixty, I'm told." He says "I was fourteen" at the facility; "Most of us were younger."
+- **[G1]** Arc 17: the Graft Program took "children," not teenagers, mostly orphans from the Falls. Val's night thoughts now say her father "shot children on orders."
+- **[G1]** Arc 17: Palindrome has counted Sam's fights "since I was old enough to count" (was "for twenty years").
+- **[G1]** Arc 17: after "Fewer people know that than you'd think," he adds: "If I'd killed them, I'd be him."
+- **[S4]** Arc 17: the Graft Program wanted "children whose seals were strong enough to stand in front of a Nephil on their own." His reversal shows as a coin-sized glassy pane over his palm. Val: "That was a seal." He: it's his own, turned inside out by the relic. "You think only the machines have one?" He doesn't explain.
+- **[C3]** Arc 17: "Umbral isn't the top of the ladder. It answers to the government, and the government answers to someone too."
+- **[C3]** Arc 20: "Umbral's engineers had built Proxy to take two keys."
+- **[S1]** Arc 20: "the capsule seals" becomes "the capsule's joints," so "seal" only ever means the shield.
+
+#### Chapter 6: Ask Me Later
+
+- **[K1]** Arc 23, Patrick's hangar breakdown: Sam left him a plan, not a key. New line before "You said get her in": "You gave me a folder in your own handwriting, every step, and not one page of it said why. And you said hold." "You said hold" and "Why won't you tell me everything?!" are unchanged.
+- **[W1]** Stinger: the sword's case "had come up from the lunar dig a month before him, on a shuttle with no other cargo, from under Sariel's fourth rib." That ties it to Ch 1's "EXCAVATION REACHES FOURTH RIB" ticker. The steady, unflickering flame and "There it is" are kept; the boy stays unnamed.
+
+#### Chapter 7: The Door
+
+- **[K2]** Arc 27: "the key that held the whole thing together... The key was Val." becomes "the one piece the whole thing turned on, the one piece it could see clearly. / It was Val." Arc 29: "or its purpose, or the key" becomes "or its purpose."
+- **[M1]** Arc 27, Sam's talk with Pip: Sam adds "I asked her once, the first time. What her favorite food was. She looked at the floor." Pip answers, "She looked at the floor, and you took the floor for an answer." That frames the doorway as Sam's response to her silence, not her fault, and leaves Sam's own "You were six" confession free for Ch 18.
+- **[P1]** Arc 27: new short coda after 04 is pulled back ("What it never saw was the rest of that year."). A few weeks later Sam tells Pip about the plan and asks for room in the core for "something new and small. Not him. Not the rage." Pip says "She isn't you, Sam. She's what you think your daughter needs." He knows there isn't room in a core for two of them, says yes anyway, and starts to make room. This fits the existing logic: Pip never found the hidden rage room himself, 04 still never learns that Sam changed his mind, and the coda doesn't say he did.
+
+#### Chapter 8: The Third War on Heaven, Almost
+- **[X4]** Arc 32: before Val forces the link, new line: "Navis wasn't hers. Navis was Seus's, all the way down, and it fought her like a coat that knew it had been stolen."
+- **[W2]** Arc 32: Penemue's 2044 speech now says there was a sword in Semjaza, humans pulled it out and Semjaza woke, and the sword was driven back into the fallen piece, the Root, where "it's still down there." This sets up the sword two arcs later. Also fixed a stray double quotation mark that broke his speech in two.
+- **[W2]** Arc 32: when Val tears 04's core out, the corruption (the intruder's giant half) comes with it, "black to Navis's shoulders, sinking into the blue." Val, the nephil flesh and 04's Semjaza core are now in one body, without the narration spelling it out.
+- **[X4]** Arc 32: after Navis's unanswered "Was that good?", new paragraph: she reached through Navis for what was inside 04, "and Navis was the doorway." Its core burns out behind her, and from then on the thing at the shaft is Navis's body with 04's core in it, with nothing of Navis left.
+- **[W2]** Arc 34: new beat between Trumpet Seven and the Reliquary doors melting.
+  - The Root's sword, which flickers like a flame in wind, pulls itself out, comes up the shaft through the Reliquary doors and goes for Navis's throat.
+  - It stops a few inches from Navis's neck and hangs there, trembling like a compass needle. It feels what Val wants in the white room ("Don't take her... I only just found her.").
+  - It turns, goes back down into the Root "the way a key goes into a lock," and only then do the doors melt and the Root open.
+  - Everything after (the Root, the sky, the saints, the districts) is unchanged.
+- **[S3]** Arc 34: the saints' scream now breaks pilots' seals ("the way a note goes through glass"), which is why they go soft.
+- **[S3]** Arc 34: Sae's Unit 05 "raised its seal around her instead of itself, the way it did in a fight, and its own seal went instead of hers."
+- **[W3]** Arc 35: Abriel's Sword is set against the one in the shaft. It burns "perfectly steady, like a flame that had forgotten how to flicker," has never opened anything, and "was made to shut what was open."
+- **[W3]** Arc 35: "The boy closed his eyes" now ends "and let the Sword do what it was made for." The light collapses and the seam freezes half open, as before.
+
+#### Chapter 9: After
+- **[C4]** Arc 36: 04 is now "locked down under every protocol Umbral owned" (was "the people above Umbral"). The station is Umbral's, unmanned since the Almost, with Proxy guards.
+- **[S1 term]** Arc 36: the cradle is "wrapped in restraints and frost" (was "seals"), so the word *seal* only ever means the new thing.
+- **[G2]** Arc 38: Seus's aging line is now "Their flesh keeps you, once it's in you past the skin." (was "Saint flesh keeps you, if you get far enough into it").
+- **[C4, W4]** Arc 38: Seus says the Morningstar is "Umbral's station" and the Conclave needed 04 whole because "it's the only exo anybody ever grew out of the Root, and they didn't have another one yet". Umbral, not the Conclave, froze it up there.
+- **[X5]** Arc 38: Seus now says the Navis timeline out loud: "Navis is dead. You killed him in the Almost, when you reached past him for her... That's his body, with 04's core in it. That's what they call the Beast... The one I fly is new. A blank core I woke up next to. It talks like Navis, because I haven't changed. It isn't Navis." The narrated paragraph after it is trimmed to match (no more "the night she forced her way into it").
+- **[M2]** Arc 38: "Patrick's half kept the name, and the Morningstar." Umbral is Patrick's; WAKE is Alex's.
+
+#### Chapter 10: Ararat
+- **[S2]** Arc 40: Dasha on the hollow: "No saint, no seal, either; a rifle goes straight through it, so do try not to get shot." Hollows and white units have the self cut out, so they have no seal. That's why rifles work on them and why Lantern's fights don't use seals.
+- **[M3]** Arc 41: at the first roll call: "Her unit had gone soft instead of her, Dasha had told her, the night of the Almost, and she hadn't said a word since."
+
+#### Chapter 11: Lanterns
+- **[G3]** Arc 44: Tom got the relic "when I was nine" (was nineteen), and the frost will reach his heart "by thirty. I'm twenty-four." (was forty / thirty-four). He was ten in the basement tank in 2082.
+- **[M3]** Arc 45: Sae's voice now matches Ch 8 and Ch 10: "Nearly every pilot linked that night had gone soft. Her unit had gone soft instead of her." (was "she had gone half-soft").
+
+#### Chapter 12: Ararat Falls
+- **[S1 term]** Arc 47: the Test 2075-11 stationery has "a crest on every page" (was "a seal"), so the word *seal* only ever means the new thing.
+- No seal moments added to the Ararat fight. Kuze and Gage fly hollows, which have no seal (see Ch 10).
+
+#### Chapter 13: Not the Same
+
+- **[P2]** Arc 50: Zero-Four's origin line now reads "I was recovered from the frost after the Almost. I serve Commander Moriah." (was "I was made to serve Samuel Kane. Commander Moriah serves in his place.").
+- **[P3]** Arc 51: on the first night, the concrete where Abriel stood at the roof's edge is "white with rime, in the shape of two shoes."
+- **[P3]** Arc 52: Abriel holds his own can all night; it's "furred white with frost where his fingers had been."
+- **[P3]** Arc 52: Val watches Zero-Four hold a cup of tea; a thin ring of frost comes up where her fingers are, "fainter than the frost on Abriel's cans", and fades when she puts it down.
+- **[W5]** Arc 52: Abriel's saints story now ends with "a sword in each one to keep it asleep... Nobody knows whose swords." Cut "Heaven threw them down", which said someone in Heaven acted.
+- **[M4]** Arc 52: Abriel adds that the Nephilim don't want the Root, which is "only the way in". Their fathers' want had children, "and the children think Heaven is home, because their fathers thought it would fix everything."
+- **[L1]** Arc 52: Abriel doesn't remember the girl on the Moon's face ("I've tried, every time"). He remembers only her short hair and that she'd been crying. "Who was she?" now gets "I don't know. Someone asked me, and I said yes, and I never saw her again... Maybe she looked a little like you."
+- **[W5]** Arc 53: right after "And you did this, Val," Abriel states the sword rule once, so the line is literal:
+  - Three kinds of flesh in one body make an opener, and the Root's sword goes to lock it.
+  - That night Navis held Val, what it had torn out of Penemue, and 04.
+  - The sword stopped "this far from Navis's neck."
+  - "A sword keeps a door shut, unless someone near it wants it open more... So it turned around."
+- **[W7]** Arc 53: in other loops, Abriel told her the swords could take them to the door, "open it on your terms and put everything back the way it was. I believe it, every time."
+- **[W6, W7]** Arc 53: Abriel brings the mission on the Commander's orders:
+  - After the Almost, both swords were set in the Root.
+  - Umbral then grew a body out of the Root over seven years ("the only other thing on Earth made of what 04 was made of"). It now waits in hangar zero.
+  - Patrick asked Abriel to bring Val to the swords. "Why me?" / "He didn't say. He never does."
+  - "Through the door" isn't repeated before "It's hungry."
+- **[M5]** Arc 53: new short beat. Talking (to the girl, to Alex on a radio, at the vault door) would have been easier. "The door only meant going."
+- **[W7]** Arc 53: "Patrick approved the mission" becomes "Patrick signed the mission order the next morning without asking her a single question."
+- **[C5]** Stinger:
+  - "He'll approve it... He won't ask what for" becomes "He'll sign it in the morning. He won't ask her a thing."
+  - The Testament named a role, not a man: "*One who has lost everything shall take up the arms of the fallen.*" They looked for him for eighteen years, until a boy climbed into a dying man's exo, "and all we had to do was read."
+  - Their reasoning: "Fifty-two years... Half the world in three days. And then we finished the rest of it ourselves." "Every seal on Earth is a wall. Every wall is a war waiting for a reason."
+  - "Salvation."
+  - "And after?" / "There is no after. The book ends." The last page has nothing below its last line.
+
+#### Chapter 14: The Third War on Heaven
+- **[W8]** Arc 54: Unit 12 now drops down the shaft to the Root before it climbs. The two swords stand in the Root: one flickers (the one that turned for Val in the Almost), one burns still (the one that went through Navis). Abriel: "Despair and hope. That's what they call them upstairs." and "Don't think about what you want, Val. Think about what you're going up there to give." The swords strain toward Unit 12's throat, feel Val, and give in; Unit 12 rises with a sword in each hand.
+- **[W8]** Arc 55: as Val's want to undo grows on the climb, the steady sword starts to flicker. "Unit 12 touched the seam" becomes the swords going into the seam on their own "the way keys go into a lock they were cut for", both flickering now.
+- **[W8]** Arc 55: the sky cracking is tied to seals: "She had heard it a hundred times through 04, when a Nephil's seal gave way under her hands. Now it was the whole sky."
+- **[W8]** Arc 55: new line after the falling flesh: "For fifty years the Church of the Saints had prayed for Heaven on Earth. This was what it looked like."
+- **[K3]** Arc 56: "You're the key, Val. You open the door. One of us has to walk through it." becomes "It takes three kinds of flesh and a sword that's willing. You're the human. I'm the other thing. Unit 12 is the rest. And one of us has to walk through."
+- **[L2]** Arc 56: as he dies, Abriel tells Val about the loops: every time he brought her to the swords and told her they could fix it; this time he only said "answer her", and she held on to him. "That's the only thing that's different. That's all it ever was."
+- **[W8]** Arc 56: his want changes ("I don't want it open for you anymore. I want you to answer her."), and Val notices she has stopped wanting the white room too. The second sword stops flickering, burns still again and turns the other way in the lock. The door closes on "a boy, and a sword turning the other way in the lock."
+- **[W8]** Arc 57: Seus finds both swords in the ice beside Unit 12 (one flickering, one still); the thing behind his eye goes quiet near them. This sets up Patrick's people bringing Unit 12 and the swords back for Ch 16.
+- Kept as written: the Halo exchange, Zero-Four's interception, Seus's chase, "Would you sacrifice the city for one life?" and Alex closing his hand on the switch, "See you next time around", the walk, and the ending on "Yeah. Morning."
+
+#### Chapter 15: The Settlement
+
+- **[P4]** Arc 60: planted the frost. In her first week in Kasumi everything the girl holds frosts over (rice skinned white, soup gone cold, rime on the floorboards where she stands), and Nanami warms everything twice without a word.
+- **[P4]** Arc 63: after Kōta's "You look like sisters", the frost fades as she grows more human: she sits by the creek in the steam, Nanami stops warming her bowls twice, and "nobody had noticed when" the frost stopped.
+- **[P4]** Arc 66: the tell before the explanation: she can still hold a cup, and "The tea stayed hot."
+- **[P4]** Arc 66: Akari's explanation now uses the frost rule instead of guessing about Umbral's machines. The giants "make their own winter" or this air would kill them; April did too when she came; it stopped weeks ago because "She's not one of them inside... She's a person... and a person doesn't make frost. And it's warm here." "It can't hold. It was never going to hold." stays.
+- **[P4]** Val's "take her back" line now reads "North. To the ruins. Somewhere cold enough—"; Akari's approved "It's three days, Kane... She's got one." is unchanged.
+- **[M7]** Arc 60: after Nanami's "Leave it," Val sees the icebox sheet sideways: her own questions once stopped after seven days; these didn't. "Nobody had answered this girl once, and she asked again every morning anyway, as if the silence were only weather."
+- **[X6]** Arc 64 (lanterns): after Seus's NAVIS lantern, Akari asks about "the one in your box." Seus: "That's not him... It talks like him... That's me, not him. It learned it off me, because I'm the same as I was... Navis is dead. That's what the lantern's for." (He still names the new core Navis in Ch 16, knowing.)
+- **[M6]** Arc 65: Seus admits the crush: "And I liked you. Back then... The person I liked didn't ask if I was alive. Didn't look. Not once." He knows she came to the funeral ("Alex told me. I know it's not fair."), and adds, fast: "It's not like that anymore. Just so you know."
+
+#### Chapter 16: The Fourth War on Heaven
+- **[S5]** Arc 67: Alex's briefing now reveals the seal. Every exo and every Nephil has one, "you've got one too... It's what keeps you you. It's what keeps you in." Going soft is a seal breaking, and Total Assimilation is "every seal on Earth stripped, every mind running together into one." "They call it salvation. They mean it." The old "You know how an exo assimilates to its pilot" line is cut.
+- **[W9]** Arc 67: Alex now says the door is "scarred shut" and the Conclave's book "never says how" it opens: "They'll have arranged someone." The old line "The door's been open since the Third War" is cut.
+- **[W9]** Arc 67: at midnight the scar now strains, glows and hums but doesn't split ("the light under a door"). The white units and the troops are "waiting for something." The Rite and the feeds of people rising moved to after the door opens.
+- **[X6]** Arc 68: when Seus names the new core Navis, one added line: "It wasn't him. He knew that. Navis had died in the Almost, and this was something new that had learned to talk like him, because the boy it had learned from hadn't changed."
+- **[K4]** Arc 68: the iron key, the panel in the shaft wall, the scratched VALERIA and "Val is the key" are all cut. Patrick now carries Sam's sealed folder, given "the year before the end," with "Hold this. When the time is right, you'll know." He read it once, the night after the funeral. It told him everything to do and never why.
+- **[C6]** Arc 68: Patrick, on the ledge: "It'll be worth it. It has to be."
+- **[W9]** Arc 68: Patrick goes down the ladder before Seus's fight, not after. The Root sits at the bottom with two swords in it, set back after the Third War: one flickering, one steady "since a boy with pale hair shut a door with it and died." Unit 12 waits in hangar zero's cradle above the Root. "Three kinds of flesh in one body, and a sword that was willing... He waited for the third."
+- **[W9]** Arc 68: the opening, in order:
+  - Unit 12 takes Navis, and the frost pouring from Seus's eye goes into it.
+  - The swords tear loose from the Root, fly up the shaft, stop "a hand's width" from Unit 12, feel what Patrick wants, and turn. The steady one starts to flicker.
+  - The door opens "across the sky and down the shaft at once, the same door seen from both ends," and Total Assimilation pours out.
+  - The Conclave's protest is now about Patrick descending ("You are to hold it from the shaft"), not about an unscheduled path.
+  - The swords go down beside Unit 12.
+- **[W9 / S5]** Arc 69: Val watches the door open, then the moved feeds paragraph, with the people coming apart now described as "every seal on Earth going soft at once."
+- **[K4]** Arc 69: "the narrow way Patrick's key had opened" becomes "the narrow path Unit 12 had gone down." The white units at the shaft's mouth swarm "to hold it," not "to close it."
+- **[X6]** Trimmed the naming beat to "It wasn't him. He knew that. He'd said so to a lantern. He named it anyway." so it echoes Ch 15's lantern line instead of re-explaining it.
+
+#### Chapter 17: Rooms
+- **[H1]** Arc 71: Heaven's rules, stated once:
+  - Nothing weighs anything but what it weighs to someone.
+  - It gives you what you want most, and can't tell what happened from what you wish had happened.
+  - The tell: real rooms have something wrong in them ("a crack, a scuff, a stain, frost in a corner"), wished ones are perfect and cast no shadows, and the in-between ones flicker.
+- **[W10]** Arc 72: the two swords climb the stair beside Unit 12, both flickering now. "Heaven opened... All the way" (a second opening) is replaced: the light at the top of the stair parts because "Heaven gives you what you want most, and the last child wanted home."
+- **[W10]** Arc 72: Patrick "had read the folder, every page of it, once," and now sees what he had been holding. Sam's plan now says "go through it first" instead of "take it from them" once the door is open.
+- **[H4]** Arc 72: the empty throne is now ambiguous. "There had never been anyone there" and "nobody there to answer" are cut. It now reads: "Maybe someone had been there, once, and said nothing. Maybe no one had ever been there at all. The saints had climbed this stair to ask their question, and heard nothing, and gone to war over it either way."
+- **[K5]** Arc 72: Sam's last-month memory is rewritten.
+  - Cut: the knife, the shaft panel, the rebuilt "way down," the scratched name, and "She's the key."
+  - New: he had given Patrick the folder the spring before and can't take it back without the Conclave hearing. All that last year he has been building a small curious voice beside the rage, hoping it grows big enough to sit on it.
+  - His last words are now: "So she has to grow... He'll reach in for the fire and find a little girl asking questions." / "Grow. Please."
+  - The detailed version stays in Ch 18.
+- **[W9 / X7]** Arc 73: Seus on the train: "I tore it off... The door. Everyone out there coming apart—" / Patrick: "I counted on it. I sat in the dark at the bottom of the shaft and waited for you to." This gives "You were good, Theseus. It was me." the job of lifting the blame.
+- **[X7]** Arc 73: Seus's eye is quiet "because what had lived in it was gone, carried up a stair in his father's hands."
+- **[K5]** Timeline: Sam's hangar memory is now "in the last year" (was "a month before the end"), and Patrick's "He had a month left" is now "a year left", matching Ch 18's "Sick, with a year left" and April being built over his last year.
+- **[W10]** Arc 72: when Patrick lets go of Proxy, Hope steadies again ("Its flame stood up straight and still"), so the end of Ch 19 can find one sword steady and one flickering.
+
+#### Chapter 18: Heaven
+
+- **[H2]** Arc 74: two new paragraphs after "It was the Rite." Everyone Val sees is in their perfect state, the one thing they wanted most, which the Rite gives them just before they "run into each other and be nobody." Val is awake to see it because the Rite took only those who hadn't chosen to come; the ones already there, the ones who walked in with their eyes open, and Val stay themselves.
+- **[G4]** Arc 74: Palindrome walks at the front of the Graft children and is fourteen again, "the age he had been when the program ended, before every reversal took its years out of him." Replaces "forty-one and looking it."
+- **[P5]** Arc 74: Pip's meeting gains a beat. Val asks "Why did you go?" and Pip answers: "He'd made someone else. For you. Someone small, who'd ask you things... There wasn't room for both of us. She needed to grow." Val then answers his omelette line.
+- **[K7]** Arc 75: the Patrick image in Val's realization no longer has an iron key. It's now "a man in a coat on a ledge, holding a dead man's plan for years because somebody had told him *hold*."
+- **[L1/L3]** Arc 75: the girl who asks Abriel to make Valeria happy is never identified. Her face stays turned away. "Val stood in the dark and watched herself say it" becomes "tried to see her face, and couldn't." Val asks "Is that me?" and thinks it could be her, or her mother at sixteen, or anyone. Abriel: "I never saw her face... I remember her hand. I remember what she asked." When Val takes her place, the girl leaves without looking up: "Val never saw her face. She found she didn't need to."
+- **[L3]** Arc 75: Abriel's loop speech now gives the mechanism. Each time, Val reached Heaven and asked it to take everything back, and "Heaven gives you what you want most. So it did." Each time he'd offered a fix ("A sword, a door, one more try"). "You always ask" becomes "you always ask to take it back." Val's realization adds "He didn't even remember who had asked him."
+- **[L3]** Arc 75: after "This never happened," Val feels the loop break "here first... for the one who had been here at the very start."
+- **[L3]** Arc 75: the "See you— / No. I won't, will I?" exchange is replaced. Abriel admits it: "The first time around, I'd known you a week. I loved you anyway... I chose it every time." Then he asks: "If I find you out there. After. Is that all right?" / "You don't need me to say yes. That's the whole point." "Good," said Abriel, and he meant it, still closes the scene.
+- **[H3]** Arc 77: Sora explains the drives ("They open one way. Nothing comes back through a door like that.") and states Heaven's rules: thought and memory, no physics, it does what you want if you want hard enough, it can't tell real from wished, and "The real ones always have something wrong with them. That's how you tell." Her "You can see everything. You can't touch anything" becomes "You can see everything out there. You can't touch any of it," so it doesn't contradict Heaven being shapeable.
+- **[K/C7]** Arc 77: the plan no longer makes Val "The key." It now reads "The one piece the whole thing needed."
+- **[P]** Arc 77: the new nature is "Not himself; he was careful about that," and is "shaped to whatever he thought his daughter was like, and whatever he thought she would need." He seeds it with his unasked questions, "Then he let it grow its own." Pip watches and understands what it means. "The voice ... had been her father's, all along" becomes "had never been her father. It was what her father thought she would need. And then it had become itself."
+- **[C7]** Arc 78: cut "They had steered that Fall into my district... and they knew how to make one." Replaced with the Testament naming a role: "It said someone like me would come... They didn't make me... They just watched me climb in, and recognized me, and made sure I never climbed out."
+- **[M/theme]** Arc 78: after "next time," Sam adds "You were six. Six-year-olds look at the floor. I was the grown-up. I heard you not answer and decided it meant no." New line after it: "It had never been her silence. It had been what he did with it."
+- **[K6/P5]** Arc 78: the scratched-name confession is replaced. Sam changed his mind "Sick, with a year left," couldn't reach the rage without breaking the core, and couldn't tell anyone, "So I made something else, next to it... I didn't put me in there. I'd done enough. I tried to make what you'd need... I didn't know it would go as far as it did... I just hoped she'd grow big enough to sit on the rest of it." "I made you the key to it" becomes "I built it around you."
+- **[P6]** Arc 79: the three-Aprils sentence replaces "A voice her father had written for her...": "The one Val had named in a white room. The one Heaven had built out of frost... And the one asleep in 04's core all along, starting over from nothing. Curiosity, and the want to live, and whatever came next. They had always been the same girl, the way a river is the same river."
+- **Typos:** none needed.
+
+#### Chapter 19: The Rewrite
+
+- **[S5]** The Rite is described as "every seal giving way at once." Before refusing, Val sees where it goes: everyone running together "the way a pilot runs when the seal goes," into one bright sea. "It wasn't death. Nobody in it was dead. Nobody in it was anybody... It just was."
+- **[S5]** New two-line beat: she has just seen everyone for exactly who they are; "The Conclave had given her that, without meaning to. It still wasn't the same as being with them."
+- **[E1]** The rewrite now happens in a book. Heaven makes what people believe in, and people believe a world can be written down, so it gives her a plain blank book like a school notebook. She contrasts it with the Conclave's book ("every margin scheduled in pencil all the way to the end").
+- **[E1]** She writes with her mother's pencil while April holds her sleeve. Added "Heaven had only ever been asked to give things back. Nobody had ever handed it something."
+- **[E1]** "No silence." is replaced by the written line *No silence is the last word.* Every other page is left blank ("No schedule. No loop. No one holding anything for anyone.").
+- **[E1]** She lays the pencil in the fold of the book and lets go of it: "It was the last thing she had from before. It could stay before." Kept from Revision 1: the take-it-back paragraph, "She didn't write Tom back... the way a seedling grows," and "Everything here was kept. Nothing here had ever begun."
+- **[E2]** Why the door is shut from inside: shut from outside, Heaven would still lean on it the way it leaned on Hakobune for fifty years (the Falls, the frost, the wanting). Shut from inside, nothing pushes.
+- **[E2]** "Someone had to keep the keys": the two swords, one steady and one flickering, go inside with the three. So do the rage, the exos and the giants. "The saints could sleep. Nobody would come for their swords again." Revision 1's list had "the saints."
+- **[E2]** The closing line now reads "stayed behind, on the inside, with the swords, and closed the door."
+- **[K]** Sam's view of Patrick: "held a key in his inside pocket" becomes "carried a sealed folder in his inside pocket," matching the canon of the plan plus "Hold" with no key.
+- **[E1]** On the bench, the book lies closed. Sora has taken the pencil out of it, finds her own tooth marks, smiles and keeps it. Her later "pencil" and her toast ("Sora held up the pencil") now refer to that pencil.
+- **[E3]** "Val went on into the new world" becomes "Val walked on, out of the light," so the new field scene can follow.
+- **[E3]** New scene inside Arc 80, after a scene break, about 500 words. The door closes; April has run on ahead. Val is in Heaven's version of the Kasumi field: the frost from April, lamps burning that aren't needed, the seedling now with four leaves.
+- **[E3]** She sits and doesn't go, because "You didn't hand someone a world and then take a place in it." She rests.
+- **[E3]** Lizzie lands, wrecked, and Maggie asks "Why aren't you with the ones you saved?" / "That part wasn't for me." / "Says who?" / "You can't give somebody a world, and then not be in it, kiddo. Who's going to say good morning back?" Val asks who sent her this time: "Nobody asked me this time."
+- **[E3]** Lizzie's hand carries Val toward the morning. "Seventeen was getting old anyway." Val forgets on the way, the way a dream goes, "and it didn't leave a hole behind."
+- **Typos:** light pass; nothing needed fixing.
+
+#### Epilogue: The Normal Thing to Do
+
+- **[E4]** Seus's three-in-the-morning theory gets its second half: "she had left it up to him. That everyone else had chosen in their sleep, and he was the only one awake enough to be asked. He'd said yes. He'd have said yes every time." Then "Either way, it didn't matter."
+- **[E4]** The Moon is whole: "It was whole. There was no crack in it anywhere. Seus still checked, most mornings." No explanation. The next line now reads "The boy didn't look at it" to keep the pronoun clear.
+- **[E4]** Palindrome, the safety officer, is now "a lean, quiet young man... twenty-one or so, not much older than the seniors" (was "forty or so").
+- **[E4]** Maggie's first gray hair as a light echo of choosing to live: "Happy crying or sad crying?" Val said. / "Both. She says it's the best thing that ever happened to her."
+- **[E4]** Val's dream-memory: "It didn't leave a hole. It left a warmth, the way a cup does in your hands after you've set it down." This picks up the last line of Arc 80.
+- **Typos:** light pass; nothing needed fixing.
+
+### Revision 1: continuity fixes and added beats
+
 Tags match the fix list you approved: **A** = whole-draft fixes, **B** = continuity and logic fixes, **C** = added beats, **D** = decisions and line edits.
 
-### Structure
+#### Structure
 
 | New chapter | Was | Arcs (new numbers) |
 |---|---|---|
@@ -6644,7 +7139,7 @@ Tags match the fix list you approved: **A** = whole-draft fixes, **B** = continu
 
 **Every chapter:** a KJV epigraph added under the title (D4); headings standardized; author notes and parenthetical placeholders removed (A8); light typo pass (A10).
 
-### Chapter 1: Silence in Heaven (was Ch 1)
+#### Chapter 1: Silence in Heaven (was Ch 1)
 - **[D4]** Epigraph added: Revelation 8:1.
 - **[A4]** Montage opens on a caption: "SAMUEL KANE, 2045–2082." A news ticker now mentions the colony evacuees ("COLONY EVACUEES MARK 38 YEARS ON EARTH").
 - **[A8]** Every parenthetical placeholder in Arc 1 is gone. The information now comes through the montage: the shelter poster shows the exo's size; a ticker carries Sariel ("SARIEL EXCAVATION REACHES FOURTH RIB — LUNAR FACILITY REPORTS NO ACTIVITY"); a graphic carries Umbral and Falls, and an anchor says "Nephilim"; a tour guide names the Morningstar ("Umbral's eye in the sky"); the commentator's line explains the Second War on Heaven; Hakobune is "the fortress city"; someone on the radio says "He's gone soft"; the core is described in one line ("the heart of the exo, the place where its mind lived. Sam's had a name. Pip.").
@@ -6662,7 +7157,7 @@ Tags match the fix list you approved: **A** = whole-draft fixes, **B** = continu
 - **[C1]** Patrick drives her over "in his gray car." The last paragraph adds what she hears in the dark (trains, a siren, a television) and, under all of it, a car engine idling at the end of the street until she falls asleep. In the morning it's gone.
 - **Typos:** light pass; none needed.
 
-### Chapter 2: The Power Plant (was Ch 2)
+#### Chapter 2: The Power Plant (was Ch 2)
 - **[D4]** Epigraph added: Revelation 3:15 ("neither cold nor hot"). The interlude keeps your own Revelation 8:1 line.
 - **[C2]** New opening montage of Val, written to mirror Chapter 1 and colder: captions at 9 and 11, the PR department failing (the bow, the one talk show, the paint), Unit 04 left in bare gray primer because Val says "No" to every design, headlines ("SHE NEVER SMILES. IS THAT A PROBLEM?"), and the 2087 headline "PALINDROME CAPTURED — 14-YEAR-OLD DOES WHAT HER FATHER NEVER COULD." It ends: "After a while, nobody asked her anything."
 - **[B7]** Alex is "twenty-two years old" when he arrives. On paper Patrick signed him on as Val's legal guardian, and Umbral, "which didn't read Patrick's paperwork," made Val his senior. Added the daily line *your bento's on the counter* (later chapters call back to it).
@@ -6685,7 +7180,7 @@ Tags match the fix list you approved: **A** = whole-draft fixes, **B** = continu
 - **[C4]** Arc 7's Proxy paragraph now picks up the breakfast reading, and adds "Two keys."
 - **Typos:** "Patrick moved and promoted him to mission control captain" becomes "Patrick promoted him to mission control captain." Otherwise a light pass.
 
-### Chapter 3: The New School (was Ch 3)
+#### Chapter 3: The New School (was Ch 3)
 - **[D4]** Epigraph added: Revelation 8:12 (the fourth angel; the darkening).
 - **[B26]** Haruto's facts add corruption, "basically an urban legend... because nobody had ever seen a confirmed case, and also because Umbral sealed everything."
 - **[B34]** Haruto's facts add the warp drives, test-fired exactly once, whose test pilots "had *seen things*."
@@ -6708,7 +7203,7 @@ Tags match the fix list you approved: **A** = whole-draft fixes, **B** = continu
 - **[A8]** Cut the author note "(this here is my kaworu)."
 - **Typos:** light pass; none needed.
 
-### Chapter 4: Navis (was Ch 4, plus the standalone Arc 13)
+#### Chapter 4: Navis (was Ch 4, plus the standalone Arc 13)
 - **[D4]** Added the epigraph, Revelation 11:3 (the two witnesses).
 - **[B19]** Arc 13 (The Oldest Unit) is now the chapter's cold open, under the Chapter 4 heading.
 - **[A8]** Arc 13: the parenthetical "(Azazel is the saint whose shattered body makes up the belt...)" is now in-world narration: the rock is a piece of Azazel, the stations ship it to Earth, it goes into vats and becomes exo cores, and on Harvest Nine "it was a job."
@@ -6729,7 +7224,7 @@ Tags match the fix list you approved: **A** = whole-draft fixes, **B** = continu
 - **[C9]** New stinger: the Conclave's first scene. Seven figures, one empty chair (Helen's, unexplained), the cracked Testament read like a timetable: "The two witnesses... On schedule," "The Moriah boy is placed," "The father signed. He always signs," Val's near-laugh "isn't in the book," "The fifth trumpet."
 - **Typos:** light pass; nothing needed fixing.
 
-### Chapter 5: The Dinner (was Ch 5)
+#### Chapter 5: The Dinner (was Ch 5)
 - **[D4]** Added the epigraph, Revelation 9:6 ("death shall flee from them").
 - **[Renumber]** Old Arcs 18–22 are now Arcs 17–21.
 - **[D]** Arc 17: "Even though she had been relatively not numb these past few weeks" is now "She had been less numb lately. Almost warm. But..."
@@ -6760,7 +7255,7 @@ Tags match the fix list you approved: **A** = whole-draft fixes, **B** = continu
   - The user's closing image of the gray car idling "until long after dark" is still the chapter's last line.
 - **Typos:** light pass; nothing needed fixing.
 
-### Chapter 6: Ask Me Later (was Ch 6)
+#### Chapter 6: Ask Me Later (was Ch 6)
 - **[D3/D4]** Heading reformatted; epigraph added (Revelation 10:4). Arcs renumbered 23–26 → 22–25.
 - **[C11]** Maggie stands outside the funeral gates with the three classmates. Val hands her the funeral card, and Maggie says to Seus's photo: "You've got your dad's frown. Don't let it set. It'll stick."
 - **[B23 follow-through]** Alex's summary of Seus's discovery, and Val's question to 04 on the wall, now say the nature was there "before her first session" (matches Ch 5).
@@ -6776,7 +7271,7 @@ Tags match the fix list you approved: **A** = whole-draft fixes, **B** = continu
 - **[C12]** New stinger: a pale-haired boy, unnamed, arrives by supply shuttle from the lunar facility at the crewed Morningstar. The station commander tells him his orders come from the Conclave, not Umbral, and shows him a silver unit in a cradle and the Sword in its case. The boy says "There it is," then watches one coastal city from the window.
 - **Typos:** light pass, nothing significant.
 
-### Chapter 7: The Door (was Ch 7)
+#### Chapter 7: The Door (was Ch 7)
 - **[D3/D4]** Heading reformatted; epigraph added (Revelation 4:1). Arcs renumbered 27–31 → 26–30.
 - **[A7]** "The hacker" → "the intruder" throughout.
 - **[B33]** His faded unit patch carries an old ballpoint drawing: a square-headed stick figure labeled PIP in a small child's capitals (Mio's; it pays off in Ch 8).
@@ -6792,7 +7287,7 @@ Tags match the fix list you approved: **A** = whole-draft fixes, **B** = continu
 - **[D1]** Cut Aoi's nightly visit to the hidden room with the bed, so Seus's survival stays hidden until Ch 9. The chapter still ends on "Sunday was four days away."
 - **Typos:** light pass, nothing significant.
 
-### Chapter 8: The Third War on Heaven, Almost (was Ch 8)
+#### Chapter 8: The Third War on Heaven, Almost (was Ch 8)
 - **[D3/D4]** Heading reformatted; epigraph added (Revelation 11:19). Arcs renumbered 32–36 → 31–35.
 - **[A7]** "The hacker" → "the intruder" until he names himself Penemue.
 - **[A9]** Patrick's call: cut "and holding was the only thing he still knew how to do." The paragraph ends on "Someone else had told him to hold, long ago."
@@ -6809,7 +7304,7 @@ Tags match the fix list you approved: **A** = whole-draft fixes, **B** = continu
 - **[B39]** The Morningstar's blast is now clear: a single blast from orbit stops the whole sky burning, horizon to horizon, and Unit 06 falls out of it. The Sword then stops Navis, and the seam freezes half open.
 - **Typos:** "a blast that tear the door" (rewritten under B39).
 
-### Chapter 9: After (was Ch 9; old Arc 37 is now its cold open)
+#### Chapter 9: After (was Ch 9; old Arc 37 is now its cold open)
 - **[D3/D4]** Chapter heading moved above the cold open; epigraph added (Revelation 13:3). Arcs renumbered: Morningstar 37→36, Waking 38→37, Seus 39→38, Where Is Everyone? 40→39.
 - **[A8]** Removed the author note "(In the final script, this arc stays in the boy's point of view...)".
 - **[B41]** The cold open no longer names Navis: "It wore a body he knew. Sea-blue, under the frost..." The boy's last line now reads "'Good,' the boy told it," so it's clearly said to the core.
@@ -6825,7 +7320,7 @@ Tags match the fix list you approved: **A** = whole-draft fixes, **B** = continu
 - **Copyedit:** "where the Third War, Almost had left them" → "where the Almost had left them".
 - **Typos:** light pass (nothing else needed).
 
-### Chapter 10: Ararat (was Ch 10)
+#### Chapter 10: Ararat (was Ch 10)
 - **[D4]** Heading and epigraph added (Revelation 13:17). Arcs renumbered: Point Me at Something 41→40, Lantern 42→41, The Yard 43→42, Two 44→43.
 - **[A8]** Removed the closing author note ("very different from the stories before...").
 - **[D]** "Point me at something, wield me like a weapon again" → "Point me at something," (also fixes the missing comma).
@@ -6844,7 +7339,7 @@ Tags match the fix list you approved: **A** = whole-draft fixes, **B** = continu
 - **[C17]** The morning after Dasha: Kuze starts "One. Two—", stops, crosses her off, and goes on: "Three. Five. Six. Four." Sae clicks three times; Gage has a new, paler bead on his wrist. The next sentence adjusted to "She went to the hangar steps at dusk anyway."
 - **Typos:** light pass.
 
-### Chapter 11: Lanterns (was Ch 11, Arcs 45–46)
+#### Chapter 11: Lanterns (was Ch 11, Arcs 45–46)
 - **[D3]** Old Ch 11 split in two; this chapter is the depot, the archive, and a new breather. Arcs renumbered: Depot 45 → 44, Archive 46 → 45, new Arc 46.
 - **[D4]** Epigraph added: Revelation 14:13 ("...and their works do follow them").
 - **[C19]** At the depot, Val sees the door's control box ten meters from her hollow's hand and could reach it in two steps, but waits for orders. Kuze says "Somebody get the door"; "*Somebody* wasn't a number. Val waited for hers." Tom goes instead.
@@ -6858,7 +7353,7 @@ Tags match the fix list you approved: **A** = whole-draft fixes, **B** = continu
 - **[C22, C18]** New **Arc 46: Rice**, a breather four nights after the pass. Kuze, Gage, Val, Maggie and Seus eat in hangar three from Tom's rice cooker. There are three empty crates; Kuze's roll call shrinks to "One. ... Six. Four."; Gage says the dead's names and Kuze repeats them; the rice is burnt because nobody knew Tom's trick. Maggie follows up Ch 10's formation hint without repeating it: "Except you hold formation. He never held it. Not once." She rubs her shoulder like an old scar. "Yet here I am, next to another one." Val leaves a rice ball for Seus (mirroring Tom in Ch 10); when he's gone, so is the rice ball.
 - **Typos:** light pass (none needed).
 
-### Chapter 12: Ararat Falls (was Ch 11, Arcs 47–49)
+#### Chapter 12: Ararat Falls (was Ch 11, Arcs 47–49)
 - **[D3]** New chapter heading for the second half of old Ch 11. Arc numbers unchanged (47–49).
 - **[D4]** Epigraph added: Genesis 8:4 ("...upon the mountains of Ararat").
 - **[B47]** The KANE box has a newer archive filing tag: *VESSEL REGISTRY* (the codes' shelf), initialed *P.M.* "Somebody had walked this box down into a mountain and put it on the one shelf in that vault WAKE was sure to empty."
@@ -6869,7 +7364,7 @@ Tags match the fix list you approved: **A** = whole-draft fixes, **B** = continu
 - Kept verbatim: Gage's "I still hate you... Go." and Kuze's "Val. Your name's Val... I remembered."
 - **Typos:** light pass (none needed).
 
-### Chapter 13: Not the Same (was Ch 12)
+#### Chapter 13: Not the Same (was Ch 12)
 - **[D3/D4]** Renumbered to Chapter 13; added the Revelation 2:17 epigraph (the white stone and the new name). Arc headings 50–53 unchanged.
 - **[A4]** Morningstar debris now falls "months after the station fell" (Arc 50) and "months later" (Arc 52), not "years later". The station came down in Chapter 9's cold open.
 - **[A2]** Question count fixed: "She had answered six questions in a white room" (Arc 50) and "had asked six questions and then a seventh" (Arc 52).
@@ -6884,7 +7379,7 @@ Tags match the fix list you approved: **A** = whole-draft fixes, **B** = continu
 - **[C24]** New Stinger after "Patrick approved the mission...": the Conclave's second scene. Seven readers, one low lamp, the Testament's penciled dates, and "Four-seventeen" (the directive on Test 2075-11) as the running item for "the Kane girl." They note that she asked at the top of the east tower, that the Commander will approve without asking, and that the Enoch boy holds her collar ("Sixty kilometers. He's never pressed it." / "He won't. He promised his mother."). Helen's empty, dusty chair; she went through the door herself; her one request was that her son look after the Kane girl. "We granted it." / "It suited the schedule."
 - **Typos:** light pass; nothing needed fixing.
 
-### Chapter 14: The Third War on Heaven (was Ch 13)
+#### Chapter 14: The Third War on Heaven (was Ch 13)
 - **[D3/D4]** Renumbered to Chapter 14; added the Revelation 12:7–8 epigraph ("And there was war in heaven... neither was their place found any more in heaven"). Arc headings 54–57 unchanged.
 - **[B52]** Arc 55: "Its welds still glowed from the yard" now reads "from the Vigil's hold."
 - **[D]** Arc 55: "Your orders are garbage! Your commander is garbage!" now reads "Your commander is my *father*, and he's garbage!"
@@ -6896,7 +7391,7 @@ Tags match the fix list you approved: **A** = whole-draft fixes, **B** = continu
 - **[A4]** Alex's memory of Aoi under the beam: "years later" becomes "weeks later" (she died the night of the Almost, a few weeks after the Proxy).
 - **Typos:** light pass; nothing needed fixing.
 
-### Chapter 15: The Settlement (was Ch 14)
+#### Chapter 15: The Settlement (was Ch 14)
 - **[D3/D4]** Renumbered to Chapter 15; added the epigraph (Revelation 22:2, "the leaves of the tree were for the healing of the nations"). Arcs 58-66 keep their numbers.
 - **[D] Arc 59:** cut "No will to live. Too afraid to die." The head on the table carries it.
 - **[A4] Arc 59:** trimmed two filler "seven years" (the dead garden is now dead "since the sky opened"; Akari's morphine has been saved "since the walk out"). The meaningful ones stay (Akari's seven lanterns, the question hanging seven years, Val's seven years of silence).
@@ -6912,7 +7407,7 @@ Tags match the fix list you approved: **A** = whole-draft fixes, **B** = continu
 - **[C26] Arc 66:** April's frost now contrasts with Abriel's: he went up "like snow falling in reverse," toward the Moon, and left; she comes down into the field she planted, and stays. Added: "The first April had slipped away with a question still in the air. This one hadn't... There was nothing left unsaid."
 - **Typos:** light pass. Fixed the garbled "Val hugged her, her own body begin freezing" (now "Val held her, and felt the cold come into her own arms, and didn't let go").
 
-### Chapter 16: The Fourth War on Heaven (was Ch 15, Arcs 67–70)
+#### Chapter 16: The Fourth War on Heaven (was Ch 15, Arcs 67–70)
 - **[D3]** First of four chapters split from old Ch 15. Heading renumbered; arc headings reformatted (numbers unchanged).
 - **[D4]** Epigraph added: Genesis 4:17 (Cain's city named after his son, Enoch).
 - **[A4]** Arc 68: Patrick has carried Sam's key "for fourteen years," not twenty (Sam gave it to him a month before he died in 2082).
@@ -6925,7 +7420,7 @@ Tags match the fix list you approved: **A** = whole-draft fixes, **B** = continu
 - **[C30]** Arc 70: before "I'm your hero," Val flashes on Lantern: "A seat taken on a transport. A door held up in the snow. A street held. A name remembered on the radio. None of them had been heroes. All of them had picked the seat anyway."
 - **Typos:** light pass. Restored a missing paragraph break before "The Vigil flew straight into it."
 
-### Chapter 17: Rooms (was Ch 15, Arcs 71–73)
+#### Chapter 17: Rooms (was Ch 15, Arcs 71–73)
 - **[D3]** Second of four chapters split from old Ch 15. New chapter heading; arc headings reformatted (numbers unchanged).
 - **[D4]** Epigraph added: John 14:2 ("In my Father's house are many mansions: if it were not so, I would have told you.").
 - **[B58 / A5]** Arc 72: the Proxy line no longer contradicts Ch 5 and Ch 9. Now: "From an ops room, Proxy could move a body and nothing more... To drive the rage, Patrick had to reach down into the core himself, in person."
@@ -6933,7 +7428,7 @@ Tags match the fix list you approved: **A** = whole-draft fixes, **B** = continu
 - **Protected:** the train scene, "You were good, Theseus. You were always good. It was me." and the stiff wave are untouched.
 - **Typos:** light pass; nothing needed changing.
 
-### Chapter 18: Heaven (was Ch 15, Arcs 74–79)
+#### Chapter 18: Heaven (was Ch 15, Arcs 74–79)
 - **[D3/D4]** New chapter break at Arc 74 with the heading "Chapter 18: Heaven" and the epigraph Revelation 20:12 ("And I saw the dead, small and great, stand before God; and the books were opened."). Arc numbers unchanged (74-79).
 - **[C29]** Arc 74: new short passage in the Heaven montage, after Lantern. Palindrome, with no scar, walks the Graft kids out of a corridor in the old facility, counting heads (echoing the plant workers he walked out in Ch 2), and says "You asked me why I evacuated the plant. Nobody else ever asked."
 - **[C35]** Arc 74: new short passage after Maggie. Pip, in the 2082 hangar, finally meets Val: "Hello, Valeria." He met her only once, for the link in Ch 1, when he "read" her before deleting himself. He lists what he learned (the pencil, not liking people kneeling to her, the sweet rolled omelettes) and says "He always wanted to know that. I found out too late to tell him." Then: "Good. Then we've met."
@@ -6949,7 +7444,7 @@ Tags match the fix list you approved: **A** = whole-draft fixes, **B** = continu
 - **Kept as written:** the Maggie link backstory (Arc 74); "You're not for anything. You're just Abriel."; "See you— No. I won't, will I?"; "It did. Through 04. Through April."; and "His daughter walked out of it holding a hand."
 - **Typos:** light pass. Nothing notable needed fixing.
 
-### Chapter 19: The Rewrite (was Ch 15, Arc 80)
+#### Chapter 19: The Rewrite (was Ch 15, Arc 80)
 - **[D3/D4]** Arc 80 now opens its own chapter, "Chapter 19: The Rewrite", with the epigraph Revelation 21:5 ("Behold, I make all things new"), which is ironic because the throne is empty. Arc number 80 is unchanged.
 - **[C33]** Added a reason to refuse the Rite, after "if they're you": "Everything here was kept. Nothing here had ever begun."
 - **[C32a]** Added the loop rule after "she wrote it again". Every other time, Val tried to take it back. Heaven is memory, so the world came back the same. This time she gave something instead.
@@ -6961,7 +7456,7 @@ Tags match the fix list you approved: **A** = whole-draft fixes, **B** = continu
 - **[A4]** Removed one filler "seven years" ("kept her head on the table year after year"). Kept Sam's "For seven years?", which is meaningful dialogue.
 - **Typos:** light pass; nothing needed fixing.
 
-### Epilogue: The Normal Thing to Do
+#### Epilogue: The Normal Thing to Do
 - **[D4]** Heading normalized. Added the epigraph Genesis 1:5 ("And the evening and the morning were the first day").
 - **[B60]** Nanami's first-morning greeting to Seus now happens "in the corridor outside Class 2-A, on his way past to 2-B" (she is 2-A's rep; Seus is in 2-B).
 - **[C36: habits in the meat]** At Alex's garden, after "He had both arms", Seus remembers Dasha saying it about the hollows: "You cut the mind out of a thing, and something stays anyway."
@@ -6979,50 +7474,82 @@ Tags match the fix list you approved: **A** = whole-draft fixes, **B** = continu
 
 ## Appendix B: Story Bible
 
-A quick reference for keeping the next draft consistent. Anything marked *(new)* was invented in this revision and can be changed freely.
+A quick reference for keeping the next draft consistent. Anything marked *(new)* was invented during revision and can be changed freely.
+
+### The rules in one place
+
+- **The seal.** Every living thing with a self has one: the boundary that keeps you *you*, and keeps you *in*. Saints, Nephilim, exo cores and humans all have one.
+  - Exos raise their seals as shields: a pane of pale light with frost lines running through it, which rings when struck and cracks like ice on a pond when it breaks.
+  - Guns can't get through a Nephil's seal. Only another seal can break it, which is why only exos can fight Nephilim.
+  - Nobody outside the Conclave knows humans have seals until Ch 16 (Palindrome hints at it in Ch 5).
+- **Going soft.** Pilots' slang for brain death: a pilot's seal breaking inside the capsule. The mind runs out like warm wax.
+- **Total Assimilation (the Rite).** Every seal on Earth stripped at once, and the whole world going soft together into one sea of light. It isn't death. It doesn't think or feel; it just is. "Nobody in it was anybody."
+- **Heaven.**
+  - A higher plane made of thought and memory, outside time, with no physics. It can be shaped by will and gives you what you want most.
+  - It can't tell what happened from what you wish had happened. The tell: real memories have something wrong in them; wished ones are flawless and cast no shadows; the in-between ones flicker.
+  - It touches the universe only through one door, which can't be opened or closed without a war on Heaven.
+  - The throne at the top of the stair is empty. Whether anyone ever sat on it is never answered.
+- **The swords.**
+  - Older than anyone knows. Half alive, and they answer what people want.
+  - One is driven into every saint and keeps it asleep. The Conclave files those as *swords of despair*; their cold fire flickers like a flame in wind.
+  - Sariel's sword is filed as *the sword of hope*. It burns perfectly steady, and starts to flicker when a want turns it (the Third War, the Fourth).
+  - The rule: a sword keeps a door shut, unless someone near it wants it open more. Hope does the opposite job and shuts a door that's open.
+- **The opener.** Human flesh, nephil flesh and Semjaza flesh merged in one body, with a sword as the key.
+- **Who stays awake in Heaven.** The Rite took everyone who didn't choose. Val refused it; Sam and Sora were there before it; Patrick walked in; Maggie flew in. Everyone else is seen in their perfect state, the thing they wanted most, just before they blur into one.
+- **Aging.** "Their flesh keeps you, once it's in you past the skin." Maggie (her accident), Val (04, deeper than the link) and Seus (the piece of Penemue in his eye). Graft relics don't stop aging.
 
 ### Timeline
 
 | Year | Event |
 |---|---|
+| Long ago | The First War on Heaven. The saints asked Heaven a question, heard silence, went to war and lost. The swords put them to sleep. |
 | 2031 | The Okinawa postcard is written. It reaches Aoi's office decades later. |
 | 2042 | Patrick Moriah born. |
-| 2044 | The Second War on Heaven. The Conclave uses Semjaza, under Europa's ice, as a battering ram on the door. The sky goes white for three days (the cover story is a "solar superflare"). The colonies are evacuated. A piece of Semjaza falls to Earth and becomes the Root under Hakobune. The Root sleeps for the next 45 years. |
+| 2044 | The Second War on Heaven. Humans on Europa pull the sword out of Semjaza; it wakes and forces the door. The sky goes white for three days (the cover story is a "solar superflare") and the colonies are evacuated. A piece breaks off and falls to Earth; when the sword is driven back in, it goes into that piece. The piece becomes the Root, sealed in the Reliquary under Hakobune. |
+| 2044 onward | The wars after the white sky: nations fighting over what was left, and colony refugees nobody wanted. |
 | 2045 | Samuel Kane born. |
 | ~2047 | Maggie born. |
-| 2048 | Palindrome born. |
-| 2062 | Sam, 17, pushes the dying intruder out of his capsule and takes his exo while his house burns. His sisters (6 and 4) die; the Conclave steered that Fall into his district. Big Tom born. |
+| 2062 | Sam, 17, pushes the dying intruder out of his capsule and takes 04 while his house burns. His sisters (6 and 4) die. The Testament named a role, not a man; the Conclave recognizes the role in Sam and goes along with it. |
 | ~2064 | Sam, 19, breaks formation. Maggie, 17, takes the hit, and the link closes around her and keeps her. |
 | 2067 | Patrick, 25, stops painting and becomes Sam's "guy in the chair." |
+| 2068 | Palindrome born. |
 | 2071 | Sam, 26, meets Sora Yukimura. |
+| 2072 | Big Tom born. |
 | 2073 | Val and Seus born. |
-| 2075 | Door Project Test 2075-11, signed by Helen Enoch, takes Sora. Val (2) goes to Fumi. Sam's monthly postcards and letters begin; the Conclave holds all of them. |
-| 2079 | The doorway visit: Sam (34) gives Val (6) Sora's pencil and asks her favorite food. |
-| 2081 | The fever visit (Val is 8). Tom is grafted at 19. |
-| 2082 | Sam dies at 37. Earlier that year he massacred the Graft Program children and missed one (Tom, in a tank in the basement). Pip deletes himself after linking Val. Maggie's standing order. The last postcard goes out a month before he dies. |
+| 2075 | Door Project Test 2075-11, arranged by the Conclave and signed by Helen Enoch, takes Sora through a warp drive, which opens one way only. Val (2) goes to Fumi. Sam's monthly postcards begin; the Conclave holds all of them. |
+| 2079 | The doorway visit. Sam (34) gives Val (6) Sora's pencil and asks her favorite food. She looks at the floor; he decides her silence means no. |
+| 2081 | The fever visit (Val is 8). Tom is grafted at 9. |
+| 2082 | In Sam's last year he builds April beside the rage and leaves Patrick the plan with one word: "Hold." He massacres the Graft children; Palindrome (14) reverses his shot and Tom (10) is missed in a basement tank. The Conclave, suspecting him, has been poisoning him. Sam dies at 37. Maggie's standing order. |
 | 2083 | Seus begins training overseas. |
-| 2087 | Val (14) captures Palindrome. Helen Enoch goes through the door at the Root herself and doesn't come back. |
+| 2087 | Val (14) captures Palindrome. Helen Enoch goes through the door at the Root herself. |
 | 2088 | Alex (22) arrives as Val's charge. |
-| 2089 | Part One: the plant, the new school, Navis, the dinner, the Proxy, the door, the raid, the Almost (Trumpet Seven). Aoi dies the night of the Almost. Val is sealed in Navis. |
-| 2089–2096 | The seven years. The Morningstar holds 04 in orbit, unmanned. Seus wakes after a year and a half in the basement clinic. WAKE builds the Vigil; Ararat grows. |
-| 2096 | Part Two: Maggie and Seus cut 04 loose and the Morningstar falls on Fuji. Then Ararat and Lantern, Ararat's fall, the Third War, the Settlement in Kasumi, the Fourth War, the Rite, Heaven and the Rewrite. |
-| After | The rewritten world. Only Seus remembers. |
+| 2089 | Part One. The lunar dig frees Sariel's sword, and Sariel's child wakes on the Moon. The plant, the new school, Navis, the dinner, the Proxy, the door, the raid, then the Almost (Trumpet Seven): the Root's sword obeys Val, Abriel's Hope shuts the door, and the seam freezes half open. Navis dies; Aoi dies; Val is sealed in the Beast. |
+| 2089–2096 | The seven years. Umbral grows Unit 12 from the Root and holds the Beast on the Morningstar, unmanned. Seus wakes after a year and a half and flies a new core. WAKE builds the Vigil, and Ararat grows. |
+| 2096 | Part Two. The Morningstar falls on Fuji. Ararat and Lantern, then Ararat's fall. The Third War: Hope turns, then steadies, and Abriel dies closing the door. The Settlement in Kasumi. The Fourth War: Patrick opens the door, the Rite, Heaven, and the Rewrite. |
+| After | The rewritten world. The Moon is whole and the saints are resting. Only Seus remembers. |
 
 ### Unit roster
 
 | Unit | Pilot | Notes |
 |---|---|---|
-| 00 | Zero-Four | White and unnumbered on the hull. Made to serve Sam; serves Patrick. |
-| 01 Lizzie | Maggie | Orange, first generation. The oldest unit still flying. |
+| 00 | Zero-Four | White and unnumbered on the hull. |
+| 01 Lizzie | Maggie | Orange, first generation. |
 | 02 | Hisashi Kuze | Flew off Sam's wing in the montage years. |
-| 03 | Hayashi *(new)* | Sam's other wingman. Dead; his is the oldest crossed-out name on Kuze's card. |
-| 04 | the intruder (Penemue), then Sam (PIPSTICK), then Val | Nature: Pip, then April. See the layer map. |
-| 05 | Sae Kirishima | Its nature went soft instead of her during the Almost, mid-song. She hasn't spoken since. |
-| 06 | Abriel | Dropped out of the Morningstar's blast with the Flaming Sword. "The silver one." |
-| 07 Ross | Alex | Third generation. Vented through the left arm, which is how Alex lost his. |
-| 08 Navis | Seus | Sea-blue. "Was that good?" Rebuilt; Val is sealed inside it for seven years. |
-| 12 | Abriel and Val, then Patrick | The black unit in hangar zero. |
-| hollows | WAKE pilots | White Conclave units with the mind cut out. They keep "little habits in the meat." |
+| 03 | Hayashi *(new)* | Sam's other wingman, now dead. |
+| 04 | the intruder (Penemue), then Sam (PIPSTICK), then Val | The only exo grown from Root (Semjaza) flesh. See the layer map. |
+| 05 | Sae Kirishima | Its nature went soft instead of her in the Almost, mid-song. |
+| 06 | Abriel | "The silver one." Carried Hope. |
+| 07 Ross | Alex | Third generation. Alex's arm was crushed by the capsule wall. |
+| 08 Navis | Seus | Died in the Almost. Its body plus 04's core became the Beast. |
+| "Navis" (new) | Seus | A blank core Seus assimilated after waking, in a salvaged chassis. He saved it at the Morningstar and named it Navis. Not the same being; it talks like Navis because Seus hasn't changed. |
+| 12 | Abriel and Val, then Patrick | Grown from the Root over seven years: the second Semjaza body. |
+| hollows | WAKE pilots | White units with the mind cut out. They keep "little habits in the meat." |
+
+**How exos work.**
+- The chassis is the body (a shirt anyone can wear). The core is the exo. The nature is who the core becomes.
+- A newborn core is a blank slate, and assimilation makes it a mirror of its pilot. That mirror is a feedback loop: a sad pilot makes a sad exo, which makes the pilot sadder.
+- An assimilated core has a mind of its own. It can resist another pilot and can only be replaced, never re-assimilated.
+- The link joins one exo and one pilot. Damage to the exo comes through as pain and numbness, and it's gone when the link breaks.
 
 ### Lantern Team (WAKE)
 
@@ -7032,57 +7559,74 @@ Roll call order: "One. Two. Three. Five. Six. Four." Four is called last because
 |---|---|---|
 | One | Capt. Hisashi Kuze | Rams a bomber at Ararat: "Val. Your name's Val. I remembered." |
 | Two | Dasha Orlova | Shot by a sniper on the apron, mid-sentence (Ch 10). |
-| Three | Tomoki "Big Tom" Oda | Freezes holding the depot door (Ch 11). |
+| Three | Tomoki "Big Tom" Oda | A Graft survivor, 24. Freezes holding the depot door (Ch 11). |
 | Four | Val | — |
 | Five | Sae Kirishima | Takes Val's seat on transport A (Ch 11). Her last transmission is three clicks: *I'm here*. |
 | Six | Gage Hart | "I still hate you. Go." (Ch 12). |
 
-### What's inside 04 (layer map)
+### What's inside 04 (and the three Aprils)
 
-1. **The core.** Saint flesh. "Core = self."
-2. **The intruder's trace (Penemue).** 04's first pilot. His daughter Mio named the exo Pipstick. The Conclave fused what was left of him with the giant Sam killed.
-3. **Pip.** The nature Sam's twenty years shaped. He links Val in 2089 ("Hello, Valeria." / "Link complete.") and deletes himself.
-4. **The rage room and the plan.** Sam's war on God, locked in the core, with Val as the key. It surfaces in the eleven seconds at the plant ("There you are, Samuel").
-5. **April.** The child question-voice Sam built in his last year, after he changed his mind. Six days of questions, then a seventh ("Are you a hero?"). Named in the white room.
-6. **The small new thing.** Born after "Who are you?" / "I'm your hero." It only ever asks two questions.
+1. **The core.** Root (Semjaza) flesh.
+2. **The intruder's trace (Penemue).** 04's first pilot. His daughter Mio named the exo Pipstick.
+3. **Pip.** The nature Sam shaped, a being of its own. He learned Sam's plan, then let April grow knowing he'd have to make room. He links Val in Ch 1 and deletes himself: "There wasn't room for both of us."
+4. **The rage.** Sam's plan, a weapon he built. It is not Sam.
+5. **April.** A nature Sam made in his last year, shaped to what he thought Val would need. It is not Sam's consciousness.
 
-The three Aprils (April, Zero-Four, and the small new thing) merge in Heaven.
+**The three Aprils** are all 04:
+- **April 1:** the nature Val named in the white room.
+- **April 2 (Zero-Four):** a frost body Heaven built in the Almost because Val wanted April back. She has April's face (with a bit of Sam's in it) and none of April's memories. Her mind is human, so the more human she becomes, the less frost she makes, and she melts away in warm Kasumi.
+- **April 3:** 04's core starting over from nothing ("Who are you?" / "I'm your hero").
+
+They merge in Heaven. In the new world, Val's little sister is named April.
+
+### The loops
+
+- The world has played these years over countless times, and only Abriel remembers. He can't remember who first asked him to make Valeria happy.
+- Each loop ended with Val in Heaven asking for it all to be taken back, and Heaven, which gives you what you want most, gave her a restart. Each time, Abriel offered her a fix.
+- This time he told her to answer April. Dying in her arms, he understood the difference, and his changed want closed the door.
+- In Heaven the lunar dawn breaks his loop first.
 
 ### Glossary
 
-- **Link:** the first connection between pilot and core.
-- **Assimilation:** the slow, multi-session growing-together of pilot and exo. Going soft is assimilation's end.
 - **Sync:** live connection strength, a percentage.
-- **Nature:** an exo's personality, shaped by its pilot. The taboo: an exo must never influence its pilot.
-- **Going soft:** brain death in the capsule. Most pilots last about five years.
-- **Proxy:** mission control drives a unit through what's left of its nature. It needs two keys, the commander's and a second officer's. It can move a body at a distance; driving the rage means reaching into the core in person.
+- **Proxy:** mission control drives a unit through what's left of its nature, using two keys. It can move a body at a distance; driving the rage means reaching into the core in person. Umbral built it.
 - **Halo:** WAKE's kill collar. Alex holds the trigger; range 60 km.
-- **Trumpets:** alert levels. Three is a Fall over water; Four is the darkening; Seven is declared in the Almost.
+- **Trumpets:** alert levels. Three is a Fall over water, Four is the darkening, and Seven was declared in the Almost.
 - **Fall:** a Nephil coming down.
-- **Nephilim:** the saints' children, born in their fathers' graves and falling toward the Root to get home.
-- **Saints:** Sariel (inside the Moon), Azazel (shattered into the asteroid belt and harvested for cores, e.g. Harvest Nine), Semjaza (Europa). They asked Heaven a question, got no answer, went to war, and lost. The Testament calls them devils.
-- **Saint flesh keeps you:** the aging rule. It covers Maggie, Seus, Val and Tom.
-- **Jinn:** street slang for people grafted with saint relics. Grafting carried on, on the black market, after the Graft Program closed.
-- **Corruption:** frost-veined infection of exo tissue. Haruto calls it "basically an urban legend."
-- **The Conclave:** seven old men and women at a long table in a room with no windows, reading the Testament like a train timetable. Directive 4-17 is their running item on the Kane line *(new)*.
-- **The Rite / Total Assimilation:** the Conclave's goal of every mind on Earth pulled through the door into one.
-- **The Almost:** the 2089 near-Rite. It left the seam half open and whole districts hanging upside down.
-- **Heaven:** made of memory, outside time. The throne is empty.
+- **Nephilim:** the saints' children, made by the saints' want to get into Heaven. They think Heaven is home.
+- **Saints:** Sariel (inside the Moon), Azazel (shattered into the belt; every exo but 04 and 12 is grown from it), and Semjaza (Europa; the leader, and the only one that can open the door). The Testament calls them devils.
+- **Jinn:** street slang for people grafted with saint relics.
+- **Corruption:** frost-veined infection of exo tissue.
+- **Umbral:** a military branch under the country's government. After the Almost it is Patrick's, and it still owns the Morningstar.
+- **WAKE:** Alex's force after the Almost.
+- **The Conclave:** a shadow body above all of them.
+  - They want salvation through Total Assimilation: every war on Heaven ends a world, people kill each other in between, and the seals are where loneliness and war begin.
+  - They can't control people or events; they arrange roads.
+  - Their Testament lists events, not how they happen. It ends at the Rite: "There is no after."
+- **The warp drives:** built around the Root, a crack leaning on the one door. They open one way only.
+- **The wars on Heaven:**
+  - First: the saints, long ago.
+  - Second: 2044.
+  - The Almost: 2089.
+  - Third: 2096, Unit 12 and Hope.
+  - Fourth: 2096, Patrick.
 
 ### Places
 
-- **Hakobune:** the ark city, built over the Root. Headquarters, the Reliquary (its doors grown over with frost), Hakobune Municipal No. 3 (Class 2-A), the harbor, Hakobune Central station.
-- **The Morningstar:** an orbital gun station. It comes down on Mount Fuji in 2096, and Fuji burns on the horizon a long time after.
+- **Hakobune:** the ark city, built over the Root. It has headquarters, the Reliquary, Hakobune Municipal No. 3 (Class 2-A), the harbor and Hakobune Central station.
+- **The Morningstar:** Umbral's orbital gun station. It comes down on Mount Fuji in 2096, and Fuji burns a long time after.
 - **Ararat:** WAKE's caldera town around the Vigil.
-- **The Vigil:** WAKE's flying ship, grown wings and all.
-- **Kasumi:** the hot-spring valley where the Settlement grows. Nanami walked 112 people out of the city to it.
-- **Fumi's house:** a narrow house on the east side of Hakobune with a persimmon tree. The letters went "c/o Fumi Takada" *(new surname)*.
+- **The Vigil:** WAKE's flying ship.
+- **Kasumi:** the warm hot-spring valley where the Settlement grows. Nanami walked 112 people out of the city to it.
+- **Fumi's house:** a narrow house on the east side of Hakobune with a persimmon tree. Letters went "c/o Fumi Takada" *(new surname)*.
 
-### Small canon details to keep straight
+### Themes to keep straight
 
-- **The pencil:** scuffed metal, with the Space Transit Research Division logo worn half off and Sora's tooth marks near the end.
-- **Patrick:** the gray car at the gate, sweet canned coffee, the long way along the harbor, "Eat something."
-- **Sam's letters:** about 80–90, every month from 2075 until a month before he died. The box label reads KANE, S. — OUTGOING — HOLD. Patrick filed it beside the codes (the tag is initialed P.M.).
-- **Helen Enoch's chair** at the Conclave's table stays empty after 2087. Her last request was that Alex look after the Kane girl.
-- **Maggie's older order:** "When they put the Moriah boy next to the Kane kid, they're starting. Go." She only ever calls its author "a friend."
-- **Sae's tap code:** two clicks mean *contact*; three mean *I'm here*.
+- **Silence and how you answer it.** The saints answered Heaven's silence with war. Sam answered a six-year-old's silence by staying away. April 2 kept asking anyway; the icebox tally reads four hundred and something under QUESTIONS and nothing under ANSWERS.
+- **Val's line in Heaven's book:** "No silence is the last word." She writes it with her mother's pencil and leaves the pencil, and the past, in the book; Sora, who stays behind, keeps it. The Testament had every page scheduled; her book has one line.
+- **Choice versus obligation.**
+  - Patrick held "Hold."
+  - Abriel held a request from a face he can't remember.
+  - Maggie came for Val at the end because "Nobody asked me this time."
+  - Seus chose to remember.
+- **Left open on purpose:** whether the people in the new world are the same people, and whether anyone ever sat on the throne.
