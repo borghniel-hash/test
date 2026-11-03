@@ -180,9 +180,11 @@ Waiting. Or not waiting. That was up to them now.
 
 The districts that had hung upside down over the city for seven years had come down while she was gone. Somebody had set them down, gently, still upside down, in the frost, the way you put toys away when you don't know which way up they go. A school sat on its roof with its playground in the air. A street of houses lay with its gardens on top, the trees hanging down into the gray.
 
+Across the shaft, the Vigil lay broken over the ruins where it had come down, black now, not burning anymore, with the frost already growing over it like moss. She didn't look at it for long.
+
 There were no exos anywhere. No white units. No Beast. Nothing at the bottom of the shaft but cold.
 
-Lizzie lay at the edge of the shaft, one-armed, one-legged, her paint almost gone, with her hatch open and nobody in her. A line of small boot prints went away from her across the frost, south, toward the hills. They didn't come back.
+Lizzie was gone too. Where she had gone down at the edge of the shaft, there was only a long scrape in the frost, and in the middle of it the shape of a capsule seat, pressed into the ice, empty. A line of small boot prints went away from it across the frost, south, toward the hills. They didn't come back.
 
 Val looked at them for a long time. Nobody had asked Maggie to go, she thought. Nobody had asked her to stay.
 
