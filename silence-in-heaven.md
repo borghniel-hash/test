@@ -5313,7 +5313,7 @@ She stopped.
 
 When she looked back, he was standing at the dead console in the red light, with his one hand on it, and his face was doing something she had never seen it do. It was coming apart. Not like the people under the door, gently. All at once.
 
-"There's no time," he said, "so just listen. Seus. I got him out. Not you, not Umbral, not luck. Me and Aoi. After the port, his vitals spiked, once, I saw it. We took him. Aoi signed the report that said *unrecoverable* so nobody would come looking, and we kept him in a room under headquarters that wasn't on any map, and every night one of us sat with him. For months. She sat with him more than I did." He was talking fast, too fast, the words falling over each other. "When the sky opened, she went down to get him out, and the ceiling came down on her, and she told me to take him. So I took him. I carried him up eleven floors. I went back for her and the stairs were gone." His voice broke and he kept going through it. "She's still down there. Under the ruins. Lieutenant Sena. Aoi. You never saw her face. She saw yours every day."
+"There's no time," he said, "so just listen. Seus. I got him out. Not you, not Umbral, not luck. Me and Aoi. After the port, his vitals spiked, once, I saw it. We took him. Aoi signed the report that said *unrecoverable* so nobody would come looking, and we kept him in a room under headquarters that wasn't on any map, and every night one of us sat with him. For months. She sat with him more than I did." He was talking fast, too fast, the words falling over each other. "When the sky opened, she went down to get him out, and the ceiling came down on her, and she told me to take him. So I took him. I carried him up eleven floors. I went back for her and the stairs were gone." His voice broke and he kept going through it. "She's still down there. Under the ruins. Lieutenant Sena. Aoi. You knew her voice. You knew her at the postcard wall. You never knew she sat with him every night."
 
 The ship shuddered. Somewhere aft, something tore.
 
@@ -5329,7 +5329,7 @@ She didn't move. She didn't breathe.
 
 Val stood in the hatchway with the trigger in her fist.
 
-Somewhere, later, she would be angry. She knew that. She would be angry about the box, and the desk, and the months, and the fire in Ararat, and a woman under four floors of rubble whose face she had never seen. She would be angry in the way you're only angry at people who could have done better, because they mattered.
+Somewhere, later, she would be angry. She knew that. She would be angry about the box, and the desk, and the months, and the fire in Ararat, and a woman under four floors of rubble who had once taught her to roll an omelette. She would be angry in the way you're only angry at people who could have done better, because they mattered.
 
 But not now. Because he had told her. After a year of saying nothing, of talking to her only through lieutenants and trays and switches, with the ship coming apart around them and the world coming apart around the ship, he had finally said it. All of it. Out loud. With words. The way Maggie had said someone had to, eventually.
 
@@ -6914,6 +6914,8 @@ The door to Heaven is never a physical thing. It opens in the air above whatever
 - **[W]** Arc 68: Unit 12 takes what pours out of Seus's eye, goes back down the shaft to the Root, and the swords merge into it. The door opens "right above Unit 12, deep in the shaft... straight up the shaft and out of the ruins and along the old scar to the top of the sky."
   - This replaces "across the sky and down the shaft at once" and the second path of light. The "way down" that Maggie and the Vigil follow is now the bottom of the same door.
 - **[W]** The Conclave's line now reads "Going through is not on the schedule." Unit 12 enters the light "with the two swords burning inside it."
+
+- **[fix]** Arc 69: Alex's confession no longer says Val "never saw" Aoi's face (she met Aoi at the postcard wall and learned tamagoyaki from her). It now reads "You knew her voice. You knew her at the postcard wall. You never knew she sat with him every night," and the narration calls Aoi the woman "who had once taught her to roll an omelette."
 
 #### Chapter 17: Rooms
 - **[W]** Arc 72: the swords burn inside Unit 12 on the stair, and Hope steadies "inside Unit 12" when Patrick lets go.

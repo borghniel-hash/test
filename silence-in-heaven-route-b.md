@@ -398,7 +398,7 @@ She stopped.
 
 When she looked back, he was standing at the dead console in the red light, with his one hand on it, and his face was doing something she had never seen it do. It was coming apart. Not like the people under the door, gently. All at once.
 
-"There's no time," he said, "so just listen. Seus. I got him out. Not you, not Umbral, not luck. Me and Aoi. After the port, his vitals spiked, once, I saw it. We took him. Aoi signed the report that said *unrecoverable* so nobody would come looking, and we kept him in a room under headquarters that wasn't on any map, and every night one of us sat with him. For months. She sat with him more than I did." He was talking fast, too fast, the words falling over each other. "When the sky opened, she went down to get him out, and the ceiling came down on her, and she told me to take him. So I took him. I carried him up eleven floors. I went back for her and the stairs were gone." His voice broke and he kept going through it. "She's still down there. Under the ruins. Lieutenant Sena. Aoi. You never saw her face. She saw yours every day."
+"There's no time," he said, "so just listen. Seus. I got him out. Not you, not Umbral, not luck. Me and Aoi. After the port, his vitals spiked, once, I saw it. We took him. Aoi signed the report that said *unrecoverable* so nobody would come looking, and we kept him in a room under headquarters that wasn't on any map, and every night one of us sat with him. For months. She sat with him more than I did." He was talking fast, too fast, the words falling over each other. "When the sky opened, she went down to get him out, and the ceiling came down on her, and she told me to take him. So I took him. I carried him up eleven floors. I went back for her and the stairs were gone." His voice broke and he kept going through it. "She's still down there. Under the ruins. Lieutenant Sena. Aoi. You knew her voice. You knew her at the postcard wall. You never knew she sat with him every night."
 
 The ship shuddered. Somewhere aft, something tore.
 
@@ -414,7 +414,7 @@ She didn't move. She didn't breathe.
 
 Val stood in the hatchway with the trigger in her fist.
 
-She should have felt it. She knew that. The box, and the desk, and the months, and the fire in Ararat, and a woman under four floors of rubble whose face she had never seen. A year ago it would have gone straight through her. Two months ago, in a kitchen in Kasumi, it would have.
+She should have felt it. She knew that. The box, and the desk, and the months, and the fire in Ararat, and a woman under four floors of rubble who had once taught her to roll an omelette. A year ago it would have gone straight through her. Two months ago, in a kitchen in Kasumi, it would have.
 
 Now it only went onto the list. Aoi. The box. The postcards, every month, burning. A signature on a test. She stood in the hatchway and filed each one away, neatly, the way you pack for a trip, because every one of them was a thing she was going to take back.
 
@@ -976,7 +976,7 @@ Nobody was talking now.
 
 She lay there with her cheek on her arm and thought about all of them.
 
-She had been too late. That was the shape of it, when she looked at it straight. She had been late for every one of them. She had been late to Seus in the port, standing there with her hands down until a man in a command chair chose for her. She had been late to April in the white room, holding her and not able to say yes until the light had already gone. She had been late to Tom, waiting for her number while the door came down. Late to Sae, who had read the ridge on a map and taken her seat. Late to Aoi, whose face she had never seen, who had kept a box for her with soup and a note on it and never got her Sunday. Late to Alex, by one second, two, in a red room, with a word she couldn't find.
+She had been too late. That was the shape of it, when she looked at it straight. She had been late for every one of them. She had been late to Seus in the port, standing there with her hands down until a man in a command chair chose for her. She had been late to April in the white room, holding her and not able to say yes until the light had already gone. She had been late to Tom, waiting for her number while the door came down. Late to Sae, who had read the ridge on a map and taken her seat. Late to Aoi, who had taught her to roll an omelette and never told her what else she was doing, who had kept a box for her with soup and a note on it and never got her Sunday. Late to Alex, by one second, two, in a red room, with a word she couldn't find.
 
 *Late,* Maggie had said, on a pavement three streets from the school gate, the day they met. As if it were an apology.
 

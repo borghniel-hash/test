@@ -396,7 +396,7 @@ The bay was empty. Above them the open doors poured light. Unit 04 hung half out
 
 She stood over him and didn't move.
 
-"Seus. I got him out. Not you, not Umbral, not luck. Me and Aoi. After the port, his vitals spiked, once, I saw it. We took him. Aoi signed the report that said *unrecoverable* so nobody would come looking, and we kept him in a room under headquarters that wasn't on any map, and every night one of us sat with him. For months. She sat with him more than I did." He was talking fast, too fast, the words falling over each other, and his breath was wrong. "When the sky opened, she went down to get him out, and the ceiling came down on her, and she told me to take him. So I took him. I carried him up eleven floors. I went back for her and the stairs were gone." He shut his eyes. "She's still down there. Aoi. You never saw her face. She saw yours every day."
+"Seus. I got him out. Not you, not Umbral, not luck. Me and Aoi. After the port, his vitals spiked, once, I saw it. We took him. Aoi signed the report that said *unrecoverable* so nobody would come looking, and we kept him in a room under headquarters that wasn't on any map, and every night one of us sat with him. For months. She sat with him more than I did." He was talking fast, too fast, the words falling over each other, and his breath was wrong. "When the sky opened, she went down to get him out, and the ceiling came down on her, and she told me to take him. So I took him. I carried him up eleven floors. I went back for her and the stairs were gone." He shut his eyes. "She's still down there. Aoi. You knew her voice. You knew her at the postcard wall. You never knew she sat with him every night."
 
 The ship shuddered. Somewhere aft, something tore.
 
@@ -836,7 +836,7 @@ It rose. Out of the frost of the whole world, out of every person coming apart i
 
 It had April's face.
 
-Then it had Nanami's. Then Aoi's, which Val had never seen, and knew anyway. Then her mother's, with the short hair. Then her own, at nine, at a desk, with its eyes closed. It changed every time someone else's voice went into it, and someone else's voice was always going into it, so it never stopped changing, but it always came back to April's.
+Then it had Nanami's. Then Aoi's, warm, with a pen stuck through her hair. Then her mother's, with the short hair. Then her own, at nine, at a desk, with its eyes closed. It changed every time someone else's voice went into it, and someone else's voice was always going into it, so it never stopped changing, but it always came back to April's.
 
 It reached up. The white units let go. And the giant closed its hands around Unit 04, very gently, the way April had once held a baby in a kitchen in Kasumi, and lifted it out of the ring, and held it against its chest.
 
